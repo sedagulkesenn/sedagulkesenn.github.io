@@ -356,7 +356,7 @@
             $(document.body).on('appear', '.pie-chart-style-02', function (e) {
                 $('.pie-chart-style-02').easyPieChart({
                     easing: 'easeOutCirc',
-                    barColor: '#ff214f',
+                    barColor: '#002fa7',
                     trackColor: '#c7c7c7',
                     scaleColor: false,
                     scaleLength: 1,
@@ -378,7 +378,7 @@
             $(document.body).on('appear', '.pie-chart-style-03', function (e) {
                 $('.pie-chart-style-03').easyPieChart({
                     easing: 'easeOutCirc',
-                    barColor: '#ff214f',
+                    barColor: '#002fa7',
                     trackColor: '',
                     scaleColor: false,
                     scaleLength: 1,
