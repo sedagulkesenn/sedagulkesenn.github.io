@@ -3879,8 +3879,11 @@ aside .instafeed-grid.gutter-extra-large, footer .instafeed-grid.gutter-extra-la
   display: none;
 }
 
+.bg-opacity-80{
+    background-color:rgba(255,255,255,0.8)
+}
 
-.text-justify-custom {
-  text-align: justify;
-  text-align-last: left; /* keep last line aligned left */
+
+.h-full{
+    height:100%;
 }
