@@ -27,7 +27,7 @@ if( ! empty( $_POST['email'] ) ) {
 		<body>
 		<table width="50%" border="0" align="center" cellpadding="0" cellspacing="0">
 		<tr>
-		<td colspan="2" align="center" valign="top"><img style="margin-top: 15px;" src="http://www.yourdomain.com/images/logo-email.png" ></td>
+		<td colspan="2" align="center" valign="top"><img style="margin-top: 15px;" src="" ></td>
 		</tr>
 		<tr>
 		<td width="50%" align="right">&nbsp;</td>
@@ -105,7 +105,7 @@ if( ! empty( $_POST['email'] ) ) {
 		$mail->Username = 'sedagulkesen@gmail.com'; // Your Username
 		$mail->Password = 'dbff zldw jxmh afbh'; // Your Password
 		$mail->SMTPSecure = 'ssl'; // Your Secure Connection
-		$mail->Port     = 587; // Your Port
+		$mail->Port     = 465; // Your Port
 		$mail->setFrom( $from, $name );
 		
 		foreach( $toemailaddresses as $toemailaddress ) {
