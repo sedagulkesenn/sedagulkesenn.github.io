@@ -100,6 +100,8 @@ if( ! empty( $_POST['email'] ) ) {
 		$mail = new PHPMailer\PHPMailer\PHPMailer();
 
 		$mail->isSMTP();
+		$mail->SMTPDebug  = 1; // enables SMTP debug information (for testing)
+
 		$mail->Host     = 'smtp.gmail.com'; // Your SMTP Host
 		$mail->SMTPAuth = true;
 		$mail->Username = 'sedagulkesen@gmail.com'; // Your Username
