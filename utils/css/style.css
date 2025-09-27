@@ -3887,3 +3887,14 @@ aside .instafeed-grid.gutter-extra-large, footer .instafeed-grid.gutter-extra-la
 .h-full{
     height:100%;
 }
+
+/* Navbar horizontal text*/
+.navbar-horizontal-text{
+    position: absolute;
+    top:60%;
+    right:10px;
+    left:0;
+    transform: rotate(-90deg);
+    transform-origin: center;
+    white-space: nowrap;
+}
