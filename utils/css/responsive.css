@@ -1292,7 +1292,7 @@
 
 @media (max-width: 1199px) {
     .panel-group * { transition-timing-function: none; -moz-transition-timing-function: none; -webkit-transition-timing-function: none; -o-transition-timing-function: none; transition-duration: 0s; -ms-transition-timing-function: none; -moz-transition-duration: 0s; -webkit-transition-duration: 0s; -o-transition-duration: 0s; }
-    section {padding: 90px 0}
+    section {padding: 70px 0}
 
     /* typography */
     h1, h2, h3, h4, h5, h6 {margin:0 0 22px; padding:0; letter-spacing: 0; font-weight: 400;}
