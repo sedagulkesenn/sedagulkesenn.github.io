@@ -1,0 +1,55 @@
+redirectsOrigin = "inline"
+headers = []
+
+[functions]
+
+[functions."*"]
+
+[[plugins]]
+origin = "ui"
+package = "netlify-plugin-cloudinary"
+pinned_version = "1"
+
+[plugins.inputs]
+
+[build]
+publish = "/Users/macbookpro/Desktop/sedagulkesenn.github.io"
+publishOrigin = "default"
+
+[build.environment]
+
+[build.processing]
+
+[build.processing.css]
+
+[build.processing.html]
+
+[build.processing.images]
+
+[build.processing.js]
+
+[build.services]
+
+[[redirects]]
+from = "/images/*"
+to = "https://res.cloudinary.com/dpenjprjz/image/fetch/f_auto,q_auto/https://lopeseco.netlify.app/cld-assets/images/:splat?_a=BBFAAAAA0"
+status = 302.0
+force = true
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
+
+[[redirects]]
+from = "/cld-assets/images/*"
+to = "/images/:splat"
+status = 200.0
+force = true
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
