@@ -107,7 +107,7 @@ if( ! empty( $_POST['email'] ) ) {
 		$mail->Username = 'sedagulkesen@gmail.com'; // Your Username
 		$mail->Password = 'dbff zldw jxmh afbh'; // Your Password
 		$mail->SMTPSecure = 'ssl'; // Your Secure Connection
-		$mail->Port     = 465; // Your Port
+		$mail->Port     = 587; // Your Port
 		$mail->setFrom( $from, $name );
 		
 		foreach( $toemailaddresses as $toemailaddress ) {
