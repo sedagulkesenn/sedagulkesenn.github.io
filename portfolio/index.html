@@ -1293,14 +1293,9 @@
   <script>
     document.addEventListener("DOMContentLoaded", () => {
       const imgs = document.querySelectorAll("img.blur-up");
-
-      console.log('imgs', imgs)
-
       imgs.forEach(img => {
         const fullImg = new Image();
-        console.log('fullImg', fullImg,'img.dataset.full',img.dataset.full)
-        fullImg.src = img.src.replace('e_blur:200/', ''); // Assuming the full image URL is the same without the blur effect
-
+        fullImg.src = img.src;
         fullImg.onload = () => {
           img.src = fullImg.src;
           img.classList.add("loaded");
