@@ -3904,3 +3904,14 @@ aside .instafeed-grid.gutter-extra-large, footer .instafeed-grid.gutter-extra-la
     transform-origin: center;
     white-space: nowrap;
 }
+/* Blur-up effect */
+.blur-up {
+      filter: blur(20px);
+      transition: filter 0.6s ease-out;
+      background-color: pink;
+}
+
+.blur-up.loaded {
+      filter: blur(0);
+}
+
