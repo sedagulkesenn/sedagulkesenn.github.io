@@ -32,12 +32,14 @@
     fullImg.onload = () => {
       img.src = fullImg.src;
       img.classList.add("loaded");
-      img.src = cleanUrl(img.src);
 
       loadedCount++;
       if (loadedCount === imgs.length && loader) {
         loader.classList.add("d-none");
       }
+
+      img.src = cleanUrl(img.src);
+
     };
 
     fullImg.onerror = () => {
@@ -51,7 +53,7 @@
 
 
 function cleanUrl(url) {
-  const regex = `/e_blur:200%2Cq_auto%2Cf_auto%2Cw_330%2Ch_440`; // hosting
-  // const regex2 = `/e_blur:200,q_auto,f_auto,w_330,h_440`; // local testing
+  const regex = `/e_blur:200%2Cq_auto%2Cf_auto%2Cw_20%2Ch_20`; //hosting
+  // const regex = `/e_blur:200,q_auto,f_auto,w_20,h_20`; // local testing
   return url.replace(regex, '');
 }})(jQuery);
