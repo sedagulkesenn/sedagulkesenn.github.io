@@ -55,5 +55,5 @@
 function cleanUrl(url) {
   const regex = `/e_blur:200%2Cq_auto%2Cf_auto%2Cw_20%2Ch_20`; //hosting
   // const regex = `/e_blur:200,q_auto,f_auto,w_20,h_20`; // local testing
-  return url.replace(regex, '');
+  return url.replace(regex, '/w_1000,f_auto,q_auto');
 }})(jQuery);
