@@ -2867,7 +2867,7 @@
     nav.navbar.bootsnav.sidebar-nav .nav.navbar-left-sidebar li a, .sidebar-part2 nav.navbar.bootsnav .nav.navbar-left-sidebar li a {border-bottom: 0 !important;}
     nav.navbar.bootsnav.sidebar-nav .nav.navbar-left-sidebar .dropdown.open .second-level,nav.navbar.bootsnav.sidebar-nav .nav.navbar-left-sidebar .dropdown.open .second-level .dropdown .third-level, .sidebar-part2 nav.navbar.bootsnav .nav.navbar-left-sidebar .dropdown.open .second-level, .sidebar-part2 nav.navbar.bootsnav .nav.navbar-left-sidebar .dropdown.open .second-level .dropdown .third-level {display:block !important; left: 0; width: 100%; height: auto; visibility: visible; opacity: 1 !important; background: transparent; padding: 0 0 0 8px !important}
     header .sidebar-part2 nav.navbar.bootsnav li.dropdown ul.dropdown-menu > li a:hover {border: 0; color: #002fa7}
-    .sidebar-part1 { position: inherit; width: 50px; float: left; }
+    .sidebar-part1 { position: inherit; width: 170px; top:12px; }
     .sidebar-part3 { position: absolute; right: 0; bottom: inherit; top: 0; }
     .left-nav { height: 50px; width: 100%;}
 
@@ -5649,7 +5649,7 @@
     .swiper-button-prev.swiper-prev-style3 {left: 50%; margin: 0 0 0 -85px;}
 
     /* left nav */
-    .sidebar-part1, .bottom-menu-icon {width: 50px}
+    .sidebar-part1, .bottom-menu-icon {width: 150px}
     .bottom-menu-icon {padding: 8px 15px;}
 
     /* testimonial-style2 */
