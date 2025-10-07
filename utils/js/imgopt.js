@@ -38,7 +38,7 @@
         loader.classList.add("d-none");
       }
 
-      // img.src = cleanUrl(img.src);
+      img.src = cleanUrl(img.src);
 
     };
 
@@ -52,9 +52,9 @@
 });
 
 
-// function cleanUrl(url) {
-//   const regex = `/e_blur:200%2Cq_auto%2Cf_auto`; //hosting
-//   const regex = `/e_blur:200,q_auto,f_auto`; // local testing
-//   return url.replace(regex, '/w_1000,f_auto,q_auto');
-// }
+function cleanUrl(url) {
+  const regex = `/e_blur:200%2Cw_800%2Cq_auto%2Cf_auto`; //hosting
+  // const regex = `/e_blur:200,q_auto,f_auto`; // local testing
+  return url.replace(regex, '/w_800%2Cq_auto%2Cf_auto');
+}
 })(jQuery);
