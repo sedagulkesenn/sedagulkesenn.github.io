@@ -128,6 +128,7 @@
                         </div>
                         <div class="text-extra-dark-gray text-uppercase text-small font-weight-600 alt-font margin-5px-bottom">Let's Talk</div>
                         <p class="mx-auto">Phone: 27 56 77 25</p>
+                        <p class="hidden"></p>
                         <a href="tel:+35227567725" class="text-decoration-line-through-deep-pink text-uppercase text-deep-pink text-small margin-15px-top sm-margin-10px-top d-inline-block">call us</a>
                     </div>
                     <!-- end contact info item -->
@@ -138,6 +139,7 @@
                         </div>
                         <div class="text-extra-dark-gray text-uppercase text-small font-weight-600 alt-font margin-5px-bottom">E-mail Us</div>
                         <p class="mx-auto"><a>hello@lopeseco.com</a></p>
+                        <p class="hidden"></p>
                         <a href="mailto:hello@lopeseco.com" class="text-decoration-line-through-deep-pink text-uppercase text-deep-pink text-small margin-15px-top sm-margin-10px-top d-inline-block">send e-mail</a>
                     </div>
                     <!-- end contact info item -->
@@ -163,7 +165,7 @@
                     <!-- end contact-form head -->
                 </div>
                 <!-- start contact-form -->
-                <form data-netlify="true" name="contact-form" id="project-contact-form-4" method="post" onsubmit={handleSubmit}>
+                <form data-netlify="true" name="contact-form" id="project-contact-form-4" method="POST" onsubmit={handleSubmit}>
                     <div class="row">
                         <div class="col-12">
                             <div class="form-results d-none"></div>
@@ -267,19 +269,20 @@
 
         <script>
             const handleSubmit = event => {
-  event.preventDefault();
+            event.preventDefault();
 
-  const myForm = event.target;
-  const formData = new FormData(myForm);
+            const myForm = event.target;
+            const formData = new FormData(myForm);
+            console.log('formdata',formData);
 
-  fetch("/", {
-    method: "POST",
-    headers: { "Content-Type": "Content-type:text/html;charset=UTF-8" },
-    body: new URLSearchParams(formData).toString()
-  })
-    .then(() => navigate("/thank-you/"))
-    .catch(error => alert(error));
-};
+            fetch("/", {
+                method: "POST",
+                headers: { "Content-Type": "text/html;charset=UTF-8" },
+                body: new URLSearchParams(formData).toString()
+            })
+                .then(() => navigate("/thank-you/"))
+                .catch(error => alert('ERROR',error));
+            };
         </script>
         <script type="text/javascript" src="/utils/js/main.js"></script>
     
