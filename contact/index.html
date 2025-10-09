@@ -166,6 +166,7 @@
                 </div>
                 <!-- start contact-form -->
                 <form data-netlify="true" name="contact-form" id="project-contact-form-4" method="POST" onsubmit={handleSubmit}>
+                    <input type="hidden" name="form-name" value="contact-form">
                     <div class="row">
                         <div class="col-12">
                             <div class="form-results d-none"></div>
@@ -267,7 +268,7 @@
         <script type="text/javascript" src="revolution/js/extensions/revolution.extension.video.min.js"></script>-->
         <!-- setting -->
 
-        <script>
+        <script type="text/javascript">
             const handleSubmit = event => {
             event.preventDefault();
 
@@ -275,14 +276,14 @@
             const formData = new FormData(myForm);
             console.log('formdata',formData);
 
-            fetch("/", {
-                method: "POST",
-                headers: { "Content-Type": "text/html;charset=UTF-8" },
-                body: new URLSearchParams(formData).toString()
+       fetch("/", {
+            method: "POST",
+            headers: { "Content-Type": "application/x-www-form-urlencoded" },
+            body: new URLSearchParams(formData).toString()
             })
-                .then(() => navigate("/thank-you/"))
-                .catch(error => alert('ERROR',error));
-            };
+            .then(() => window.location.href = "/thank-you/")
+            .catch(error => alert('Form submission error: ' + error));
+        };
         </script>
         <script type="text/javascript" src="/utils/js/main.js"></script>
     
