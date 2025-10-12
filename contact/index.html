@@ -33,7 +33,21 @@
             <div class="left-nav">
                 <!-- start logo -->
                 <div class="sidebar-part1">
-                    <a href="/index.html" title="Lopeseco Design Studio Luxembourg" class="logo"><img loading="lazy" src="https://res.cloudinary.com/dpenjprjz/image/upload/v1759477566/lopeseco-logo_lyj1ui.png" data-at2x="https://res.cloudinary.com/dpenjprjz/image/upload/v1759477566/lopeseco-logo_lyj1ui.png" alt="Luxembourg Interior Design"></a> 
+                    <a href="/index.html" title="Lopeseco Design Studio Luxembourg" class="logo">
+                        <picture>
+                        <!-- Logo for screens smaller than 991px -->
+                        <source srcset="https://res.cloudinary.com/dpenjprjz/image/upload/v1759779497/horizontal-logo_kdbc8c.jpg" media="(max-width: 991px)">
+                        
+                        <!-- Default (desktop) logo -->
+                        <img 
+                            src="https://res.cloudinary.com/dpenjprjz/image/upload/v1759477566/lopeseco-logo_lyj1ui.png" 
+                            alt="Company Logo"
+                            width="200"
+                            height="auto"
+                            loading="lazy">
+                        </picture>
+                        <!-- <img loading="lazy" srcset="" src="https://res.cloudinary.com/dpenjprjz/image/upload/v1759477566/lopeseco-logo_lyj1ui.png" data-at2x="https://res.cloudinary.com/dpenjprjz/image/upload/v1759477566/lopeseco-logo_lyj1ui.png" alt="Luxembourg Interior Design"> -->
+                    </a> 
                 </div>
                 <!-- end logo -->
                 <div class="sidebar-part2" style="background-image: url(https://res.cloudinary.com/dpenjprjz/image/upload/v1759477552/lopeseco-background-main_aoog2p.png); background-repeat: no-repeat; background-size: cover;">    
@@ -165,7 +179,7 @@
                     <!-- end contact-form head -->
                 </div>
                 <!-- start contact-form -->
-                <form data-netlify="true" name="contact-form" id="project-contact-form-4" method="POST" onsubmit={handleSubmit}>
+                <form data-netlify="true" name="contact-form" id="project-contact-form-4" method="POST" onsubmit="handleSubmit(event)">
                     <input type="hidden" name="form-name" value="contact-form">
                     <div class="row">
                         <div class="col-12">
@@ -268,23 +282,21 @@
         <script type="text/javascript" src="revolution/js/extensions/revolution.extension.video.min.js"></script>-->
         <!-- setting -->
 
-        <script type="text/javascript">
-            const handleSubmit = event => {
-            event.preventDefault();
+                <script>
+                const handleSubmit = (event) => {
+                    event.preventDefault();
+                    const form = event.target;
+                    const formData = new FormData(form);
 
-            const myForm = event.target;
-            const formData = new FormData(myForm);
-            console.log('formdata',formData);
-
-       fetch("/", {
-            method: "POST",
-            headers: { "Content-Type": "application/x-www-form-urlencoded" },
-            body: new URLSearchParams(formData).toString()
-            })
-            .then(() => window.location.href = "/thank-you/")
-            .catch(error => alert('Form submission error: ' + error));
-        };
-        </script>
+                    fetch("/", {
+                    method: "POST",
+                    headers: { "Content-Type": "application/x-www-form-urlencoded" },
+                    body: new URLSearchParams(formData).toString(),
+                    })
+                    .then(() => window.location.href = "/thank-you/")
+                    .catch(error => alert('Form submission error: ' + error));
+                };
+                </script>
         <script type="text/javascript" src="/utils/js/main.js"></script>
     
 </body></html>
