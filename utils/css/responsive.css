@@ -2697,7 +2697,7 @@
 @media (max-width: 1024px) and (min-width: 992px) {
     .sidebar-part2 .sidebar-middle, .sidebar-part2 nav.navbar.bootsnav li.dropdown ul.dropdown-menu { padding: 90px 0 220px; }
     header .sidebar-part2 nav.navbar.bootsnav ul > li > a { font-size: 30px; line-height: 20px; }
-    .sidebar-part2 ul > li { padding: 7px 20px 7px 0; }
+    .sidebar-part2 ul > li { padding: 7px 20px 7px 0; margin-bottom:15px; }
 }
 
 @media (max-width: 991px) {
@@ -2731,7 +2731,7 @@
     nav.navbar.bootsnav li.dropdown .mega-menu-full > ul > li {border-bottom: none; margin-bottom: 10px}
     nav.navbar.bootsnav li.dropdown.open .mega-menu-full {padding-top: 10px;}
     nav.navbar.bootsnav li.dropdown .mega-menu-full > ul > li:last-child {margin-bottom: 0}
-    nav.navbar.bootsnav .navbar-nav li, nav.navbar.bootsnav li.dropdown ul.mega-menu-full li.dropdown-header { display: block; clear: both; border-bottom: 1px solid rgba(255, 255, 255, 0.06); border-top: 0; }
+    nav.navbar.bootsnav .navbar-nav li, nav.navbar.bootsnav li.dropdown ul.mega-menu-full li.dropdown-header { display: block; clear: both; border-bottom: 1px solid rgba(255, 255, 255, 0.06); border-top: 0; margin-bottom:15px;}
     .navbar-nav li > a, nav.navbar.navbar-default ul.nav > li > a, nav.navbar-brand-top.navbar.navbar-default ul.nav > li > a, header .navbar-nav li > a, header nav.navbar-fixed-top.header-light-transparent.white-link .navbar-nav > li > a, header nav.navbar-fixed-top.header-light.white-link .navbar-nav > li > a , nav.navbar.bootsnav li.dropdown ul.mega-menu-full li > a,header.sticky nav.navbar.navbar-default.navbar-fixed-top ul.nav > li > a, header.sticky nav.navbar.navbar-default.navbar-top ul.nav > li > a, nav.navbar.bootsnav li.dropdown ul.mega-menu-full li.dropdown-header{ margin: 0; padding: 12px 40px 11px; color: #939393; display: block; line-height: normal;}
     .navbar-nav li > a, nav.navbar.navbar-default ul.nav > li > a, header .navbar-nav li > a, header nav.navbar-fixed-top.header-light-transparent.white-link .navbar-nav > li > a,header.sticky nav.navbar.navbar-default.navbar-fixed-top ul.nav > li > a, header.header-appear nav.bootsnav.header-light-transparent .navbar-nav > li > a, header.header-appear nav.bootsnav.header-light .navbar-nav > li > a { color: #fff; }
     nav.navbar.bootsnav ul.nav > li.dropdown > ul.dropdown-menu  li a, nav.navbar.bootsnav ul.nav li.dropdown ul.dropdown-menu.mega-menu li a, nav.navbar.bootsnav li.dropdown ul.mega-menu-full li.dropdown-header { padding-left: 0; padding-right: 0;}
@@ -2850,7 +2850,7 @@
     .sidebar-part2 .dropdown ul.second-level, .sidebar-part2 .dropdown ul.third-level {border-left: none !important;}
     .sidebar-part2 nav.navbar.bootsnav ul.nav li.dropdown ul.dropdown-menu  > li > a {color: #232323; padding: 0; margin-bottom: 2px;}
     .sidebar-part2 nav.navbar.bootsnav ul.nav li.dropdown ul.dropdown-menu  > li > a > .fas{display: none}
-    header .sidebar-part2 nav.navbar.bootsnav ul > li > a {font-size: 20px; line-height: 24px; border: 0}
+    header .sidebar-part2 nav.navbar.bootsnav ul > li > a {font-size: 25px; line-height: 24px; border: 0}
     .sidebar-part2 nav.navbar.bootsnav li.dropdown.open ul.dropdown-menu .third-level {display: inherit; }
     .left-nav-sidebar .container {width: 700px;}
     .sidebar-part2 nav.navbar { text-align: left;}
