@@ -282,11 +282,12 @@
         <script type="text/javascript" src="revolution/js/extensions/revolution.extension.video.min.js"></script>-->
         <!-- setting -->
 
-                <script>
-                const handleSubmit = (event) => {
+        <script>
+                function handleSubmit (event) {
                     event.preventDefault();
                     const form = event.target;
                     const formData = new FormData(form);
+                    console.log('FORM DATA', formData)
 
                     fetch("/", {
                     method: "POST",
@@ -296,7 +297,7 @@
                     .then(() => window.location.href = "/thank-you/")
                     .catch(error => alert('Form submission error: ' + error));
                 };
-                </script>
+        </script>
         <script type="text/javascript" src="/utils/js/main.js"></script>
     
 </body></html>
