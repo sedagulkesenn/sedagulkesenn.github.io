@@ -213,7 +213,7 @@
                         <div class="col-12 text-center">
                             <button type="submit" class="btn btn-klein-blue btn-rounded btn-large margin-20px-top sm-no-margin-top">send message</button>
                         </div>
-                        <div class="form-results d-none text-center text-success margin-20px-top">
+                        <div class="form-results-success d-none alt-font text-center text-extra-dark-gray margin-20px-top">
                             We got your message! We'll reach out to you as soon as possible. Thank you.
                         </div>
                     </div>
@@ -280,7 +280,8 @@
 
                 const form = event.target;
                 const formData = new FormData(form);
-                const resultDiv = form.querySelector(".form-results");
+                const resultDiv = form.querySelector(".form-results-success");
+                console.log('resultDiv:', resultDiv);
 
                 // Hide previous messages
                 resultDiv.classList.add("d-none");
@@ -292,16 +293,12 @@
                 })
                 .then(() => {
                     // Show success message
-                    resultDiv.textContent = "We got your message! We'll reach out to you as soon as possible. Thank you.";
+                    // resultDiv.textContent = "We got your message! We'll reach out to you as soon as possible. Thank you.";
                     resultDiv.classList.remove("d-none");
 
                     // Optionally clear form fields
                     form.reset();
 
-                    // Optionally hide the message after a few seconds
-                    setTimeout(() => {
-                    resultDiv.classList.add("d-none");
-                    }, 6000);
                 })
                 .catch(error => {
                     resultDiv.textContent = "Oops! Something went wrong. Please try again.";
