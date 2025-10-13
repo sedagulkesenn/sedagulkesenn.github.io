@@ -213,6 +213,9 @@
                         <div class="col-12 text-center">
                             <button type="submit" class="btn btn-klein-blue btn-rounded btn-large margin-20px-top sm-no-margin-top">send message</button>
                         </div>
+                        <div class="form-results d-none text-center text-success margin-20px-top">
+                            We got your message! We'll reach out to you as soon as possible. Thank you.
+                        </div>
                     </div>
                 </form> 
                 <!-- end contact-form -->
@@ -272,25 +275,39 @@
         <script type="text/javascript" src="/utils/revolution/js/jquery.themepunch.revolution.min.js"></script>
         <!-- revolution slider extensions (load below extensions JS files only on local file systems to make the slider work! The following part can be removed on server for on demand loading) -->
         <script>
-        function handleSubmit(event) {
-            event.preventDefault();
+            function handleSubmit(event) {
+                event.preventDefault();
 
-            const form = event.target;
-            const formData = new FormData(form);
+                const form = event.target;
+                const formData = new FormData(form);
+                const resultDiv = form.querySelector(".form-results");
 
-            console.log('Form Data:', Object.fromEntries(formData.entries()));  
+                // Hide previous messages
+                resultDiv.classList.add("d-none");
 
-            fetch("/", {
-            method: "POST",
-            headers: { "Content-Type": "application/x-www-form-urlencoded" },
-            body: new URLSearchParams(formData).toString(),
-            })
-            .then(() => {
-                console.log("Form successfully submitted!");
-                window.location.href = "/thank-you/";
-            })
-            .catch(error => alert("Form submission error: " + error));
-        }
+                fetch("/", {
+                method: "POST",
+                headers: { "Content-Type": "application/x-www-form-urlencoded" },
+                body: new URLSearchParams(formData).toString(),
+                })
+                .then(() => {
+                    // Show success message
+                    resultDiv.textContent = "We got your message! We'll reach out to you as soon as possible. Thank you.";
+                    resultDiv.classList.remove("d-none");
+
+                    // Optionally clear form fields
+                    form.reset();
+
+                    // Optionally hide the message after a few seconds
+                    setTimeout(() => {
+                    resultDiv.classList.add("d-none");
+                    }, 6000);
+                })
+                .catch(error => {
+                    resultDiv.textContent = "Oops! Something went wrong. Please try again.";
+                    resultDiv.classList.remove("d-none");
+                });
+            }
         </script>
         <script type="text/javascript" src="/utils/js/main.js"></script>
 </body></html>
