@@ -211,7 +211,7 @@
                             <textarea name="comment" id="comment" placeholder="Describe your project" rows="6" class="border-color-medium-dark-gray medium-textarea"></textarea>
                         </div>
                         <div class="col-12 text-center">
-                            <p class="form-results-success d-none alt-font text-extra-dark-gray margin-20px-top">We got your message! We'll reach out to you as soon as possible. Thank you.</p>
+                            <p class="form-results-success d-none alt-font font-weight-600 text-extra-dark-gray margin-20px-top">We got your message! We'll reach out to you as soon as possible. Thank you.</p>
                             <!-- <p class="form-results-error d-none alt-font text-extra-dark-gray margin-20px-top">Please fill in your name and email before sending.</p> -->
                             <button type="submit" class="btn btn-klein-blue btn-rounded btn-large margin-20px-top sm-no-margin-top">send message</button>
                         </div>
@@ -280,25 +280,10 @@
 
                 const form = event.target;
                 const formData = new FormData(form);
-
-                // const name = form.querySelector("#name").value.trim();
-                // const email = form.querySelector("#email").value.trim();
-
-
                 const successMsg = form.querySelector(".form-results-success");
-                // const errorMsg = form.querySelector(".form-results-error");
-                console.log('successMsg:', successMsg);
 
                 // Hide previous messages
                 successMsg.classList.add("d-none");
-                // errorMsg.classList.add("d-none");
-
-                 // Validate required fields
-                // if (!name || !email) {
-                // errorMsg.style.display = "block";
-                // return;
-                // }
-
 
                 fetch("/", {
                 method: "POST",
@@ -318,8 +303,6 @@
                 successMsg.textContent = "Oops! Something went wrong. Please try again.";
                 successMsg.classList.remove("d-none");
 
-                // errorMsg.textContent = "Something went wrong. Please try again.";
-                // errorMsg.style.display = "block";
                 });
             }
         </script>
