@@ -186,13 +186,13 @@
                             <div class="form-results d-none"></div>
                         </div>
                         <div class="col-md-6">
-                            <input type="text" name="name" id="name" placeholder="Name *" class="border-color-medium-dark-gray medium-input required">
+                            <input required type="text" name="name" id="name" placeholder="Name *" class="border-color-medium-dark-gray medium-input required">
                         </div>
                         <div class="col-md-6">
                             <input type="tel" name="phone" id="phone" placeholder="Phone" class="border-color-medium-dark-gray medium-input">
                         </div>
                         <div class="col-md-6">
-                            <input type="email" name="email" id="email" placeholder="E-mail *" class="border-color-medium-dark-gray medium-input required">
+                            <input required type="email" name="email" id="email" placeholder="E-mail *" class="border-color-medium-dark-gray medium-input required">
                         </div>
                         <div class="col-md-6">
                             <div class="select-style medium-select border-color-medium-dark-gray">
@@ -211,11 +211,11 @@
                             <textarea name="comment" id="comment" placeholder="Describe your project" rows="6" class="border-color-medium-dark-gray medium-textarea"></textarea>
                         </div>
                         <div class="col-12 text-center">
+                            <p class="form-results-success d-none alt-font text-extra-dark-gray margin-20px-top">We got your message! We'll reach out to you as soon as possible. Thank you.</p>
+                            <!-- <p class="form-results-error d-none alt-font text-extra-dark-gray margin-20px-top">Please fill in your name and email before sending.</p> -->
                             <button type="submit" class="btn btn-klein-blue btn-rounded btn-large margin-20px-top sm-no-margin-top">send message</button>
                         </div>
-                        <div class="form-results-success d-none alt-font text-center text-extra-dark-gray margin-20px-top">
-                            We got your message! We'll reach out to you as soon as possible. Thank you.
-                        </div>
+                    
                     </div>
                 </form> 
                 <!-- end contact-form -->
@@ -280,11 +280,25 @@
 
                 const form = event.target;
                 const formData = new FormData(form);
-                const resultDiv = form.querySelector(".form-results-success");
-                console.log('resultDiv:', resultDiv);
+
+                // const name = form.querySelector("#name").value.trim();
+                // const email = form.querySelector("#email").value.trim();
+
+
+                const successMsg = form.querySelector(".form-results-success");
+                // const errorMsg = form.querySelector(".form-results-error");
+                console.log('successMsg:', successMsg);
 
                 // Hide previous messages
-                resultDiv.classList.add("d-none");
+                successMsg.classList.add("d-none");
+                // errorMsg.classList.add("d-none");
+
+                 // Validate required fields
+                // if (!name || !email) {
+                // errorMsg.style.display = "block";
+                // return;
+                // }
+
 
                 fetch("/", {
                 method: "POST",
@@ -293,16 +307,19 @@
                 })
                 .then(() => {
                     // Show success message
-                    // resultDiv.textContent = "We got your message! We'll reach out to you as soon as possible. Thank you.";
-                    resultDiv.classList.remove("d-none");
+                    successMsg.classList.remove("d-none");
 
                     // Optionally clear form fields
                     form.reset();
 
                 })
                 .catch(error => {
-                    resultDiv.textContent = "Oops! Something went wrong. Please try again.";
-                    resultDiv.classList.remove("d-none");
+
+                successMsg.textContent = "Oops! Something went wrong. Please try again.";
+                successMsg.classList.remove("d-none");
+
+                // errorMsg.textContent = "Something went wrong. Please try again.";
+                // errorMsg.style.display = "block";
                 });
             }
         </script>
