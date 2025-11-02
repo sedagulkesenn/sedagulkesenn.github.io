@@ -52,26 +52,26 @@
                     </a> 
                 </div>
                 <!-- end logo -->
-                <div class="sidebar-part2" style="background-image: url(https://res.cloudinary.com/dpenjprjz/image/upload/v1759477552/lopeseco-background-main_aoog2p.png); background-repeat: no-repeat; background-size: cover;">    
+                               <div class="sidebar-part2" style="background-image: url(https://res.cloudinary.com/dpenjprjz/image/upload/v1759477552/lopeseco-background-main_aoog2p.png); background-repeat: no-repeat; background-size: cover;">  
                     <div class="sidebar-middle">
                         <div class="sidebar-middle-menu alt-font font-weight-600">
                             <nav class="navbar bootsnav navbar-expand-lg alt-font">  
                                 <div id="navbar-menu" class="collapse navbar-collapse no-padding">
                                     <ul class="nav navbar-nav margin-80px-bottom">
                                         <li class="nav-item">
-                                            <a href="/index.html" title="Home">Home</a>
+                                            <a href="/index.html" data-i18n="home" title="Home">Home</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a href="/about/" title="About">About</a>
+                                            <a href="/about/" data-i18n="about" title="About">About</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a href="/team/" rtitle="Team">Team</a>
+                                            <a href="/team/" data-i18n="team" title="Team">Team</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a href="/portfolio/" title="Portfolio">Portfolio</a>
+                                            <a href="/portfolio/" data-i18n="portfolio" title="Portfolio">Portfolio</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a href="/contact/" title="Contact">Contact</a>
+                                            <a href="/contact/" data-i18n="contact" title="Contact">Contact</a>
                                         </li>
                                         <li>
                                             <div class="side-left-menu-close close-side"></div>
@@ -92,6 +92,11 @@
                     </div>
                 </div>
                 <div class="sidebar-part3">
+                        <div class="d-flex align-items-center justify-content-center gap-2 mb-2">
+                            <span class="lang-text font-weight-500" data-lang="en" onclick="setLanguage('en')">EN</span>
+                            <span>|</span>
+                            <span class="lang-text font-weight-500" data-lang="fr" onclick="setLanguage('fr')">FR</span>
+                        </div>
                     <div class="bottom-menu-icon">
                         <a href="javascript:void(0);" class="right-menu-button text-extra-dark-gray nav-icon" id="showRightPush">
                             <span></span>
@@ -111,15 +116,15 @@
                     <div class="col-12">
                         <!-- start filter navigation -->
                         <ul class="portfolio-filter nav nav-tabs justify-content-center border-0 portfolio-filter-tab-1 font-weight-600 alt-font text-uppercase text-center margin-80px-bottom text-small md-margin-40px-bottom sm-margin-20px-bottom">
-                            <li class="nav active"><a href="javascript:void(0);" data-filter="*" class="light-gray-text-link text-very-small">All</a></li>
-                            <li class="nav"><a href="javascript:void(0);" data-filter=".kitchen" class="light-gray-text-link text-very-small">Kitchen</a></li>
-                            <li class="nav"><a href="javascript:void(0);" data-filter=".entrancehall" class="light-gray-text-link text-very-small">Entrance Hall</a></li>
-                            <li class="nav"><a href="javascript:void(0);" data-filter=".bathroom" class="light-gray-text-link text-very-small">Bathroom</a></li>
-                            <li class="nav"><a href="javascript:void(0);" data-filter=".library" class="light-gray-text-link text-very-small">Library</a></li>
-                            <li class="nav"><a href="javascript:void(0);" data-filter=".dressing" class="light-gray-text-link text-very-small">Dressing</a></li>
-                            <li class="nav"><a href="javascript:void(0);" data-filter=".tvunit" class="light-gray-text-link text-very-small">TV Unit</a></li>
-                            <li class="nav"><a href="javascript:void(0);" data-filter=".lifestyle" class="light-gray-text-link text-very-small">Lifestyle</a></li>
-                            <li class="nav"><a href="javascript:void(0);" data-filter=".kids" class="light-gray-text-link text-very-small">Kids</a></li>
+                            <li class="nav active"><a data-i18n="portfolioPage.all" href="javascript:void(0);" data-filter="*" class="light-gray-text-link text-very-small">All</a></li>
+                            <li class="nav"><a data-i18n="portfolioPage.kitchen" href="javascript:void(0);" data-filter=".kitchen" class="light-gray-text-link text-very-small">Kitchen</a></li>
+                            <li class="nav"><a data-i18n="portfolioPage.entranceHall" href="javascript:void(0);" data-filter=".entrancehall" class="light-gray-text-link text-very-small">Entrance Hall</a></li>
+                            <li class="nav"><a data-i18n="portfolioPage.bathroom" href="javascript:void(0);" data-filter=".bathroom" class="light-gray-text-link text-very-small">Bathroom</a></li>
+                            <li class="nav"><a data-i18n="portfolioPage.library" href="javascript:void(0);" data-filter=".library" class="light-gray-text-link text-very-small">Library</a></li>
+                            <li class="nav"><a data-i18n="portfolioPage.dressing" href="javascript:void(0);" data-filter=".dressing" class="light-gray-text-link text-very-small">Dressing</a></li>
+                            <li class="nav"><a data-i18n="portfolioPage.tvUnit" href="javascript:void(0);" data-filter=".tvunit" class="light-gray-text-link text-very-small">TV Unit</a></li>
+                            <li class="nav"><a data-i18n="portfolioPage.lifestyle" href="javascript:void(0);" data-filter=".lifestyle" class="light-gray-text-link text-very-small">Lifestyle</a></li>
+                            <li class="nav"><a data-i18n="portfolioPage.kids" href="javascript:void(0);" data-filter=".kids" class="light-gray-text-link text-very-small">Kids</a></li>
                         </ul>                                                                           
                         <!-- end filter navigation -->
                     </div>
@@ -132,7 +137,7 @@
             </div>
         </div>
         <!--end spinner-->
-            <div class="px-5">
+            <div>
                 <div class="row">
                     <div class="col-12 filter-content overflow-hidden">
                         <ul class="hover-option8 portfolio-wrapper grid grid-3col xl-grid-3col lg-grid-3col md-grid-2col sm-grid-2col xs-grid-1col gutter-medium">
@@ -1190,22 +1195,22 @@
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-lg-8 md-margin-30px-bottom text-center text-lg-start wow animate__fadeInDown"> 
-                        <span class="alt-font text-extra-large text-extra-dark-gray d-inline-block w-100">We would love to hear about start your new project?</span>
+                        <span data-i18n="portfolioPage.startNewProjectsTitle" class="alt-font text-extra-large text-extra-dark-gray d-inline-block w-100">We would love to hear about start your new project?</span>
                     </div>
                     <div class="col-lg-4 text-center text-lg-start wow animate__fadeInDown"> 
-                        <a href="/contact/" class="btn btn-medium btn-rounded btn-transparent-dark-gray" data-wow-delay="0.4s">Start New Projects <i class="ti-arrow-right" aria-hidden="true"></i></a>
+                        <a data-i18n="portfolioPage.startNewProjectsButton" href="/contact/" class="btn btn-medium btn-rounded btn-transparent-dark-gray" data-wow-delay="0.4s">Start New Projects <i class="ti-arrow-right" aria-hidden="true"></i></a>
                     </div>
                 </div>
             </div>
         </section>
         <!-- end call to action section -->        
-        <!-- start footer --> 
-        <footer class="footer-center-logo padding-five-tb sm-padding-30px-tb">
+                <!-- start footer --> 
+         <footer class="footer-center-logo padding-five-tb sm-padding-30px-tb">
             <div class="container">
                 <div class="row align-items-center">
                     <!-- start social media -->
                        <div class="col-lg-4 text-center">
-                        <span class="alt-font text-small text-center margin-20px-right lg-margin-15px-right">On social networks</span>
+                        <span data-i18n="onSocialNetworks" class="alt-font text-small text-center margin-20px-right lg-margin-15px-right">On social networks</span>
                         <div class="social-icon-style-8 d-inline-block align-middle">
                             <ul class="small-icon mb-0">
                                 <li><a class="mail text-black" href="mailto:hello@lopeseco.com" target="_blank"><i class="fa-solid fa-envelope"></i></a></li>                                                  
@@ -1218,20 +1223,20 @@
                     <!-- end social media -->
                     <!-- start opening hours -->
                     <div class="col-lg-4 alt-font text-small text-center margin-15px-bottom">
-                        <div>monday closed</div>
-                        <div>tue to fri 9:00 - 12:30 & 14:00 - 18:00</div>
-                        <div>saturday by appointment only</div>
-                        <div>sunday closed</div>
+                        <div><span data-i18n="monday">monday</span> <span data-i18n="closed">closed</span></div>
+                        <div><span data-i18n="tueToFri">tue to fri</span> 9:00 - 12:30 &amp; 14:00 - 18:00</div>
+                        <div><span data-i18n="saturday">saturday</span> <span data-i18n="byAppointment">by appointment only</span></span></div>
+                        <div><span data-i18n="sunday">sunday</span> <span data-i18n="closed">closed</span></div>
                     </div>
                     <!-- end opening hours -->
                     <div class="col-lg-4 alt-font text-small text-center margin-15px-bottom">
-                        <div>Lopeseco Design Studio</br>6, rue Edward Steichen</br>L-3324 Bivange</div>
+                        <div>Lopeseco Design Studio<br>6, rue Edward Steichen<br>L-3324 Bivange</div>
                         <div class="margin-10px-top"><i class="fa-solid fa-phone margin-10px-right"></i>27 56 77 25</div>
                     </div>
                     <!-- start copyright -->
                      <div class="text-extra-small alt-font text-center justify-content-center alt-font margin-15px-tb">
-                            <div>&copy; 2025 Lopeseco Design Studio s.a.r.l/ legal information <a href="/legal/" class="text-decoration-underline" target="_blank" title="here">here </a></div> 
-                            <div>Powered by Seda Gulkesen Lopeseco</div>
+                            <div><span data-i18n="legalInfo">© 2025 Lopeseco Design Studio s.a.r.l/ legal information </span> <a data-i18n="here" href="/legal/" class="text-decoration-underline" target="_blank" title="here">here</a></div> 
+                            <div data-i18n="poweredBy">Powered by Seda Gulkesen Lopeseco</div>
                     </div>
                     <!-- end copyright -->
                 </div>
@@ -1253,5 +1258,6 @@
         <script type="text/javascript" src="/utils/revolution/js/jquery.themepunch.revolution.min.js"></script>
         <!-- setting -->
         <script type="text/javascript" src="/utils/js/main.js"></script>
+        <script type="text/javascript" src="/utils/js/lang.js"></script>
     </body>
 </html>

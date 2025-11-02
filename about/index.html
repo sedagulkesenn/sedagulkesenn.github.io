@@ -49,7 +49,6 @@
                         <!-- <img loading="lazy" srcset="" src="https://res.cloudinary.com/dpenjprjz/image/upload/v1759477566/lopeseco-logo_lyj1ui.png" data-at2x="https://res.cloudinary.com/dpenjprjz/image/upload/v1759477566/lopeseco-logo_lyj1ui.png" alt="Luxembourg Interior Design"> -->
                     </a> 
                 </div>
-                <!-- end logo -->
                 <div class="sidebar-part2" style="background-image: url(https://res.cloudinary.com/dpenjprjz/image/upload/v1759477552/lopeseco-background-main_aoog2p.png); background-repeat: no-repeat; background-size: cover;">  
                     <div class="sidebar-middle">
                         <div class="sidebar-middle-menu alt-font font-weight-600">
@@ -57,19 +56,19 @@
                                 <div id="navbar-menu" class="collapse navbar-collapse no-padding">
                                     <ul class="nav navbar-nav margin-80px-bottom">
                                         <li class="nav-item">
-                                            <a href="/index.html" title="Home">Home</a>
+                                            <a href="/index.html" data-i18n="home" title="Home">Home</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a href="/about/" title="About">About</a>
+                                            <a href="/about/" data-i18n="about" title="About">About</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a href="/team/" rtitle="Team">Team</a>
+                                            <a href="/team/" data-i18n="team" title="Team">Team</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a href="/portfolio/" title="Portfolio">Portfolio</a>
+                                            <a href="/portfolio/" data-i18n="portfolio" title="Portfolio">Portfolio</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a href="/contact/" title="Contact">Contact</a>
+                                            <a href="/contact/" data-i18n="contact" title="Contact">Contact</a>
                                         </li>
                                         <li>
                                             <div class="side-left-menu-close close-side"></div>
@@ -90,6 +89,11 @@
                     </div>
                 </div>
                 <div class="sidebar-part3">
+                        <div class="d-flex align-items-center justify-content-center gap-2 mb-2">
+                            <span class="lang-text font-weight-500" data-lang="en" onclick="setLanguage('en')">EN</span>
+                            <span>|</span>
+                            <span class="lang-text font-weight-500" data-lang="fr" onclick="setLanguage('fr')">FR</span>
+                        </div>
                     <div class="bottom-menu-icon">
                         <a href="javascript:void(0);" class="right-menu-button text-extra-dark-gray nav-icon" id="showRightPush">
                             <span></span>
@@ -109,7 +113,7 @@
                     <div class="col-xxl-5 col-xl-6 col-lg-7">
                         <div class="padding-ten-all md-padding-70px-all sm-padding-25px-all bg-opacity-80 box-shadow-light">
                             <i class="fa-solid fa-quote-left text-klein-blue icon-extra-large margin-5px-bottom"></i>
-                            <div class="text-large text-black md-margin-20px-bottom alt-font">We, led by Andre Lopeseco, create bespoke interior design, carpentry, and custom furniture solutions. We blend craftsmanship and functionality to elevate both residential and commercial spaces, transforming visions into timeless, personalized environments.</div>
+                            <div data-i18n="aboutPage.aboutDescription" class="text-large text-black md-margin-20px-bottom alt-font">We, led by Andre Lopeseco, create bespoke interior design, carpentry, and custom furniture solutions. We blend craftsmanship and functionality to elevate both residential and commercial spaces, transforming visions into timeless, personalized environments.</div>
                         </div>
                     </div>
                 </div>
@@ -122,8 +126,8 @@
                 <div class="row justify-content-center">
                     <div class="col-lg-8 col-md-10 text-center">
                         <i class="fa-solid fa-quote-left icon-medium text-klein-blue d-block margin-15px-bottom"></i>
-                        <h5 class="alt-font text-extra-dark-gray font-weight-600 margin-5px-bottom">Unity is strength...</h5>
-                        <h5 class="alt-font text-extra-dark-gray font-weight-300">Through teamwork and shared vision, Lopeseco Design Studio elevates every project into something truly exceptional.</h5>
+                        <h5 data-i18n="aboutPage.unityIsStrength" class="alt-font text-extra-dark-gray font-weight-600 margin-5px-bottom">Unity is strength...</h5>
+                        <h5 data-i18n="aboutPage.aboutCompany" class="alt-font text-extra-dark-gray font-weight-300">Through teamwork and shared vision, Lopeseco Design Studio elevates every project into something truly exceptional.</h5>
                         <span class="text-uppercase text-extra-small alt-font letter-spacing-3 text-medium-gray">André Lopeseco</span>
                     </div>
                 </div>
@@ -139,8 +143,8 @@
                         <svg xmlns="http://www.w3.org/2000/svg" width="35" height="40" fill="currentColor" class="bi bi-rulers text-klein-blue " viewBox="0 0 16 16">
                         <path d="M1 0a1 1 0 0 0-1 1v14a1 1 0 0 0 1 1h5v-1H2v-1h4v-1H4v-1h2v-1H2v-1h4V9H4V8h2V7H2V6h4V2h1v4h1V4h1v2h1V2h1v4h1V4h1v2h1V2h1v4h1V1a1 1 0 0 0-1-1z"></path>
                         </svg>
-                        <div class="text-extra-dark-gray margin-10px-bottom md-margin-5px-bottom alt-font font-weight-600">Concept Planning</div>
-                        <p class="w-80 mx-auto lg-w-85 sm-w-100 xs-w-90">Turning your ideas into bespoke furniture concepts, carefully tailored to your<br> space and style.</p>                      
+                        <div data-i18n="aboutPage.conceptPlanningTitle" class="text-extra-dark-gray margin-10px-bottom md-margin-5px-bottom alt-font font-weight-600">Concept Planning</div>
+                        <p data-i18n="aboutPage.conceptPlanningDescription" class="w-80 mx-auto lg-w-85 sm-w-100 xs-w-90">Turning your ideas into bespoke furniture concepts, carefully tailored to your<br> space and style.</p>                      
                     </div>
                     <!-- end features box item -->
                     <!-- start features box item -->
@@ -148,8 +152,8 @@
                         <svg xmlns="http://www.w3.org/2000/svg" width="35" height="40" fill="currentColor" class="bi bi-house-door-fill text-klein-blue " viewBox="0 0 16 16">
                         <path d="M6.5 14.5v-3.505c0-.245.25-.495.5-.495h2c.25 0 .5.25.5.5v3.5a.5.5 0 0 0 .5.5h4a.5.5 0 0 0 .5-.5v-7a.5.5 0 0 0-.146-.354L13 5.793V2.5a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5v1.293L8.354 1.146a.5.5 0 0 0-.708 0l-6 6A.5.5 0 0 0 1.5 7.5v7a.5.5 0 0 0 .5.5h4a.5.5 0 0 0 .5-.5"></path>
                         </svg>                        
-                        <div class="text-extra-dark-gray margin-10px-bottom md-margin-5px-bottom alt-font font-weight-600">Home Makeover</div>
-                        <p class="w-80 mx-auto lg-w-85 sm-w-100 xs-w-90">Full-scale home transformations that refresh, modernize, and elevate your space.</p>                      
+                        <div data-i18n="aboutPage.homeMakeoverTitle" class="text-extra-dark-gray margin-10px-bottom md-margin-5px-bottom alt-font font-weight-600">Home Makeover</div>
+                        <p data-i18n="aboutPage.homeMakeoverDescription" class="w-80 mx-auto lg-w-85 sm-w-100 xs-w-90">Full-scale home transformations that refresh, modernize, and elevate your space.</p>                      
                     </div>
                     <!-- end features box item -->
                     <!-- start features box item -->
@@ -157,8 +161,8 @@
                         <svg xmlns="http://www.w3.org/2000/svg" width="35" height="40" fill="currentColor" class="bi bi-tools text-klein-blue " viewBox="0 0 16 16">
                         <path d="M1 0 0 1l2.2 3.081a1 1 0 0 0 .815.419h.07a1 1 0 0 1 .708.293l2.675 2.675-2.617 2.654A3.003 3.003 0 0 0 0 13a3 3 0 1 0 5.878-.851l2.654-2.617.968.968-.305.914a1 1 0 0 0 .242 1.023l3.27 3.27a.997.997 0 0 0 1.414 0l1.586-1.586a.997.997 0 0 0 0-1.414l-3.27-3.27a1 1 0 0 0-1.023-.242L10.5 9.5l-.96-.96 2.68-2.643A3.005 3.005 0 0 0 16 3q0-.405-.102-.777l-2.14 2.141L12 4l-.364-1.757L13.777.102a3 3 0 0 0-3.675 3.68L7.462 6.46 4.793 3.793a1 1 0 0 1-.293-.707v-.071a1 1 0 0 0-.419-.814zm9.646 10.646a.5.5 0 0 1 .708 0l2.914 2.915a.5.5 0 0 1-.707.707l-2.915-2.914a.5.5 0 0 1 0-.708M3 11l.471.242.529.026.287.445.445.287.026.529L5 13l-.242.471-.026.529-.445.287-.287.445-.529.026L3 15l-.471-.242L2 14.732l-.287-.445L1.268 14l-.026-.529L1 13l.242-.471.026-.529.445-.287.287-.445.529-.026z"></path>
                         </svg>                        
-                        <div class="text-extra-dark-gray margin-10px-bottom md-margin-5px-bottom alt-font font-weight-600">Qualified Carpenters</div>
-                        <p class="w-80 mx-auto lg-w-85 sm-w-100 xs-w-90">Skilled craftsmen delivering precise, high-quality carpentry for every project.</p>                      
+                        <div data-i18n="aboutPage.qualifiedCarpentersTitle" class="text-extra-dark-gray margin-10px-bottom md-margin-5px-bottom alt-font font-weight-600">Qualified Carpenters</div>
+                        <p data-i18n="aboutPage.qualifiedCarpentersDescription" class="w-80 mx-auto lg-w-85 sm-w-100 xs-w-90">Skilled craftsmen delivering precise, high-quality carpentry for every project.</p>                      
                     </div>                                        
                     <!-- end features box item -->
                     <!-- start features box item -->
@@ -167,8 +171,8 @@
                         <path d="M10.157 5.968h-.844v4.06h.844c1.116 0 1.621-.667 1.621-2.02 0-1.354-.51-2.04-1.621-2.04"></path>
                         <path d="M0 4a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2zm5.184 4.368c.646 0 1.055.378 1.06.9.008.537-.427.919-1.086.919-.598-.004-1.037-.325-1.068-.756H3c.03.914.791 1.688 2.153 1.688 1.24 0 2.285-.66 2.272-1.798-.013-.953-.747-1.38-1.292-1.432v-.062c.44-.07 1.125-.527 1.108-1.375-.013-.906-.8-1.57-2.053-1.565-1.31.005-2.043.734-2.074 1.67h1.103c.022-.391.383-.751.936-.751.532 0 .928.33.928.813.004.479-.383.835-.928.835h-.632v.914zM8.126 11h2.189C12.125 11 13 9.893 13 7.985c0-1.894-.861-2.984-2.685-2.984H8.126z"></path>
                         </svg>                  
-                        <div class="text-extra-dark-gray margin-10px-bottom md-margin-5px-bottom alt-font font-weight-600">3D Renders</div>
-                        <p class="w-80 mx-auto lg-w-85 sm-w-100 xs-w-90">Bringing designs to life with realistic and detailed 3D visualizations.</p>                      
+                        <div data-i18n="aboutPage.3DRendersTitle" class="text-extra-dark-gray margin-10px-bottom md-margin-5px-bottom alt-font font-weight-600">3D Renders</div>
+                        <p data-i18n="aboutPage.3DRendersDescription" class="w-80 mx-auto lg-w-85 sm-w-100 xs-w-90">Bringing designs to life with realistic and detailed 3D visualizations.</p>                      
                     </div>
                     <!-- end features box item -->
                     <!-- start features box item -->
@@ -176,8 +180,8 @@
                     <svg xmlns="http://www.w3.org/2000/svg" width="35" height="40" fill="currentColor" class="bi bi-cart-fill text-klein-blue " viewBox="0 0 16 16">
                     <path d="M0 1.5A.5.5 0 0 1 .5 1H2a.5.5 0 0 1 .485.379L2.89 3H14.5a.5.5 0 0 1 .491.592l-1.5 8A.5.5 0 0 1 13 12H4a.5.5 0 0 1-.491-.408L2.01 3.607 1.61 2H.5a.5.5 0 0 1-.5-.5M5 12a2 2 0 1 0 0 4 2 2 0 0 0 0-4m7 0a2 2 0 1 0 0 4 2 2 0 0 0 0-4m-7 1a1 1 0 1 1 0 2 1 1 0 0 1 0-2m7 0a1 1 0 1 1 0 2 1 1 0 0 1 0-2"></path>
                     </svg>                       
-                    <div class="text-extra-dark-gray margin-10px-bottom md-margin-5px-bottom alt-font font-weight-600">Premium Furniture &amp; Appliances</div>
-                        <p class="w-80 mx-auto lg-w-85 sm-w-100 xs-w-90">Featuring exclusive collections from kave home, Lightinova, Caressi, Miele, Gaggenau, Rotpunkt, among many other high-end brands.</p>                      
+                    <div data-i18n="aboutPage.premiumFurnitureTitle" class="text-extra-dark-gray margin-10px-bottom md-margin-5px-bottom alt-font font-weight-600">Premium Furniture &amp; Appliances</div>
+                        <p data-i18n="aboutPage.premiumFurnitureDescription" class="w-80 mx-auto lg-w-85 sm-w-100 xs-w-90">Featuring exclusive collections from kave home, Lightinova, Caressi, Miele, Gaggenau, Rotpunkt, among many other high-end brands.</p>                      
                     </div> 
                     <!-- end features box item -->
                     <!-- start features box item -->
@@ -185,8 +189,8 @@
                         <svg xmlns="http://www.w3.org/2000/svg" width="35" height="40" fill="currentColor" class="bi bi-calendar2-check-fill text-klein-blue " viewBox="0 0 16 16">
                         <path d="M3.5 0a.5.5 0 0 1 .5.5V1h8V.5a.5.5 0 0 1 1 0V1h1a2 2 0 0 1 2 2v11a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V3a2 2 0 0 1 2-2h1V.5a.5.5 0 0 1 .5-.5m9.954 3H2.545c-.3 0-.545.224-.545.5v1c0 .276.244.5.545.5h10.91c.3 0 .545-.224.545-.5v-1c0-.276-.244-.5-.546-.5m-2.6 5.854a.5.5 0 0 0-.708-.708L7.5 10.793 6.354 9.646a.5.5 0 1 0-.708.708l1.5 1.5a.5.5 0 0 0 .708 0z"></path>
                         </svg>                       
-                        <div class="text-extra-dark-gray margin-10px-bottom md-margin-5px-bottom alt-font font-weight-600">Deadline Commitment</div>
-                        <p class="w-80 mx-auto lg-w-85 sm-w-100 xs-w-90">Delivering projects on time and within budget while maintaining exceptional quality.</p>                      
+                        <div data-i18n="aboutPage.deadlineCommitmentTitle" class="text-extra-dark-gray margin-10px-bottom md-margin-5px-bottom alt-font font-weight-600">Deadline Commitment</div>
+                        <p data-i18n="aboutPage.deadlineCommitmentDescription" class="w-80 mx-auto lg-w-85 sm-w-100 xs-w-90">Delivering projects on time and within budget while maintaining exceptional quality.</p>                      
                     </div> 
                     <!-- end features box item -->
                 </div>
@@ -196,7 +200,7 @@
         <!-- start portfolio section -->
         <section class="wow animate__fadeIn pt-5">
             <div class="container-fluid">
-                <h5 class="alt-font text-extra-dark-gray font-weight-600 margin-5px-bottom text-center">Our office...</h5>
+                <h5 data-i18n="aboutPage.ourOffice" class="alt-font text-extra-dark-gray font-weight-600 margin-5px-bottom text-center">Our office...</h5>
                 <div class="row">
                     <div class="col-12 overflow-hidden">
                         <ul class="lightbox-gallery about-portfolio-wrapper grid grid-3col xl-grid-3col lg-grid-3col md-grid-2col sm-grid-2col xs-grid-1col gutter-medium">
@@ -271,12 +275,12 @@
         </section>
         <!-- end portfolio section -->
         <!-- start footer --> 
-        <footer class="footer-center-logo padding-five-tb sm-padding-30px-tb">
+         <footer class="footer-center-logo padding-five-tb sm-padding-30px-tb">
             <div class="container">
                 <div class="row align-items-center">
                     <!-- start social media -->
                        <div class="col-lg-4 text-center">
-                        <span class="alt-font text-small text-center margin-20px-right lg-margin-15px-right">On social networks</span>
+                        <span data-i18n="onSocialNetworks" class="alt-font text-small text-center margin-20px-right lg-margin-15px-right">On social networks</span>
                         <div class="social-icon-style-8 d-inline-block align-middle">
                             <ul class="small-icon mb-0">
                                 <li><a class="mail text-black" href="mailto:hello@lopeseco.com" target="_blank"><i class="fa-solid fa-envelope"></i></a></li>                                                  
@@ -289,10 +293,10 @@
                     <!-- end social media -->
                     <!-- start opening hours -->
                     <div class="col-lg-4 alt-font text-small text-center margin-15px-bottom">
-                        <div>monday closed</div>
-                        <div>tue to fri 9:00 - 12:30 &amp; 14:00 - 18:00</div>
-                        <div>saturday by appointment only</div>
-                        <div>sunday closed</div>
+                        <div><span data-i18n="monday">monday</span> <span data-i18n="closed">closed</span></div>
+                        <div><span data-i18n="tueToFri">tue to fri</span> 9:00 - 12:30 &amp; 14:00 - 18:00</div>
+                        <div><span data-i18n="saturday">saturday</span> <span data-i18n="byAppointment">by appointment only</span></span></div>
+                        <div><span data-i18n="sunday">sunday</span> <span data-i18n="closed">closed</span></div>
                     </div>
                     <!-- end opening hours -->
                     <div class="col-lg-4 alt-font text-small text-center margin-15px-bottom">
@@ -301,8 +305,8 @@
                     </div>
                     <!-- start copyright -->
                      <div class="text-extra-small alt-font text-center justify-content-center alt-font margin-15px-tb">
-                            <div>© 2025 Lopeseco Design Studio s.a.r.l/ legal information <a href="/legal/" class="text-decoration-underline" target="_blank" title="here">here </a></div> 
-                            <div>Powered by Seda Gulkesen Lopeseco</div>
+                            <div><span data-i18n="legalInfo">© 2025 Lopeseco Design Studio s.a.r.l/ legal information </span> <a data-i18n="here" href="/legal/" class="text-decoration-underline" target="_blank" title="here">here</a></div> 
+                            <div data-i18n="poweredBy">Powered by Seda Gulkesen Lopeseco</div>
                     </div>
                     <!-- end copyright -->
                 </div>
@@ -332,6 +336,6 @@
         <script type="text/javascript" src="revolution/js/extensions/revolution.extension.slideanims.min.js"></script>
         <script type="text/javascript" src="revolution/js/extensions/revolution.extension.video.min.js"></script>
         <!-- setting -->
-        <script type="text/javascript" src="/utils/js/main.js"></script>
-    
+        <script type="text/javascript" src="/utils/js/main.js"></script>        
+        <script type="text/javascript" src="/utils/js/lang.js"></script>
 </body></html>
