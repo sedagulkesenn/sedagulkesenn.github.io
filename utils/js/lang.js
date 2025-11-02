@@ -31,9 +31,6 @@ function updateLanguageTexts(activeLang) {
     const isActive = el.getAttribute("data-lang") === activeLang;
     el.classList.toggle("active", isActive);
 
-    // optional: if you want bootstrap-like appearance instead of .active class:
-    // el.classList.toggle("btn-primary", isActive);
-    // el.classList.toggle("btn-light", !isActive);
   });
 }
 
@@ -56,13 +53,4 @@ window.addEventListener("DOMContentLoaded", () => {
       }
     });
   });
-});
-
-// Handle dropdown language click
-document.addEventListener("click", (e) => {
-  if (e.target.classList.contains("lang-option")) {
-    e.preventDefault();
-    const selectedLang = e.target.getAttribute("data-lang");
-    setLanguage(selectedLang);
-  }
 });
