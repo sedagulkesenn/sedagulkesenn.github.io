@@ -2868,7 +2868,7 @@
     nav.navbar.bootsnav.sidebar-nav .nav.navbar-left-sidebar .dropdown.open .second-level,nav.navbar.bootsnav.sidebar-nav .nav.navbar-left-sidebar .dropdown.open .second-level .dropdown .third-level, .sidebar-part2 nav.navbar.bootsnav .nav.navbar-left-sidebar .dropdown.open .second-level, .sidebar-part2 nav.navbar.bootsnav .nav.navbar-left-sidebar .dropdown.open .second-level .dropdown .third-level {display:block !important; left: 0; width: 100%; height: auto; visibility: visible; opacity: 1 !important; background: transparent; padding: 0 0 0 8px !important}
     header .sidebar-part2 nav.navbar.bootsnav li.dropdown ul.dropdown-menu > li a:hover {border: 0; color: #002fa7}
     .sidebar-part1 { position: inherit; width: 170px; top:12px; }
-    .sidebar-part3 { position: absolute; right: 0; bottom: inherit; top: 0; }
+    .sidebar-part3 { position: absolute; right: 0; bottom: inherit; top: 0; display:flex;}
     .left-nav { height: 50px; width: 100%;}
 
     /* new-menu page */
@@ -5778,7 +5778,7 @@
     .text-outside-line:after {display: none}
     .text-outside-line:before {display: none}
     .input-border-bottom {margin-bottom: 10px;}
-    .sidebar-part3 { top: 6px;}
+    .sidebar-part3 { top: 6px; display:flex;}
     .blog-text .name:nth-child(2) { padding-top: 0; padding-bottom: 0; }
 
     /* top logo */
