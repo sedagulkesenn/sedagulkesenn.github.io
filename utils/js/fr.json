@@ -4,6 +4,7 @@
     "team": "Équipe",
     "portfolio": "Réalisations",
     "contact": "Contact",
+    "faq": "FAQ",
     "homePage": {
         "interiorDesign": "Design d'intérieur",
         "renovation": "Rénovation",
@@ -97,6 +98,59 @@
         "conditionsTitle": "CONDITIONS GÉNÉRALES DE VENTE",
         "conditionsDescription": "Nos conditions générales de vente peuvent être demandées par courriel à l'adresse hello@lopeseco.com ou en vous rendant dans nos locaux."
     },
+  "faqPage": {
+        "title":"FAQs",
+        "question1": "1. Quels services proposez-vous ?",
+        "answer1": "Nous proposons une gamme complète de services, incluant :",
+        "answer1a": "Architecture d’intérieur & optimisation des espaces",
+        "answer1b": "Mobilier sur mesure réalisé dans <b>notre atelier</b> au Luxembourg",
+        "answer1c": "Conception de cuisines",
+        "answer1d": "Aménagement de salons et solutions de rangement",
+        "answer1e": "Dressings & armoires sur mesure",
+        "answer1f": "Conception de salles de bain",
+        "answer1g": "Cloisons vitrées, portes et éléments décoratifs",
+        "answer1h": "Nous vous accompagnons à chaque étape afin de garantir un résultat cohérent et harmonieux dans l’ensemble de votre intérieur.",
+
+        "question2": "2. Quels sont les délais de production et de livraison ?",
+        "answer2": "Les délais dépendent de la taille et de la complexité du projet.",
+        "answer2a": "Le mobilier sur mesure nécessite généralement 6 à 8 semaines entre la validation du design et l’installation",
+        "answer2b": "Les projets plus importants peuvent demander un délai supplémentaire pour la planification et la coordination",
+        "answer2c": "Les délais de livraison des éléments provenant de fournisseurs varient selon ces derniers",
+        "answer2d": "Nous nous efforçons toujours d’optimiser les délais et de vous tenir informé tout au long du projet.",
+
+        "question3": "3. Où votre mobilier est-il fabriqué ?",
+        "answer3": "Nous collaborons avec des partenaires européens de confiance afin de garantir un haut niveau de qualité. Notre mobilier sur mesure est principalement fabriqué dans notre <b>atelier</b> au Luxembourg, ce qui nous permet de garder un contrôle total sur la qualité, la précision et les finitions. Cette production locale offre également plus de flexibilité, de fiabilité et des délais optimisés. Nous sélectionnons également certains fabricants européens pour des éléments spécifiques, toujours selon nos exigences en matière de durabilité, de fonctionnalité et d’excellence du design.",
+
+        "question4": "4. L’installation est-elle incluse dans vos services ?",
+        "answer4": "Oui, l’installation est <b>entièrement incluse.</b>",
+        "answer4a": "Tous les projets sont réalisés en formule clé en main, ce qui signifie que nous prenons en charge l’ensemble du processus, de la conception initiale jusqu’à l’installation finale chez vous.",
+
+        "question5": "5. Qu’est-ce qui distingue Lopeseco des autres architectes d’intérieur au Luxembourg ?",
+        "answer5": "L’ensemble du projet est géré par un interlocuteur unique. Cela vous permet de bénéficier d’une approche entièrement coordonnée, où une personne dédiée supervise et organise toutes les étapes du projet, y compris les différents corps de métier. Notre mobilier sur mesure est réalisé dans notre atelier à Contern, Luxembourg, où nous combinons savoir-faire, précision et souci du détail afin de garantir un niveau de qualité élevé. De la conception à l’installation finale, chaque étape est maîtrisée et alignée sous une seule responsabilité, assurant une communication claire, une exécution cohérente et une expérience fluide du début à la fin.",
+
+        "question6": "6. Dois-je coordonner moi-même les différents intervenants ?",
+        "answer6": "Non.",
+        "answer6a": "Lopeseco propose un service entièrement pris en charge, de A à Z. Nous coordonnons l’ensemble des intervenants du projet — des artisans aux équipes techniques jusqu’à l’installation — en assurant une communication fluide et une exécution cohérente. Vous bénéficiez d’un interlocuteur unique tout au long du projet, ce qui élimine toute complexité et réduit considérablement le stress.",
+
+        "question7": "7. Puis-je visiter votre showroom ?",
+        "answer7": "Oui — les visites sont possibles <a href='/contact/' class='font-weight-600'>sur rendez-vous</a>, afin de pouvoir vous consacrer un moment personnalisé.",
+
+        "question8": "8. À quel moment dois-je vous contacter pour mon projet ?",
+        "answer8": "Plus nous intervenons tôt, plus nous pouvons apporter de valeur à votre projet. Idéalement, nous intervenons avant le début de la construction ou dès les premières étapes d’une rénovation. Cela nous permet d’optimiser les agencements, d’intégrer des solutions sur mesure et d’anticiper les aspects techniques dès le départ. Une collaboration anticipée garantit un design plus cohérent, une meilleure fonctionnalité et une exécution plus fluide.",
+
+        "question9": "9. Puis-je visualiser le résultat avant de m’engager ?",
+        "answer9": "Oui.",
+        "answer9a": "Nous réalisons des rendus 3D détaillés qui vous permettent de visualiser clairement votre futur intérieur avant le lancement de la production.",
+        "answer9b": "Cela vous permet de :",
+        "answer9c": "Ajuster et affiner les agencements en toute confiance",
+        "answer9d": "Explorer et valider les matériaux, les couleurs et les finitions",
+        "answer9e": "Prendre des décisions éclairées avant le lancement des travaux",
+        "answer9f": "Notre objectif est d’assurer une parfaite clarté dès le départ et d’éliminer toute incertitude avant la mise en production.",
+
+        "question10": "10. Travaillez-vous sur des projets de toutes tailles ?",
+        "answer10": "Oui.",
+        "answer10a": "Nous intervenons aussi bien sur des projets complets que sur des réalisations ciblées, comme une cuisine, un dressing ou un meuble sur mesure. Qu’il s’agisse d’une pièce unique ou d’un bien entier, nous appliquons le même niveau d’exigence, de savoir-faire et d’attention aux détails."
+        },
     "onSocialNetworks": "Sur les réseaux sociaux",
     "monday": "lundi",
     "tueToFri": "mar. au ven.",

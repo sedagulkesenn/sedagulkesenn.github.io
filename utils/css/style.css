@@ -2598,7 +2598,7 @@ nav.navbar ul.nav .dropdown-menu.second-level .dropdown-menu {margin-top: 0}
 /* navigation left sidebar */
 header .menu-wrap .widget {margin-bottom: 30px; display: inline-block; width: 100%}
 .nav.navbar-left-sidebar {display: block; transition: all 0s ease-in-out 0s; -webkit-transition: all 0s ease-in-out 0s; -moz-transition: all 0s ease-in-out 0s; -ms-transition: all 0s ease-in-out 0s; -o-transition: all 0s ease-in-out 0s; overflow-y: auto;}
-.left-nav-on .sidebar-part2 .sidebar-middle .sidebar-middle-menu .nav {overflow-x: hidden; display: block;}
+.left-nav-on .sidebar-part2 .sidebar-middle .sidebar-middle-menu .nav { display: block;}
 .nav.navbar-left-sidebar li {display: inline-block; width: 100%; padding: 0 45px;}
 .nav.navbar-left-sidebar li a, nav.navbar.bootsnav.navbar-left-sidebar ul.nav > li > a {font-size: 11px; text-transform: uppercase; color: #939393; background: transparent !important; font-weight: 600; border-bottom: 1px solid #e5e5e5 !important; padding:15px 0; margin:0;}
 nav.navbar.sidebar-nav .navbar-left-sidebar li.dropdown .third-level a > [class^="ti-"], nav.navbar.sidebar-nav .navbar-left-sidebar li.dropdown .third-level a > [class*=" ti-"] {margin-right: 5px;}
@@ -2660,7 +2660,7 @@ nav.navbar.sidebar-nav{border: none; display: inline-table; width: 290px; border
 .sidebar-part3 {position: absolute; bottom: 0;}
 .left-nav-on .sidebar-part2 {left: 0;}
 .sidebar-part2:before {width: 100%; content: ""; position: absolute;bottom: 75px; left: 0; display: inline-block}
-.sidebar-part2 .sidebar-middle {padding: 180px 0}
+.sidebar-part2 .sidebar-middle {padding: 160px 0}
 .sidebar-part2 .sidebar-middle-menu {display: table-cell; height: 100%; width: 100%; vertical-align: middle}
 .bottom-menu-icon {width:90px; padding: 22px 30px; text-align: center;}
 header .sidebar-part2 nav.navbar.bootsnav ul > li > a {font-size: 36px; display: block; padding: 0; color: #0f0f0f; text-transform: none; margin: 0; line-height: 40px; font-weight: 600; position: relative;}
