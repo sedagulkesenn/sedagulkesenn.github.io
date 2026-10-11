@@ -180,5 +180,97 @@
   "legalInfo": "© 2025 Lopeseco Design Studio s.a.r.l / informations légales",
   "here": "ici",
   "poweredBy": "Développé par Seda Gulkesen Lopeseco",
-  "pageTitle": "Mobilier sur mesure, menuiserie et décoration d'intérieur Luxembourg | Lopeseco"
+  "pageTitle": "Mobilier sur mesure, menuiserie et décoration d'intérieur Luxembourg | Lopeseco",
+  "bathroomProjects": {
+    "modernStorage": {
+      "title": "Rangements et meubles de salle de bains sur mesure au Luxembourg | Lopeseco",
+      "metaDescription": "Découvrez les rangements et meubles de salle de bains sur mesure de Lopeseco au Luxembourg, conçus pour allier fonctionnalité et harmonie.",
+      "h1": "Rangements et meubles de salle de bains sur mesure",
+      "h2": "Des rangements pratiques, adaptés à votre salle de bains",
+      "description": "Lopeseco conçoit des meubles et des solutions de rangement sur mesure pour les salles de bains au Luxembourg. Découvrez ce projet pour trouver des idées d’aménagement fonctionnel, avec des meubles adaptés à l’espace disponible.",
+      "cta": "Vous préparez un projet de salle de bains ? Contactez Lopeseco pour parler de mobilier et de rangements sur mesure.",
+      "location": "Luxembourg",
+      "services": "Mobilier et rangements de salle de bains sur mesure",
+      "imageAlts": {
+        "1": "Mobilier et rangements de salle de bains sur mesure au Luxembourg",
+        "2": "Meubles et rangements intégrés pour salle de bains par Lopeseco"
+      },
+      "projectName": "Rangements et mobilier de salle de bains"
+    },
+    "woodenFurniture": {
+      "title": "Meubles de salle de bains en bois au Luxembourg | Lopeseco",
+      "metaDescription": "Découvrez les meubles de salle de bains et finitions bois de Lopeseco au Luxembourg, avec des solutions adaptées à l’espace et à l’aménagement.",
+      "h1": "Meubles de salle de bains en bois",
+      "h2": "Des finitions chaleureuses et des meubles adaptés à votre espace",
+      "description": "Découvrez ce projet de salle de bains de Lopeseco au Luxembourg, consacré au mobilier et à l’harmonie des finitions. Notre équipe réalise des meubles sur mesure adaptés à la pièce, à son agencement et à vos besoins pratiques.",
+      "cta": "Vous recherchez des meubles de salle de bains au Luxembourg ? Contactez Lopeseco pour discuter de votre projet.",
+      "location": "Luxembourg",
+      "services": "Mobilier de salle de bains et aménagement intérieur sur mesure",
+      "imageAlts": {
+        "1": "Meubles de salle de bains en bois et finitions coordonnées au Luxembourg",
+        "2": "Projet de mobilier de salle de bains avec rangements sur mesure par Lopeseco"
+      },
+      "projectName": "Mobilier de salle de bains en bois"
+    },
+    "bathroomDesign": {
+      "title": "Aménagement de salle de bains et mobilier sur mesure au Luxembourg | Lopeseco",
+      "metaDescription": "Découvrez un projet de salle de bains Lopeseco au Luxembourg, avec du mobilier et un aménagement intérieur adaptés à la pièce.",
+      "h1": "Aménagement de salle de bains et mobilier sur mesure",
+      "h2": "Une approche harmonieuse de l’aménagement de salle de bains",
+      "description": "Ce projet Lopeseco présente du mobilier de salle de bains et un aménagement intérieur au Luxembourg. Nous créons des solutions adaptées qui associent agencement, meubles et rangements pratiques afin d’optimiser l’espace disponible.",
+      "cta": "Vous prévoyez une rénovation ou un nouvel aménagement de salle de bains ? Contactez Lopeseco pour parler du design et du mobilier.",
+      "location": "Luxembourg",
+      "services": "Aménagement de salle de bains et mobilier sur mesure",
+      "imageAlts": {
+        "1": "Aménagement de salle de bains avec mobilier sur mesure au Luxembourg",
+        "2": "Meuble de salle de bains sur mesure dans un projet Lopeseco",
+        "3": "Intérieur de salle de bains avec mobilier et finitions harmonisés",
+        "4": "Mobilier de salle de bains et aménagement intérieur par Lopeseco",
+        "5": "Projet de salle de bains sur mesure au Luxembourg"
+      },
+      "projectName": "Aménagement de salle de bains"
+    },
+    "luxuryInterior": {
+      "title": "Design de salle de bains haut de gamme au Luxembourg | Lopeseco",
+      "metaDescription": "Découvrez un projet de salle de bains haut de gamme de Lopeseco au Luxembourg, avec un design soigné et du mobilier adapté à l’espace.",
+      "h1": "Design de salle de bains haut de gamme",
+      "h2": "Des détails raffinés pour une salle de bains harmonieuse",
+      "description": "Découvrez ce projet de salle de bains réalisé par Lopeseco au Luxembourg. L’aménagement associe une esthétique soignée et du mobilier de salle de bains, avec des solutions adaptées à la pièce et à son agencement.",
+      "cta": "Parlons de votre salle de bains avec Lopeseco. Contactez-nous pour explorer les options de mobilier et de design sur mesure.",
+      "location": "Luxembourg",
+      "services": "Design de salle de bains et mobilier sur mesure",
+      "imageAlts": {
+        "1": "Design de salle de bains haut de gamme au Luxembourg",
+        "2": "Intérieur de salle de bains moderne avec mobilier coordonné par Lopeseco",
+        "3": "Détail d’aménagement de salle de bains dans un projet au Luxembourg",
+        "4": "Design de salle de bains et mobilier intégré",
+        "5": "Projet contemporain de salle de bains par Lopeseco"
+      },
+      "projectName": "Salle de bains haut de gamme"
+    },
+    "customDesign": {
+      "title": "Conception de salle de bains sur mesure au Luxembourg | Lopeseco",
+      "metaDescription": "Découvrez la conception de salles de bains sur mesure par Lopeseco au Luxembourg, avec du mobilier adapté et un aménagement à la fois pratique et harmonieux.",
+      "h1": "Conception de salle de bains sur mesure",
+      "h2": "Des solutions de salle de bains adaptées à votre intérieur",
+      "description": "Lopeseco conçoit des salles de bains et du mobilier sur mesure au Luxembourg. Ce projet présente un intérieur contemporain, avec un agencement et des choix de mobilier pensés en fonction de la pièce et de son usage quotidien.",
+      "cta": "Vous avez un projet de salle de bains ? Contactez Lopeseco pour discuter de la conception et du mobilier sur mesure.",
+      "location": "Luxembourg",
+      "services": "Conception de salle de bains et mobilier sur mesure",
+      "imageAlts": {
+        "1": "Salle de bains contemporaine conçue sur mesure au Luxembourg",
+        "2": "Intérieur de salle de bains sur mesure aux lignes modernes",
+        "3": "Mobilier et équipements dans une salle de bains contemporaine"
+      },
+      "projectName": "Salle de bains sur mesure"
+    },
+    "projectLabel": "Projet",
+    "locationLabel": "Lieu",
+    "servicesLabel": "Prestations",
+    "ogLocale": "fr_LU",
+    "studioTagline": "STUDIO D'AMÉNAGEMENT INTÉRIEUR",
+    "loading": "Chargement...",
+    "logoTitle": "Lopeseco Design Studio au Luxembourg"
+  },
+  "services": "Services"
 }

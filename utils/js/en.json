@@ -180,5 +180,97 @@
   "legalInfo": "© 2025 Lopeseco Design Studio s.a.r.l/ legal information",
   "here": "here",
   "poweredBy": "Powered by Seda Gulkesen Lopeseco",
-  "pageTitle": "Custom Furniture, Carpentry & Interior Design Luxembourg | Lopeseco"
+  "pageTitle": "Custom Furniture, Carpentry & Interior Design Luxembourg | Lopeseco",
+  "bathroomProjects": {
+    "modernStorage": {
+      "title": "Custom Bathroom Storage & Furniture in Luxembourg | Lopeseco",
+      "metaDescription": "Explore custom bathroom storage and fitted furniture by Lopeseco in Luxembourg, designed to bring practical storage and a cohesive look to your bathroom.",
+      "h1": "Custom Bathroom Storage & Furniture",
+      "h2": "Practical storage, tailored to your bathroom",
+      "description": "Lopeseco designs made-to-measure bathroom furniture and storage solutions in Luxembourg. Explore this project for ideas on creating a functional bathroom with cabinetry and storage planned around the space.",
+      "cta": "Planning a bathroom project? Contact Lopeseco to discuss custom furniture and storage.",
+      "location": "Luxembourg",
+      "services": "Custom bathroom furniture and storage",
+      "imageAlts": {
+        "1": "Custom bathroom furniture and storage designed for a bathroom in Luxembourg",
+        "2": "Bathroom storage and fitted furniture by Lopeseco"
+      },
+      "projectName": "Modern Bathroom Storage Furniture"
+    },
+    "woodenFurniture": {
+      "title": "Wooden Bathroom Furniture in Luxembourg | Lopeseco",
+      "metaDescription": "Discover bathroom furniture and wooden finishes by Lopeseco in Luxembourg, with tailored solutions designed to complement the bathroom and its available space.",
+      "h1": "Wooden Bathroom Furniture",
+      "h2": "Warm finishes and furniture made for your space",
+      "description": "Explore this Lopeseco bathroom project in Luxembourg, focused on bathroom furniture and a considered interior finish. Our team creates made-to-measure furniture solutions to suit the room, its layout and your practical needs.",
+      "cta": "Looking for bathroom furniture in Luxembourg? Contact Lopeseco to discuss your project.",
+      "location": "Luxembourg",
+      "services": "Bathroom furniture and custom interior solutions",
+      "imageAlts": {
+        "1": "Wooden bathroom furniture and coordinated finishes in Luxembourg",
+        "2": "Bathroom furniture project with tailored cabinetry by Lopeseco"
+      },
+      "projectName": "Wooden Bathroom Furniture Luxembourg"
+    },
+    "bathroomDesign": {
+      "title": "Bathroom Design & Custom Furniture in Luxembourg | Lopeseco",
+      "metaDescription": "See a Lopeseco bathroom design project in Luxembourg featuring bathroom furniture and tailored interior solutions planned around the room.",
+      "h1": "Bathroom Design & Custom Furniture",
+      "h2": "A coordinated approach to bathroom interiors",
+      "description": "This Lopeseco project presents bathroom furniture and interior planning in Luxembourg. We create tailored solutions that bring together the room layout, furniture and practical storage to make the most of the available space.",
+      "cta": "Planning a bathroom renovation or new interior? Contact Lopeseco to discuss the design and furniture.",
+      "location": "Luxembourg",
+      "services": "Bathroom design and custom furniture",
+      "imageAlts": {
+        "1": "Bathroom design with custom furniture in Luxembourg",
+        "2": "Made-to-measure bathroom furniture in a Lopeseco project",
+        "3": "Bathroom interior with coordinated furniture and finishes",
+        "4": "Bathroom furniture and interior planning by Lopeseco",
+        "5": "Custom bathroom interior project in Luxembourg"
+      },
+      "projectName": "Bathroom Design Luxembourg"
+    },
+    "luxuryInterior": {
+      "title": "Luxury Bathroom Interior Design in Luxembourg | Lopeseco",
+      "metaDescription": "Explore a luxury bathroom interior project by Lopeseco in Luxembourg, with considered design details and bathroom furniture tailored to the space.",
+      "h1": "Luxury Bathroom Interior Design",
+      "h2": "Refined details for a considered bathroom interior",
+      "description": "Discover this bathroom interior project by Lopeseco in Luxembourg. The design brings together a considered overall look and bathroom furniture, with tailored solutions intended to complement the room and its layout.",
+      "cta": "Discuss your bathroom interior with Lopeseco. Contact us to explore custom furniture and design options.",
+      "location": "Luxembourg",
+      "services": "Bathroom interior design and custom furniture",
+      "imageAlts": {
+        "1": "Luxury bathroom interior design in Luxembourg",
+        "2": "Modern bathroom interior with coordinated furniture by Lopeseco",
+        "3": "Bathroom design detail from a Luxembourg interior project",
+        "4": "Bathroom interior design and fitted furniture",
+        "5": "Contemporary bathroom interior project by Lopeseco"
+      },
+      "projectName": "Luxury Bathroom Interior Design"
+    },
+    "customDesign": {
+      "title": "Custom Bathroom Design in Luxembourg | Lopeseco",
+      "metaDescription": "Explore custom bathroom design by Lopeseco in Luxembourg, with tailored furniture and a contemporary approach to making bathroom spaces practical and cohesive.",
+      "h1": "Custom Bathroom Design",
+      "h2": "Bathroom solutions tailored to your home",
+      "description": "Lopeseco develops custom bathroom design and furniture solutions in Luxembourg. This project showcases a contemporary bathroom interior, with planning and furniture choices shaped around the room and everyday use.",
+      "cta": "Have a bathroom project in mind? Contact Lopeseco to discuss custom design and furniture.",
+      "location": "Luxembourg",
+      "services": "Custom bathroom design and furniture",
+      "imageAlts": {
+        "1": "Contemporary bathroom with a custom design in Luxembourg",
+        "2": "Custom bathroom interior with clean, modern lines",
+        "3": "Bathroom furniture and fittings in a contemporary interior"
+      },
+      "projectName": "Custom Bathroom Design Luxembourg"
+    },
+    "projectLabel": "Project",
+    "locationLabel": "Location",
+    "servicesLabel": "Services",
+    "ogLocale": "en_LU",
+    "studioTagline": "INTERIOR DESIGN STUDIO",
+    "loading": "Loading...",
+    "logoTitle": "Lopeseco Design Studio Luxembourg"
+  },
+  "services": "Services"
 }
