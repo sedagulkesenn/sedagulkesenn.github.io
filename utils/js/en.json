@@ -76,8 +76,8 @@
     "location": "Location",
     "project": "Project",
     "services": "Services",
-    "29lu-location-value": "Luxembourg City",
     "29lu-services-value": "Turnkey project management",
+    "29lu-project-value": "Rental Studio Furnishing",
     "29lu-image-alt-1": "Furnished rental studio with wooden flooring and a minimalist interior",
     "29lu-image-alt-2": "Compact studio apartment furnished with space-saving interior solutions",
     "29lu-image-alt-3": "Custom furniture designed for a compact rental studio apartment",
@@ -272,5 +272,999 @@
     "loading": "Loading...",
     "logoTitle": "Lopeseco Design Studio Luxembourg"
   },
-  "services": "Services"
+  "services": "Services",
+  "dressingProjects": {
+    "makeupTable": {
+      "title": "Custom Makeup Vanity in Luxembourg | Lopeseco",
+      "metaDescription": "Explore a custom makeup vanity by Lopeseco in Luxembourg, with tailored furniture and practical storage designed for a dedicated beauty area.",
+      "h1": "Custom Makeup Vanity",
+      "h2": "A dedicated space with made-to-measure storage",
+      "description": "This Lopeseco project features a made-to-measure makeup table designed around the available space. Explore a tailored vanity solution that combines a dedicated beauty area with practical storage.",
+      "cta": "Planning a dressing or wardrobe project? Contact Lopeseco to discuss custom furniture and storage.",
+      "location": "Luxembourg",
+      "services": "Custom makeup vanity and storage",
+      "projectName": "Custom Makeup Vanity",
+      "imageAlts": {
+        "1": "Custom makeup vanity and storage by Lopeseco in Luxembourg",
+        "2": "Detail of custom makeup vanity and storage in a Lopeseco interior project",
+        "3": "Made-to-measure custom makeup vanity and storage designed for the available space"
+      }
+    },
+    "luxuryWalkIn": {
+      "title": "Luxury Walk-In Wardrobe in Luxembourg | Lopeseco",
+      "metaDescription": "Discover a luxury walk-in wardrobe project by Lopeseco in Luxembourg, with custom storage planned to make everyday organisation more practical.",
+      "h1": "Luxury Walk-In Wardrobe",
+      "h2": "Tailored storage for an organised dressing area",
+      "description": "This Lopeseco project explores a walk-in wardrobe designed around the room and its storage needs. The custom approach helps organise clothing and accessories while keeping the dressing area cohesive.",
+      "cta": "Planning a dressing or wardrobe project? Contact Lopeseco to discuss custom furniture and storage.",
+      "location": "Luxembourg",
+      "services": "Walk-in wardrobe and custom storage",
+      "projectName": "Luxury Walk-In Wardrobe",
+      "imageAlts": {
+        "1": "Luxury walk-in wardrobe and fitted storage by Lopeseco in Luxembourg",
+        "2": "Detail of luxury walk-in wardrobe and fitted storage in a Lopeseco interior project",
+        "3": "Made-to-measure luxury walk-in wardrobe and fitted storage designed for the available space"
+      }
+    },
+    "builtInWardrobe": {
+      "title": "Built-In Wardrobes & Storage in Luxembourg | Lopeseco",
+      "metaDescription": "Explore built-in wardrobe and storage solutions by Lopeseco in Luxembourg, with fitted furniture designed to use available space efficiently.",
+      "h1": "Built-In Wardrobe & Storage",
+      "h2": "Fitted furniture that makes the most of your space",
+      "description": "This Lopeseco project focuses on built-in wardrobe storage, with fitted furniture planned around the room. Discover an approach to keeping clothing and personal items organised while making efficient use of the available space.",
+      "cta": "Planning a dressing or wardrobe project? Contact Lopeseco to discuss custom furniture and storage.",
+      "location": "Luxembourg",
+      "services": "Built-in wardrobe and fitted storage",
+      "projectName": "Built-In Wardrobe & Storage",
+      "imageAlts": {
+        "1": "Built-in wardrobe with custom storage by Lopeseco in Luxembourg",
+        "2": "Detail of built-in wardrobe with custom storage in a Lopeseco interior project",
+        "3": "Made-to-measure built-in wardrobe with custom storage designed for the available space"
+      }
+    },
+    "customCloset": {
+      "title": "Custom Closet Design in Luxembourg | Lopeseco",
+      "metaDescription": "See custom closet design by Lopeseco in Luxembourg, with made-to-measure storage planned around the room, wardrobe needs and daily routines.",
+      "h1": "Custom Closet Design",
+      "h2": "Storage designed around your everyday routine",
+      "description": "This Lopeseco project presents a custom closet concept tailored to the available space. Made-to-measure storage helps organise clothing and accessories while creating a considered, cohesive interior.",
+      "cta": "Planning a dressing or wardrobe project? Contact Lopeseco to discuss custom furniture and storage.",
+      "location": "Luxembourg",
+      "services": "Custom closet and fitted storage",
+      "projectName": "Custom Closet Design",
+      "imageAlts": {
+        "1": "Custom closet and fitted wardrobe storage by Lopeseco in Luxembourg",
+        "2": "Detail of custom closet and fitted wardrobe storage in a Lopeseco interior project",
+        "3": "Made-to-measure custom closet and fitted wardrobe storage designed for the available space",
+        "4": "Custom custom closet and fitted wardrobe storage and coordinated interior finish"
+      }
+    },
+    "luxuryDressingRoom": {
+      "title": "Luxury Dressing Room Design in Luxembourg | Lopeseco",
+      "metaDescription": "Explore a luxury dressing room project by Lopeseco in Luxembourg, with custom furniture and storage planned to suit the room and its use.",
+      "h1": "Luxury Dressing Room Design",
+      "h2": "A considered dressing room with tailored furniture",
+      "description": "This Lopeseco project focuses on dressing room design and custom furniture. The layout and storage are considered together to create a practical dressing area with a coordinated look.",
+      "cta": "Planning a dressing or wardrobe project? Contact Lopeseco to discuss custom furniture and storage.",
+      "location": "Luxembourg",
+      "services": "Luxury dressing room design and custom furniture",
+      "projectName": "Luxury Dressing Room Design",
+      "imageAlts": {
+        "1": "Luxury dressing room with custom furniture by Lopeseco in Luxembourg",
+        "2": "Detail of luxury dressing room with custom furniture in a Lopeseco interior project"
+      }
+    },
+    "customDressing": {
+      "title": "Custom Dressing Room in Luxembourg | Lopeseco",
+      "metaDescription": "Discover a custom dressing room by Lopeseco in Luxembourg, with made-to-measure furniture and storage designed around your space.",
+      "h1": "Custom Dressing Room",
+      "h2": "Made-to-measure storage for a better-organised home",
+      "description": "This Lopeseco project showcases a custom dressing room designed to suit the available space. Tailored furniture and storage help keep clothing and accessories organised while supporting a cohesive interior.",
+      "cta": "Planning a dressing or wardrobe project? Contact Lopeseco to discuss custom furniture and storage.",
+      "location": "Luxembourg",
+      "services": "Custom dressing room and fitted furniture",
+      "projectName": "Custom Dressing Room",
+      "imageAlts": {
+        "1": "Made-to-measure dressing room furniture by Lopeseco in Luxembourg",
+        "2": "Detail of made-to-measure dressing room furniture in a Lopeseco interior project",
+        "3": "Made-to-measure made-to-measure dressing room furniture designed for the available space",
+        "4": "Custom made-to-measure dressing room furniture and coordinated interior finish"
+      }
+    },
+    "compactWardrobe": {
+      "title": "Compact Wardrobe Design in Luxembourg | Lopeseco",
+      "metaDescription": "Explore compact wardrobe design by Lopeseco in Luxembourg, with custom storage solutions that make practical use of limited space.",
+      "h1": "Compact Wardrobe Design",
+      "h2": "Smart storage for smaller spaces",
+      "description": "This Lopeseco project focuses on a compact wardrobe and efficient storage. The design works with the available dimensions to help organise clothing and make better use of a smaller area.",
+      "cta": "Planning a dressing or wardrobe project? Contact Lopeseco to discuss custom furniture and storage.",
+      "location": "Luxembourg",
+      "services": "Compact wardrobe and space-saving storage",
+      "projectName": "Compact Wardrobe Design",
+      "imageAlts": {
+        "1": "Compact wardrobe and space-saving storage by Lopeseco in Luxembourg",
+        "2": "Detail of compact wardrobe and space-saving storage in a Lopeseco interior project",
+        "3": "Made-to-measure compact wardrobe and space-saving storage designed for the available space",
+        "4": "Custom compact wardrobe and space-saving storage and coordinated interior finish"
+      }
+    },
+    "luxuryBedroom": {
+      "title": "Luxury Bedroom & Dressing Design in Luxembourg | Lopeseco",
+      "metaDescription": "Discover a bedroom and dressing project by Lopeseco in Luxembourg, bringing custom furniture and storage together in a coordinated interior.",
+      "h1": "Luxury Bedroom & Dressing Design",
+      "h2": "A coordinated bedroom with custom storage",
+      "description": "This Lopeseco project brings bedroom design and dressing storage together. Custom furniture is planned to complement the room and support practical organisation within a cohesive interior.",
+      "cta": "Planning a dressing or wardrobe project? Contact Lopeseco to discuss custom furniture and storage.",
+      "location": "Luxembourg",
+      "services": "Bedroom design and custom dressing storage",
+      "projectName": "Luxury Bedroom & Dressing Design",
+      "imageAlts": {
+        "1": "Bedroom with custom dressing storage by Lopeseco in Luxembourg",
+        "2": "Detail of bedroom with custom dressing storage in a Lopeseco interior project",
+        "3": "Made-to-measure bedroom with custom dressing storage designed for the available space",
+        "4": "Custom bedroom with custom dressing storage and coordinated interior finish",
+        "5": "Bedroom with custom dressing storage with practical storage",
+        "6": "Bedroom with custom dressing storage by Lopeseco in Luxembourg",
+        "7": "Detail of bedroom with custom dressing storage in a Lopeseco interior project",
+        "8": "Made-to-measure bedroom with custom dressing storage designed for the available space"
+      }
+    },
+    "highEndDressing": {
+      "title": "High-End Dressing Room in Luxembourg | Lopeseco",
+      "metaDescription": "Explore a high-end dressing room project by Lopeseco in Luxembourg, featuring custom wardrobe furniture and storage tailored to the space.",
+      "h1": "High-End Dressing Room",
+      "h2": "Refined storage designed around the room",
+      "description": "This Lopeseco project presents a high-end dressing room with custom furniture and storage planned around the room. The aim is to balance everyday practicality with a consistent interior finish.",
+      "cta": "Planning a dressing or wardrobe project? Contact Lopeseco to discuss custom furniture and storage.",
+      "location": "Luxembourg",
+      "services": "High-end dressing room and custom wardrobe",
+      "projectName": "High-End Dressing Room",
+      "imageAlts": {
+        "1": "High-end dressing room and fitted wardrobe by Lopeseco in Luxembourg",
+        "2": "Detail of high-end dressing room and fitted wardrobe in a Lopeseco interior project",
+        "3": "Made-to-measure high-end dressing room and fitted wardrobe designed for the available space",
+        "4": "Custom high-end dressing room and fitted wardrobe and coordinated interior finish"
+      }
+    },
+    "modernCustomDressing": {
+      "title": "Modern Custom Dressing in Luxembourg | Lopeseco",
+      "metaDescription": "See a modern custom dressing project by Lopeseco in Luxembourg, with made-to-measure storage designed to fit the interior and daily needs.",
+      "h1": "Modern Custom Dressing",
+      "h2": "Contemporary lines and tailored storage",
+      "description": "This Lopeseco project features a modern dressing area with custom storage. The furniture is planned around the available space to create a contemporary and practical place for clothing and accessories.",
+      "cta": "Planning a dressing or wardrobe project? Contact Lopeseco to discuss custom furniture and storage.",
+      "location": "Luxembourg",
+      "services": "Modern dressing area and custom storage",
+      "projectName": "Modern Custom Dressing",
+      "imageAlts": {
+        "1": "Modern custom dressing furniture by Lopeseco in Luxembourg",
+        "2": "Detail of modern custom dressing furniture in a Lopeseco interior project",
+        "3": "Made-to-measure modern custom dressing furniture designed for the available space"
+      }
+    },
+    "minimalistDressing": {
+      "title": "Minimalist Dressing Design in Luxembourg | Lopeseco",
+      "metaDescription": "Discover minimalist dressing design by Lopeseco in Luxembourg, with clean-lined custom furniture and practical storage planned for the space.",
+      "h1": "Minimalist Dressing Design",
+      "h2": "A simple, considered approach to storage",
+      "description": "This Lopeseco project explores a minimalist dressing area with custom storage. The design focuses on a clear, cohesive look and practical organisation suited to the room.",
+      "cta": "Planning a dressing or wardrobe project? Contact Lopeseco to discuss custom furniture and storage.",
+      "location": "Luxembourg",
+      "services": "Minimalist dressing and custom storage",
+      "projectName": "Minimalist Dressing Design",
+      "imageAlts": {
+        "1": "Minimalist dressing room storage by Lopeseco in Luxembourg",
+        "2": "Detail of minimalist dressing room storage in a Lopeseco interior project",
+        "3": "Made-to-measure minimalist dressing room storage designed for the available space"
+      }
+    },
+    "dressingWithIsland": {
+      "title": "Luxury Dressing Room with Island in Luxembourg | Lopeseco",
+      "metaDescription": "Explore a luxury dressing room with an island by Lopeseco in Luxembourg, with custom storage designed to organise the space and its contents.",
+      "h1": "Luxury Dressing Room with Island",
+      "h2": "A central island and tailored dressing storage",
+      "description": "This Lopeseco project features a dressing room with an island. The layout brings the central element and surrounding storage together to support practical organisation and a coordinated interior.",
+      "cta": "Planning a dressing or wardrobe project? Contact Lopeseco to discuss custom furniture and storage.",
+      "location": "Luxembourg",
+      "services": "Dressing room with island and custom storage",
+      "projectName": "Luxury Dressing Room with Island",
+      "imageAlts": {
+        "1": "Luxury dressing room with central island by Lopeseco in Luxembourg",
+        "2": "Detail of luxury dressing room with central island in a Lopeseco interior project",
+        "3": "Made-to-measure luxury dressing room with central island designed for the available space",
+        "4": "Custom luxury dressing room with central island and coordinated interior finish"
+      }
+    },
+    "walkInDressing": {
+      "title": "Walk-In Dressing Room in Luxembourg | Lopeseco",
+      "metaDescription": "Discover a walk-in dressing room by Lopeseco in Luxembourg, with tailored furniture and storage planned to suit the room and everyday use.",
+      "h1": "Walk-In Dressing Room",
+      "h2": "A dedicated dressing space with custom storage",
+      "description": "This Lopeseco project showcases a walk-in dressing area designed around the available space. Custom furniture and storage help create an organised place for clothing and accessories.",
+      "cta": "Planning a dressing or wardrobe project? Contact Lopeseco to discuss custom furniture and storage.",
+      "location": "Luxembourg",
+      "services": "Walk-in dressing room and custom furniture",
+      "projectName": "Walk-In Dressing Room",
+      "imageAlts": {
+        "1": "Walk-in dressing room with custom storage by Lopeseco in Luxembourg",
+        "2": "Detail of walk-in dressing room with custom storage in a Lopeseco interior project",
+        "3": "Made-to-measure walk-in dressing room with custom storage designed for the available space",
+        "4": "Custom walk-in dressing room with custom storage and coordinated interior finish"
+      }
+    }
+  },
+  "dressingProjectsShared": {
+    "projectLabel": "Project",
+    "locationLabel": "Location",
+    "servicesLabel": "Services",
+    "loading": "Loading...",
+    "studioTagline": "INTERIOR DESIGN STUDIO",
+    "ogLocale": "en_LU"
+  },
+  "portfolioProjectsShared": {
+    "projectLabel": "Project",
+    "locationLabel": "Location",
+    "servicesLabel": "Services",
+    "servicesValue": "Custom interior design and made-to-measure furniture",
+    "cta": "Planning a similar project? Contact Lopeseco to discuss a tailored solution.",
+    "loading": "Loading project images..."
+  },
+  "portfolioProjects": {
+    "medical-cabinet-luxembourg": {
+      "title": "Custom Medical Cabinetry in Luxembourg | Lopeseco",
+      "metaDescription": "We design made-to-measure medical cabinets and storage furniture for professional environments, balancing accessible organization with durable, considered finishes.",
+      "h1": "Medical Cabinetry Made for Professional Spaces",
+      "h2": "Practical storage with a clean, tailored finish",
+      "description": "We design made-to-measure medical cabinets and storage furniture for professional environments, balancing accessible organization with durable, considered finishes.",
+      "cta": "Planning a similar project? Contact Lopeseco to discuss a tailored solution.",
+      "projectName": "Medical Cabinetry Made for Professional Spaces",
+      "servicesValue": "Custom interior design and made-to-measure furniture",
+      "imageAlts": {
+        "alt1": "Medical Cabinetry Made for Professional Spaces project in Luxembourg",
+        "alt2": "Made-to-measure Medical Cabinetry Made for Professional Spaces by Lopeseco",
+        "alt3": "Medical Cabinetry Made for Professional Spaces with a tailored interior layout",
+        "alt4": "Custom Medical Cabinetry Made for Professional Spaces design and furniture",
+        "alt5": "Medical Cabinetry Made for Professional Spaces project detail",
+        "alt6": "Interior design and fitted furniture for Medical Cabinetry Made for Professional Spaces"
+      }
+    },
+    "custom-garage-design-luxembourg": {
+      "title": "Custom Garage Storage in Luxembourg | Lopeseco",
+      "metaDescription": "Explore a custom garage design focused on practical storage and a clear layout. Lopeseco develops made-to-measure furniture solutions to help organize tools, equipment and everyday items.",
+      "h1": "A Garage Designed Around Your Needs",
+      "h2": "Smart storage and a more organized space",
+      "description": "Explore a custom garage design focused on practical storage and a clear layout. Lopeseco develops made-to-measure furniture solutions to help organize tools, equipment and everyday items.",
+      "cta": "Planning a similar project? Contact Lopeseco to discuss a tailored solution.",
+      "projectName": "A Garage Designed Around Your Needs",
+      "servicesValue": "Custom interior design and made-to-measure furniture",
+      "imageAlts": {
+        "alt1": "A Garage Designed Around Your Needs project in Luxembourg",
+        "alt2": "Made-to-measure A Garage Designed Around Your Needs by Lopeseco",
+        "alt3": "A Garage Designed Around Your Needs with a tailored interior layout",
+        "alt4": "Custom A Garage Designed Around Your Needs design and furniture"
+      }
+    },
+    "laundry-room-solutions-luxembourg": {
+      "title": "Custom Laundry Room Design in Luxembourg | Lopeseco",
+      "metaDescription": "Discover laundry-room furniture and storage designed to make everyday tasks easier. Tailored cabinetry helps organize supplies, appliances and the available space.",
+      "h1": "Laundry Room Storage and Furniture",
+      "h2": "Make everyday routines easier with tailored storage",
+      "description": "Discover laundry-room furniture and storage designed to make everyday tasks easier. Tailored cabinetry helps organize supplies, appliances and the available space.",
+      "cta": "Planning a similar project? Contact Lopeseco to discuss a tailored solution.",
+      "projectName": "Laundry Room Storage and Furniture",
+      "servicesValue": "Custom interior design and made-to-measure furniture",
+      "imageAlts": {
+        "alt1": "Laundry Room Storage and Furniture project in Luxembourg",
+        "alt2": "Made-to-measure Laundry Room Storage and Furniture by Lopeseco",
+        "alt3": "Laundry Room Storage and Furniture with a tailored interior layout"
+      }
+    },
+    "minimalist-office-design-luxembourg": {
+      "title": "Minimalist Office Design in Luxembourg | Lopeseco",
+      "metaDescription": "This minimalist office project explores a clean, functional workspace with furniture and storage planned around the needs of the room. Lopeseco creates tailored interiors for work and everyday use.",
+      "h1": "A Calm, Functional Workspace",
+      "h2": "Made-to-measure furniture for focused work",
+      "description": "This minimalist office project explores a clean, functional workspace with furniture and storage planned around the needs of the room. Lopeseco creates tailored interiors for work and everyday use.",
+      "cta": "Planning a similar project? Contact Lopeseco to discuss a tailored solution.",
+      "projectName": "A Calm, Functional Workspace",
+      "servicesValue": "Custom interior design and made-to-measure furniture",
+      "imageAlts": {
+        "alt1": "A Calm, Functional Workspace project in Luxembourg",
+        "alt2": "Made-to-measure A Calm, Functional Workspace by Lopeseco",
+        "alt3": "A Calm, Functional Workspace with a tailored interior layout",
+        "alt4": "Custom A Calm, Functional Workspace design and furniture"
+      }
+    },
+    "winecellar-luxembourg": {
+      "title": "Custom Wine Cellar Design in Luxembourg | Lopeseco",
+      "metaDescription": "Explore a wine-cellar project with storage designed around the space and its use. Lopeseco develops bespoke furniture solutions that combine organization, presentation and a coherent interior finish.",
+      "h1": "A Wine Cellar with Tailored Storage",
+      "h2": "A considered space for storing and presenting wine",
+      "description": "Explore a wine-cellar project with storage designed around the space and its use. Lopeseco develops bespoke furniture solutions that combine organization, presentation and a coherent interior finish.",
+      "cta": "Planning a similar project? Contact Lopeseco to discuss a tailored solution.",
+      "projectName": "A Wine Cellar with Tailored Storage",
+      "servicesValue": "Custom interior design and made-to-measure furniture",
+      "imageAlts": {
+        "alt1": "A Wine Cellar with Tailored Storage project in Luxembourg",
+        "alt2": "Made-to-measure A Wine Cellar with Tailored Storage by Lopeseco",
+        "alt3": "A Wine Cellar with Tailored Storage with a tailored interior layout",
+        "alt4": "Custom A Wine Cellar with Tailored Storage design and furniture",
+        "alt5": "A Wine Cellar with Tailored Storage project detail"
+      }
+    },
+    "flyer-display": {
+      "title": "Custom Flyer Display Stand in Luxembourg | Lopeseco",
+      "metaDescription": "This custom display project focuses on presenting printed materials in an organized, accessible way. Lopeseco develops tailored furniture and display solutions for professional and commercial spaces.",
+      "h1": "A Display Designed for Printed Materials",
+      "h2": "Practical presentation for brochures and flyers",
+      "description": "This custom display project focuses on presenting printed materials in an organized, accessible way. Lopeseco develops tailored furniture and display solutions for professional and commercial spaces.",
+      "cta": "Planning a similar project? Contact Lopeseco to discuss a tailored solution.",
+      "projectName": "A Display Designed for Printed Materials",
+      "servicesValue": "Custom interior design and made-to-measure furniture",
+      "imageAlts": {
+        "alt1": "A Display Designed for Printed Materials project in Luxembourg",
+        "alt2": "Made-to-measure A Display Designed for Printed Materials by Lopeseco",
+        "alt3": "A Display Designed for Printed Materials with a tailored interior layout"
+      }
+    },
+    "luxury-office-design-luxembourg": {
+      "title": "Luxury Office Design in Luxembourg | Lopeseco",
+      "metaDescription": "This office project brings together a considered layout and custom furniture to create a professional interior with a refined finish. Each solution is planned around the space and its practical needs.",
+      "h1": "A Refined Office Interior",
+      "h2": "Tailored furniture for a professional setting",
+      "description": "This office project brings together a considered layout and custom furniture to create a professional interior with a refined finish. Each solution is planned around the space and its practical needs.",
+      "cta": "Planning a similar project? Contact Lopeseco to discuss a tailored solution.",
+      "projectName": "A Refined Office Interior",
+      "servicesValue": "Custom interior design and made-to-measure furniture",
+      "imageAlts": {
+        "alt1": "A Refined Office Interior project in Luxembourg",
+        "alt2": "Made-to-measure A Refined Office Interior by Lopeseco",
+        "alt3": "A Refined Office Interior with a tailored interior layout",
+        "alt4": "Custom A Refined Office Interior design and furniture"
+      }
+    },
+    "custom-made-sliding-doors": {
+      "title": "Custom-Made Sliding Doors in Luxembourg | Lopeseco",
+      "metaDescription": "Discover custom-made sliding doors designed to integrate with the interior and make efficient use of available space. Lopeseco coordinates dimensions, finishes and practical requirements for a coherent result.",
+      "h1": "Sliding Doors Made to Fit Your Interior",
+      "h2": "A tailored solution for dividing and organizing space",
+      "description": "Discover custom-made sliding doors designed to integrate with the interior and make efficient use of available space. Lopeseco coordinates dimensions, finishes and practical requirements for a coherent result.",
+      "cta": "Planning a similar project? Contact Lopeseco to discuss a tailored solution.",
+      "projectName": "Sliding Doors Made to Fit Your Interior",
+      "servicesValue": "Custom interior design and made-to-measure furniture",
+      "imageAlts": {
+        "alt1": "Sliding Doors Made to Fit Your Interior project in Luxembourg",
+        "alt2": "Made-to-measure Sliding Doors Made to Fit Your Interior by Lopeseco",
+        "alt3": "Sliding Doors Made to Fit Your Interior with a tailored interior layout"
+      }
+    },
+    "kids-room__kids-room-interior-design-luxembourg": {
+      "title": "Kids’ Room Interior Design in Luxembourg | Lopeseco",
+      "metaDescription": "This kids’ room project focuses on a practical, welcoming interior with furniture and storage planned around everyday routines. Lopeseco creates tailored solutions that make good use of the available space.",
+      "h1": "A Thoughtful Interior for a Child’s Room",
+      "h2": "Furniture and storage designed for growing needs",
+      "description": "This kids’ room project focuses on a practical, welcoming interior with furniture and storage planned around everyday routines. Lopeseco creates tailored solutions that make good use of the available space.",
+      "cta": "Planning a similar project? Contact Lopeseco to discuss a tailored solution.",
+      "projectName": "A Thoughtful Interior for a Child’s Room",
+      "servicesValue": "Custom interior design and made-to-measure furniture",
+      "imageAlts": {
+        "alt1": "A Thoughtful Interior for a Child's Room project in Luxembourg",
+        "alt2": "Made-to-measure A Thoughtful Interior for a Child's Room by Lopeseco",
+        "alt3": "A Thoughtful Interior for a Child's Room with a tailored interior layout"
+      }
+    },
+    "kids-room__space-saving-kids-room-furniture": {
+      "title": "Space-Saving Kids’ Room Furniture | Lopeseco",
+      "metaDescription": "This project explores space-saving furniture for a child’s room, with a focus on practical organization and making the most of the available floor area.",
+      "h1": "Smart Furniture for Small Kids’ Rooms",
+      "h2": "Make the most of every corner",
+      "description": "This project explores space-saving furniture for a child’s room, with a focus on practical organization and making the most of the available floor area.",
+      "cta": "Planning a similar project? Contact Lopeseco to discuss a tailored solution.",
+      "projectName": "Smart Furniture for Small Kids’ Rooms",
+      "servicesValue": "Custom interior design and made-to-measure furniture",
+      "imageAlts": {
+        "alt1": "Smart Furniture for Small Kids' Rooms project in Luxembourg",
+        "alt2": "Made-to-measure Smart Furniture for Small Kids' Rooms by Lopeseco",
+        "alt3": "Smart Furniture for Small Kids' Rooms with a tailored interior layout"
+      }
+    },
+    "kids-room__modern-kids-room-design-luxembourg": {
+      "title": "Modern Kids’ Room Design in Luxembourg | Lopeseco",
+      "metaDescription": "This modern kids’ room project brings together practical furniture and storage to support play, rest and everyday routines in a coordinated interior.",
+      "h1": "A Modern Room for Everyday Living",
+      "h2": "A balance of comfort, storage and function",
+      "description": "This modern kids’ room project brings together practical furniture and storage to support play, rest and everyday routines in a coordinated interior.",
+      "cta": "Planning a similar project? Contact Lopeseco to discuss a tailored solution.",
+      "projectName": "A Modern Room for Everyday Living",
+      "servicesValue": "Custom interior design and made-to-measure furniture",
+      "imageAlts": {
+        "alt1": "A Modern Room for Everyday Living project in Luxembourg",
+        "alt2": "Made-to-measure A Modern Room for Everyday Living by Lopeseco",
+        "alt3": "A Modern Room for Everyday Living with a tailored interior layout",
+        "alt4": "Custom A Modern Room for Everyday Living design and furniture",
+        "alt5": "A Modern Room for Everyday Living project detail"
+      }
+    },
+    "kids-room__kids-room-design-luxembourg": {
+      "title": "Kids’ Room Design in Luxembourg | Lopeseco",
+      "metaDescription": "Explore a kids’ room designed around its available space and everyday needs. Lopeseco creates custom furniture and storage solutions for a room that feels organized and welcoming.",
+      "h1": "A Personalized Kids’ Room",
+      "h2": "A functional interior tailored to the room",
+      "description": "Explore a kids’ room designed around its available space and everyday needs. Lopeseco creates custom furniture and storage solutions for a room that feels organized and welcoming.",
+      "cta": "Planning a similar project? Contact Lopeseco to discuss a tailored solution.",
+      "projectName": "A Personalized Kids’ Room",
+      "servicesValue": "Custom interior design and made-to-measure furniture",
+      "imageAlts": {
+        "alt1": "A Personalized Kids' Room project in Luxembourg",
+        "alt2": "Made-to-measure A Personalized Kids' Room by Lopeseco",
+        "alt3": "A Personalized Kids' Room with a tailored interior layout",
+        "alt4": "Custom A Personalized Kids' Room design and furniture",
+        "alt5": "A Personalized Kids' Room project detail",
+        "alt6": "Interior design and fitted furniture for A Personalized Kids' Room",
+        "alt7": "Lopeseco A Personalized Kids' Room project view",
+        "alt8": "Tailored furniture solutions for A Personalized Kids' Room",
+        "alt9": "A Personalized Kids' Room project in Luxembourg",
+        "alt10": "Made-to-measure A Personalized Kids' Room by Lopeseco"
+      }
+    },
+    "kids-room__kids-room-storage-solutions-luxembourg": {
+      "title": "Kids’ Room Storage Solutions in Luxembourg | Lopeseco",
+      "metaDescription": "This project focuses on storage solutions for a child’s room, helping organize everyday essentials while making efficient use of the available space.",
+      "h1": "Storage That Keeps a Kids’ Room Organized",
+      "h2": "Practical solutions for toys, clothes and essentials",
+      "description": "This project focuses on storage solutions for a child’s room, helping organize everyday essentials while making efficient use of the available space.",
+      "cta": "Planning a similar project? Contact Lopeseco to discuss a tailored solution.",
+      "projectName": "Storage That Keeps a Kids’ Room Organized",
+      "servicesValue": "Custom interior design and made-to-measure furniture",
+      "imageAlts": {
+        "alt1": "Storage That Keeps a Kids' Room Organized project in Luxembourg",
+        "alt2": "Made-to-measure Storage That Keeps a Kids' Room Organized by Lopeseco",
+        "alt3": "Storage That Keeps a Kids' Room Organized with a tailored interior layout"
+      }
+    },
+    "entrance-hall__hallway-design-with-mirrors-and-lighting": {
+      "title": "Hallway Design with Mirrors and Lighting | Lopeseco",
+      "metaDescription": "This hallway project combines mirrors, lighting and a considered layout to create a welcoming entrance. The design balances visual openness with practical everyday use.",
+      "h1": "A Welcoming Entrance with Light and Reflection",
+      "h2": "Details that shape the first impression",
+      "description": "This hallway project combines mirrors, lighting and a considered layout to create a welcoming entrance. The design balances visual openness with practical everyday use.",
+      "cta": "Planning a similar project? Contact Lopeseco to discuss a tailored solution.",
+      "projectName": "A Welcoming Entrance with Light and Reflection",
+      "servicesValue": "Custom interior design and made-to-measure furniture",
+      "imageAlts": {
+        "alt1": "A Welcoming Entrance with Light and Reflection project in Luxembourg",
+        "alt2": "Made-to-measure A Welcoming Entrance with Light and Reflection by Lopeseco",
+        "alt3": "A Welcoming Entrance with Light and Reflection with a tailored interior layout",
+        "alt4": "Custom A Welcoming Entrance with Light and Reflection design and furniture",
+        "alt5": "A Welcoming Entrance with Light and Reflection project detail"
+      }
+    },
+    "entrance-hall__hallway-storage-solutions-luxembourg": {
+      "title": "Hallway Storage Solutions in Luxembourg | Lopeseco",
+      "metaDescription": "Discover hallway storage planned around the available space, helping keep coats, shoes and daily essentials organized without compromising the flow of the entrance.",
+      "h1": "A More Organized Hallway",
+      "h2": "Tailored storage for everyday essentials",
+      "description": "Discover hallway storage planned around the available space, helping keep coats, shoes and daily essentials organized without compromising the flow of the entrance.",
+      "cta": "Planning a similar project? Contact Lopeseco to discuss a tailored solution.",
+      "projectName": "A More Organized Hallway",
+      "servicesValue": "Custom interior design and made-to-measure furniture",
+      "imageAlts": {
+        "alt1": "A More Organized Hallway project in Luxembourg",
+        "alt2": "Made-to-measure A More Organized Hallway by Lopeseco",
+        "alt3": "A More Organized Hallway with a tailored interior layout"
+      }
+    },
+    "entrance-hall__modern-entryway-design-luxembourg": {
+      "title": "Modern Entryway Design in Luxembourg | Lopeseco",
+      "metaDescription": "This modern entryway project brings together a clear layout and coordinated furniture to create a practical, welcoming transition into the home.",
+      "h1": "A Modern and Functional Entrance",
+      "h2": "A considered welcome home",
+      "description": "This modern entryway project brings together a clear layout and coordinated furniture to create a practical, welcoming transition into the home.",
+      "cta": "Planning a similar project? Contact Lopeseco to discuss a tailored solution.",
+      "projectName": "A Modern and Functional Entrance",
+      "servicesValue": "Custom interior design and made-to-measure furniture",
+      "imageAlts": {
+        "alt1": "A Modern and Functional Entrance project in Luxembourg",
+        "alt2": "Made-to-measure A Modern and Functional Entrance by Lopeseco",
+        "alt3": "A Modern and Functional Entrance with a tailored interior layout"
+      }
+    },
+    "entrance-hall__luxury-entryway-design-luxembourg": {
+      "title": "Luxury Entryway Design in Luxembourg | Lopeseco",
+      "metaDescription": "Explore an entryway designed with a refined finish and practical details. Lopeseco plans furniture and storage to complement the interior while supporting everyday use.",
+      "h1": "A Refined Entrance Interior",
+      "h2": "Custom details for a polished first impression",
+      "description": "Explore an entryway designed with a refined finish and practical details. Lopeseco plans furniture and storage to complement the interior while supporting everyday use.",
+      "cta": "Planning a similar project? Contact Lopeseco to discuss a tailored solution.",
+      "projectName": "A Refined Entrance Interior",
+      "servicesValue": "Custom interior design and made-to-measure furniture",
+      "imageAlts": {
+        "alt1": "A Refined Entrance Interior project in Luxembourg",
+        "alt2": "Made-to-measure A Refined Entrance Interior by Lopeseco",
+        "alt3": "A Refined Entrance Interior with a tailored interior layout",
+        "alt4": "Custom A Refined Entrance Interior design and furniture",
+        "alt5": "A Refined Entrance Interior project detail",
+        "alt6": "Interior design and fitted furniture for A Refined Entrance Interior",
+        "alt7": "Lopeseco A Refined Entrance Interior project view",
+        "alt8": "Tailored furniture solutions for A Refined Entrance Interior",
+        "alt9": "A Refined Entrance Interior project in Luxembourg"
+      }
+    },
+    "entrance-hall__minimalist-hallway-design": {
+      "title": "Minimalist Hallway Design | Lopeseco",
+      "metaDescription": "This minimalist hallway project focuses on a clean visual flow and purposeful use of space, with a restrained approach to furniture and everyday organization.",
+      "h1": "A Clean, Uncluttered Hallway",
+      "h2": "Simple lines and purposeful use of space",
+      "description": "This minimalist hallway project focuses on a clean visual flow and purposeful use of space, with a restrained approach to furniture and everyday organization.",
+      "cta": "Planning a similar project? Contact Lopeseco to discuss a tailored solution.",
+      "projectName": "A Clean, Uncluttered Hallway",
+      "servicesValue": "Custom interior design and made-to-measure furniture",
+      "imageAlts": {
+        "alt1": "A Clean, Uncluttered Hallway project in Luxembourg",
+        "alt2": "Made-to-measure A Clean, Uncluttered Hallway by Lopeseco"
+      }
+    },
+    "entrance-hall__contemporary-hallway-furniture-design": {
+      "title": "Contemporary Hallway Furniture Design | Lopeseco",
+      "metaDescription": "This project explores contemporary hallway furniture that supports everyday organization and complements the wider interior through a coordinated design approach.",
+      "h1": "Contemporary Furniture for the Entrance",
+      "h2": "Practical design with a coordinated finish",
+      "description": "This project explores contemporary hallway furniture that supports everyday organization and complements the wider interior through a coordinated design approach.",
+      "cta": "Planning a similar project? Contact Lopeseco to discuss a tailored solution.",
+      "projectName": "Contemporary Furniture for the Entrance",
+      "servicesValue": "Custom interior design and made-to-measure furniture",
+      "imageAlts": {
+        "alt1": "Contemporary Furniture for the Entrance project in Luxembourg",
+        "alt2": "Made-to-measure Contemporary Furniture for the Entrance by Lopeseco",
+        "alt3": "Contemporary Furniture for the Entrance with a tailored interior layout"
+      }
+    },
+    "entrance-hall__hallway-furniture-design-luxembourg": {
+      "title": "Hallway Furniture Design in Luxembourg | Lopeseco",
+      "metaDescription": "Explore hallway furniture designed around the dimensions and needs of the entrance. Tailored storage helps keep everyday essentials organized and the space easy to use.",
+      "h1": "Furniture Designed for the Entrance",
+      "h2": "A tailored approach to everyday storage",
+      "description": "Explore hallway furniture designed around the dimensions and needs of the entrance. Tailored storage helps keep everyday essentials organized and the space easy to use.",
+      "cta": "Planning a similar project? Contact Lopeseco to discuss a tailored solution.",
+      "projectName": "Furniture Designed for the Entrance",
+      "servicesValue": "Custom interior design and made-to-measure furniture",
+      "imageAlts": {
+        "alt1": "Furniture Designed for the Entrance project in Luxembourg",
+        "alt2": "Made-to-measure Furniture Designed for the Entrance by Lopeseco",
+        "alt3": "Furniture Designed for the Entrance with a tailored interior layout",
+        "alt4": "Custom Furniture Designed for the Entrance design and furniture"
+      }
+    },
+    "entrance-hall__corporate-logo-hallway-luxembourg": {
+      "title": "Corporate Hallway Design with Logo in Luxembourg | Lopeseco",
+      "metaDescription": "This corporate hallway project focuses on a professional entrance with branded details. The layout and display elements help create a clear, consistent first impression for visitors.",
+      "h1": "A Branded Welcome for Professional Spaces",
+      "h2": "Entrance design that reflects your identity",
+      "description": "This corporate hallway project focuses on a professional entrance with branded details. The layout and display elements help create a clear, consistent first impression for visitors.",
+      "cta": "Planning a similar project? Contact Lopeseco to discuss a tailored solution.",
+      "projectName": "A Branded Welcome for Professional Spaces",
+      "servicesValue": "Custom interior design and made-to-measure furniture",
+      "imageAlts": {
+        "alt1": "A Branded Welcome for Professional Spaces project in Luxembourg",
+        "alt2": "Made-to-measure A Branded Welcome for Professional Spaces by Lopeseco",
+        "alt3": "A Branded Welcome for Professional Spaces with a tailored interior layout"
+      }
+    },
+    "entrance-hall__entrance-hall-design-luxembourg": {
+      "title": "Entrance Hall Design in Luxembourg | Lopeseco",
+      "metaDescription": "This entrance hall project balances a welcoming appearance with practical use, considering the layout, furniture and storage needed for everyday arrivals and departures.",
+      "h1": "A Considered Entrance Hall",
+      "h2": "A practical and welcoming first space",
+      "description": "This entrance hall project balances a welcoming appearance with practical use, considering the layout, furniture and storage needed for everyday arrivals and departures.",
+      "cta": "Planning a similar project? Contact Lopeseco to discuss a tailored solution.",
+      "projectName": "A Considered Entrance Hall",
+      "servicesValue": "Custom interior design and made-to-measure furniture",
+      "imageAlts": {
+        "alt1": "A Considered Entrance Hall project in Luxembourg",
+        "alt2": "Made-to-measure A Considered Entrance Hall by Lopeseco",
+        "alt3": "A Considered Entrance Hall with a tailored interior layout",
+        "alt4": "Custom A Considered Entrance Hall design and furniture"
+      }
+    },
+    "entrance-hall__hallway-with-built-in-storage-solutions": {
+      "title": "Hallway with Built-In Storage | Lopeseco",
+      "metaDescription": "This hallway project explores built-in storage to make better use of the available space and keep everyday items neatly organized.",
+      "h1": "Built-In Storage for a Clearer Hallway",
+      "h2": "Make use of the space along the walls",
+      "description": "This hallway project explores built-in storage to make better use of the available space and keep everyday items neatly organized.",
+      "cta": "Planning a similar project? Contact Lopeseco to discuss a tailored solution.",
+      "projectName": "Built-In Storage for a Clearer Hallway",
+      "servicesValue": "Custom interior design and made-to-measure furniture",
+      "imageAlts": {
+        "alt1": "Built-In Storage for a Clearer Hallway project in Luxembourg",
+        "alt2": "Made-to-measure Built-In Storage for a Clearer Hallway by Lopeseco",
+        "alt3": "Built-In Storage for a Clearer Hallway with a tailored interior layout"
+      }
+    },
+    "entrance-hall__minimalist-entrance-hall-solutions-luxembourg": {
+      "title": "Minimalist Entrance Hall Solutions in Luxembourg | Lopeseco",
+      "metaDescription": "This project takes a minimalist approach to the entrance, prioritizing clear circulation, restrained design and practical organization.",
+      "h1": "A Minimalist Approach to the Entrance",
+      "h2": "A clear layout with purposeful details",
+      "description": "This project takes a minimalist approach to the entrance, prioritizing clear circulation, restrained design and practical organization.",
+      "cta": "Planning a similar project? Contact Lopeseco to discuss a tailored solution.",
+      "projectName": "A Minimalist Approach to the Entrance",
+      "servicesValue": "Custom interior design and made-to-measure furniture",
+      "imageAlts": {
+        "alt1": "A Minimalist Approach to the Entrance project in Luxembourg",
+        "alt2": "Made-to-measure A Minimalist Approach to the Entrance by Lopeseco",
+        "alt3": "A Minimalist Approach to the Entrance with a tailored interior layout",
+        "alt4": "Custom A Minimalist Approach to the Entrance design and furniture"
+      }
+    },
+    "entrance-hall__custom-designed-hallway-luxembourg": {
+      "title": "Custom-Designed Hallway in Luxembourg | Lopeseco",
+      "metaDescription": "This custom-designed hallway project considers the proportions and needs of the entrance to create a coordinated, practical space with tailored furniture solutions.",
+      "h1": "A Hallway Designed Around Your Home",
+      "h2": "Made-to-measure furniture for a cohesive entrance",
+      "description": "This custom-designed hallway project considers the proportions and needs of the entrance to create a coordinated, practical space with tailored furniture solutions.",
+      "cta": "Planning a similar project? Contact Lopeseco to discuss a tailored solution.",
+      "projectName": "A Hallway Designed Around Your Home",
+      "servicesValue": "Custom interior design and made-to-measure furniture",
+      "imageAlts": {
+        "alt1": "A Hallway Designed Around Your Home project in Luxembourg",
+        "alt2": "Made-to-measure A Hallway Designed Around Your Home by Lopeseco",
+        "alt3": "A Hallway Designed Around Your Home with a tailored interior layout"
+      }
+    },
+    "tvunit__minimalist-tv-unit-design": {
+      "title": "Minimalist TV Unit Design | Lopeseco",
+      "metaDescription": "This minimalist TV unit project focuses on a simple, balanced look and practical media storage that integrates with the living room.",
+      "h1": "A Minimalist TV Unit",
+      "h2": "Clean lines and discreet media storage",
+      "description": "This minimalist TV unit project focuses on a simple, balanced look and practical media storage that integrates with the living room.",
+      "cta": "Planning a similar project? Contact Lopeseco to discuss a tailored solution.",
+      "projectName": "A Minimalist TV Unit",
+      "servicesValue": "Custom interior design and made-to-measure furniture",
+      "imageAlts": {
+        "alt1": "A Minimalist TV Unit project in Luxembourg",
+        "alt2": "Made-to-measure A Minimalist TV Unit by Lopeseco",
+        "alt3": "A Minimalist TV Unit with a tailored interior layout"
+      }
+    },
+    "tvunit__built-in-living-room-media-wall": {
+      "title": "Built-In Media Wall for the Living Room | Lopeseco",
+      "metaDescription": "This living-room media wall project integrates the TV area with built-in furniture and storage for a coordinated, space-conscious result.",
+      "h1": "A Media Wall Integrated into the Interior",
+      "h2": "Storage and technology in one coordinated design",
+      "description": "This living-room media wall project integrates the TV area with built-in furniture and storage for a coordinated, space-conscious result.",
+      "cta": "Planning a similar project? Contact Lopeseco to discuss a tailored solution.",
+      "projectName": "A Media Wall Integrated into the Interior",
+      "servicesValue": "Custom interior design and made-to-measure furniture",
+      "imageAlts": {
+        "alt1": "A Media Wall Integrated into the Interior project in Luxembourg",
+        "alt2": "Made-to-measure A Media Wall Integrated into the Interior by Lopeseco",
+        "alt3": "A Media Wall Integrated into the Interior with a tailored interior layout"
+      }
+    },
+    "tvunit__tv-unit-design-luxembourg": {
+      "title": "Custom TV Unit Design in Luxembourg | Lopeseco",
+      "metaDescription": "Explore a TV unit designed to suit the living room layout, combining a considered finish with practical storage for media equipment and everyday items.",
+      "h1": "A TV Unit Tailored to the Living Room",
+      "h2": "Furniture planned around the space and screen",
+      "description": "Explore a TV unit designed to suit the living room layout, combining a considered finish with practical storage for media equipment and everyday items.",
+      "cta": "Planning a similar project? Contact Lopeseco to discuss a tailored solution.",
+      "projectName": "A TV Unit Tailored to the Living Room",
+      "servicesValue": "Custom interior design and made-to-measure furniture",
+      "imageAlts": {
+        "alt1": "A TV Unit Tailored to the Living Room project in Luxembourg",
+        "alt2": "Made-to-measure A TV Unit Tailored to the Living Room by Lopeseco",
+        "alt3": "A TV Unit Tailored to the Living Room with a tailored interior layout",
+        "alt4": "Custom A TV Unit Tailored to the Living Room design and furniture",
+        "alt5": "A TV Unit Tailored to the Living Room project detail"
+      }
+    },
+    "tvunit__wooden-tv-wall-design": {
+      "title": "Wooden TV Wall Design | Lopeseco",
+      "metaDescription": "This wooden TV wall project uses the material as a defining feature of the living space, while integrating the television into a considered overall composition.",
+      "h1": "A TV Wall with Warm Wooden Details",
+      "h2": "A coordinated focal point for the living room",
+      "description": "This wooden TV wall project uses the material as a defining feature of the living space, while integrating the television into a considered overall composition.",
+      "cta": "Planning a similar project? Contact Lopeseco to discuss a tailored solution.",
+      "projectName": "A TV Wall with Warm Wooden Details",
+      "servicesValue": "Custom interior design and made-to-measure furniture",
+      "imageAlts": {
+        "alt1": "A TV Wall with Warm Wooden Details project in Luxembourg",
+        "alt2": "Made-to-measure A TV Wall with Warm Wooden Details by Lopeseco",
+        "alt3": "A TV Wall with Warm Wooden Details with a tailored interior layout"
+      }
+    },
+    "tvunit__luxury-tvunit-design-luxembourg": {
+      "title": "Luxury TV Unit Design in Luxembourg | Lopeseco",
+      "metaDescription": "This project presents a refined TV unit designed to complement the living room. The furniture combines a considered composition with storage adapted to the space.",
+      "h1": "A Refined TV Unit for the Living Room",
+      "h2": "Tailored furniture with a premium finish",
+      "description": "This project presents a refined TV unit designed to complement the living room. The furniture combines a considered composition with storage adapted to the space.",
+      "cta": "Planning a similar project? Contact Lopeseco to discuss a tailored solution.",
+      "projectName": "A Refined TV Unit for the Living Room",
+      "servicesValue": "Custom interior design and made-to-measure furniture",
+      "imageAlts": {
+        "alt1": "A Refined TV Unit for the Living Room project in Luxembourg",
+        "alt2": "Made-to-measure A Refined TV Unit for the Living Room by Lopeseco",
+        "alt3": "A Refined TV Unit for the Living Room with a tailored interior layout",
+        "alt4": "Custom A Refined TV Unit for the Living Room design and furniture",
+        "alt5": "A Refined TV Unit for the Living Room project detail",
+        "alt6": "Interior design and fitted furniture for A Refined TV Unit for the Living Room"
+      }
+    },
+    "tvunit__custom-tv-wall-unit-luxembourg": {
+      "title": "Custom TV Wall Unit in Luxembourg | Lopeseco",
+      "metaDescription": "This custom TV wall unit is planned around the room and its media needs, bringing the screen, furniture and storage together in a coherent arrangement.",
+      "h1": "A TV Wall Unit Made to Measure",
+      "h2": "A fitted solution for media and storage",
+      "description": "This custom TV wall unit is planned around the room and its media needs, bringing the screen, furniture and storage together in a coherent arrangement.",
+      "cta": "Planning a similar project? Contact Lopeseco to discuss a tailored solution.",
+      "projectName": "A TV Wall Unit Made to Measure",
+      "servicesValue": "Custom interior design and made-to-measure furniture",
+      "imageAlts": {
+        "alt1": "A TV Wall Unit Made to Measure project in Luxembourg",
+        "alt2": "Made-to-measure A TV Wall Unit Made to Measure by Lopeseco",
+        "alt3": "A TV Wall Unit Made to Measure with a tailored interior layout"
+      }
+    },
+    "tvunit__living-room-tv-unit-design-luxembourg": {
+      "title": "Living Room TV Unit Design in Luxembourg | Lopeseco",
+      "metaDescription": "This living-room TV unit project balances the role of the television as a focal point with storage and furniture that fit the room’s proportions.",
+      "h1": "A TV Unit for Everyday Living",
+      "h2": "A practical focal point for the living room",
+      "description": "This living-room TV unit project balances the role of the television as a focal point with storage and furniture that fit the room’s proportions.",
+      "cta": "Planning a similar project? Contact Lopeseco to discuss a tailored solution.",
+      "projectName": "A TV Unit for Everyday Living",
+      "servicesValue": "Custom interior design and made-to-measure furniture",
+      "imageAlts": {
+        "alt1": "A TV Unit for Everyday Living project in Luxembourg",
+        "alt2": "Made-to-measure A TV Unit for Everyday Living by Lopeseco",
+        "alt3": "A TV Unit for Everyday Living with a tailored interior layout"
+      }
+    },
+    "tvunit__small-living-room-tv-unit-design": {
+      "title": "TV Unit Design for a Small Living Room | Lopeseco",
+      "metaDescription": "This project focuses on a TV unit for a smaller living room, with attention to proportions, storage and a layout that keeps the space feeling open.",
+      "h1": "A TV Unit for Compact Spaces",
+      "h2": "Use limited space with care",
+      "description": "This project focuses on a TV unit for a smaller living room, with attention to proportions, storage and a layout that keeps the space feeling open.",
+      "cta": "Planning a similar project? Contact Lopeseco to discuss a tailored solution.",
+      "projectName": "A TV Unit for Compact Spaces",
+      "servicesValue": "Custom interior design and made-to-measure furniture",
+      "imageAlts": {
+        "alt1": "A TV Unit for Compact Spaces project in Luxembourg",
+        "alt2": "Made-to-measure A TV Unit for Compact Spaces by Lopeseco",
+        "alt3": "A TV Unit for Compact Spaces with a tailored interior layout"
+      }
+    },
+    "tvunit__floor-to-ceiling-tv-storage-wall": {
+      "title": "Floor-to-Ceiling TV Storage Wall | Lopeseco",
+      "metaDescription": "This floor-to-ceiling TV wall combines the television area with tall storage, making use of vertical space in a coordinated living-room feature.",
+      "h1": "A Full-Height TV and Storage Wall",
+      "h2": "Make vertical space work harder",
+      "description": "This floor-to-ceiling TV wall combines the television area with tall storage, making use of vertical space in a coordinated living-room feature.",
+      "cta": "Planning a similar project? Contact Lopeseco to discuss a tailored solution.",
+      "projectName": "A Full-Height TV and Storage Wall",
+      "servicesValue": "Custom interior design and made-to-measure furniture",
+      "imageAlts": {
+        "alt1": "A Full-Height TV and Storage Wall project in Luxembourg",
+        "alt2": "Made-to-measure A Full-Height TV and Storage Wall by Lopeseco",
+        "alt3": "A Full-Height TV and Storage Wall with a tailored interior layout"
+      }
+    },
+    "tvunit__minimalist-living-room-design-luxembourg": {
+      "title": "Minimalist Living Room Design in Luxembourg | Lopeseco",
+      "metaDescription": "This minimalist living-room project focuses on clean lines, balanced proportions and practical furniture choices to create a calm, functional interior.",
+      "h1": "A Minimalist Living Room",
+      "h2": "A calm, coordinated space for everyday life",
+      "description": "This minimalist living-room project focuses on clean lines, balanced proportions and practical furniture choices to create a calm, functional interior.",
+      "cta": "Planning a similar project? Contact Lopeseco to discuss a tailored solution.",
+      "projectName": "A Minimalist Living Room",
+      "servicesValue": "Custom interior design and made-to-measure furniture",
+      "imageAlts": {
+        "alt1": "A Minimalist Living Room project in Luxembourg",
+        "alt2": "Made-to-measure A Minimalist Living Room by Lopeseco",
+        "alt3": "A Minimalist Living Room with a tailored interior layout",
+        "alt4": "Custom A Minimalist Living Room design and furniture"
+      }
+    },
+    "library__wooden-library-design-luxembourg": {
+      "title": "Wooden Library Design in Luxembourg | Lopeseco",
+      "metaDescription": "This wooden library project highlights tailored shelving and a warm material palette to create a practical place for books and personal objects.",
+      "h1": "A Library Defined by Wood",
+      "h2": "Custom shelving for books and treasured objects",
+      "description": "This wooden library project highlights tailored shelving and a warm material palette to create a practical place for books and personal objects.",
+      "cta": "Planning a similar project? Contact Lopeseco to discuss a tailored solution.",
+      "projectName": "A Library Defined by Wood",
+      "servicesValue": "Custom interior design and made-to-measure furniture",
+      "imageAlts": {
+        "alt1": "A Library Defined by Wood project in Luxembourg",
+        "alt2": "Made-to-measure A Library Defined by Wood by Lopeseco",
+        "alt3": "A Library Defined by Wood with a tailored interior layout",
+        "alt4": "Custom A Library Defined by Wood design and furniture"
+      }
+    },
+    "library__custom-library-design-luxembourg": {
+      "title": "Custom Library Design in Luxembourg | Lopeseco",
+      "metaDescription": "This custom library project explores shelving planned around the room and its collection, combining practical storage with an integrated interior design.",
+      "h1": "A Library Designed Around Your Collection",
+      "h2": "Made-to-measure shelving for your interior",
+      "description": "This custom library project explores shelving planned around the room and its collection, combining practical storage with an integrated interior design.",
+      "cta": "Planning a similar project? Contact Lopeseco to discuss a tailored solution.",
+      "projectName": "A Library Designed Around Your Collection",
+      "servicesValue": "Custom interior design and made-to-measure furniture",
+      "imageAlts": {
+        "alt1": "A Library Designed Around Your Collection project in Luxembourg",
+        "alt2": "Made-to-measure A Library Designed Around Your Collection by Lopeseco",
+        "alt3": "A Library Designed Around Your Collection with a tailored interior layout",
+        "alt4": "Custom A Library Designed Around Your Collection design and furniture"
+      }
+    },
+    "library__minimalist-library-design": {
+      "title": "Minimalist Library Design | Lopeseco",
+      "metaDescription": "This minimalist library project uses a restrained approach to shelving and layout, helping books and objects sit naturally within the interior.",
+      "h1": "A Minimalist Library",
+      "h2": "Simple shelving and a balanced composition",
+      "description": "This minimalist library project uses a restrained approach to shelving and layout, helping books and objects sit naturally within the interior.",
+      "cta": "Planning a similar project? Contact Lopeseco to discuss a tailored solution.",
+      "projectName": "A Minimalist Library",
+      "servicesValue": "Custom interior design and made-to-measure furniture",
+      "imageAlts": {
+        "alt1": "A Minimalist Library project in Luxembourg",
+        "alt2": "Made-to-measure A Minimalist Library by Lopeseco",
+        "alt3": "A Minimalist Library with a tailored interior layout",
+        "alt4": "Custom A Minimalist Library design and furniture"
+      }
+    },
+    "kitchen__luxury-kitchen-design-luxembourg": {
+      "title": "Luxury Kitchen Design in Luxembourg | Lopeseco",
+      "metaDescription": "This kitchen project combines a refined interior approach with a layout planned for everyday use. Lopeseco creates tailored kitchen furniture and coordinates finishes to suit the space.",
+      "h1": "A Refined Kitchen Designed Around You",
+      "h2": "Custom cabinetry and a considered layout",
+      "description": "This kitchen project combines a refined interior approach with a layout planned for everyday use. Lopeseco creates tailored kitchen furniture and coordinates finishes to suit the space.",
+      "cta": "Planning a similar project? Contact Lopeseco to discuss a tailored solution.",
+      "projectName": "A Refined Kitchen Designed Around You",
+      "servicesValue": "Custom interior design and made-to-measure furniture",
+      "imageAlts": {
+        "alt1": "A Refined Kitchen Designed Around You project in Luxembourg",
+        "alt2": "Made-to-measure A Refined Kitchen Designed Around You by Lopeseco",
+        "alt3": "A Refined Kitchen Designed Around You with a tailored interior layout",
+        "alt4": "Custom A Refined Kitchen Designed Around You design and furniture",
+        "alt5": "A Refined Kitchen Designed Around You project detail",
+        "alt6": "Interior design and fitted furniture for A Refined Kitchen Designed Around You",
+        "alt7": "Lopeseco A Refined Kitchen Designed Around You project view"
+      }
+    },
+    "kitchen__modern-open-kitchen-luxembourg": {
+      "title": "Modern Open Kitchen Design in Luxembourg | Lopeseco",
+      "metaDescription": "This open-kitchen project considers how the kitchen connects with adjacent living areas, combining a practical layout with coordinated cabinetry and finishes.",
+      "h1": "A Modern Open Kitchen",
+      "h2": "A connected layout for cooking and living",
+      "description": "This open-kitchen project considers how the kitchen connects with adjacent living areas, combining a practical layout with coordinated cabinetry and finishes.",
+      "cta": "Planning a similar project? Contact Lopeseco to discuss a tailored solution.",
+      "projectName": "A Modern Open Kitchen",
+      "servicesValue": "Custom interior design and made-to-measure furniture",
+      "imageAlts": {
+        "alt1": "A Modern Open Kitchen project in Luxembourg",
+        "alt2": "Made-to-measure A Modern Open Kitchen by Lopeseco",
+        "alt3": "A Modern Open Kitchen with a tailored interior layout",
+        "alt4": "Custom A Modern Open Kitchen design and furniture",
+        "alt5": "A Modern Open Kitchen project detail",
+        "alt6": "Interior design and fitted furniture for A Modern Open Kitchen",
+        "alt7": "Lopeseco A Modern Open Kitchen project view",
+        "alt8": "Tailored furniture solutions for A Modern Open Kitchen",
+        "alt9": "A Modern Open Kitchen project in Luxembourg"
+      }
+    },
+    "kitchen__high-end-kitchen-design-luxembourg": {
+      "title": "High-End Kitchen Design in Luxembourg | Lopeseco",
+      "metaDescription": "This high-end kitchen project focuses on the relationship between cabinetry, finishes and layout to create a coherent kitchen tailored to the space.",
+      "h1": "A Kitchen with a Premium Finish",
+      "h2": "Tailored cabinetry for a cohesive interior",
+      "description": "This high-end kitchen project focuses on the relationship between cabinetry, finishes and layout to create a coherent kitchen tailored to the space.",
+      "cta": "Planning a similar project? Contact Lopeseco to discuss a tailored solution.",
+      "projectName": "A Kitchen with a Premium Finish",
+      "servicesValue": "Custom interior design and made-to-measure furniture",
+      "imageAlts": {
+        "alt1": "A Kitchen with a Premium Finish project in Luxembourg",
+        "alt2": "Made-to-measure A Kitchen with a Premium Finish by Lopeseco",
+        "alt3": "A Kitchen with a Premium Finish with a tailored interior layout",
+        "alt4": "Custom A Kitchen with a Premium Finish design and furniture",
+        "alt5": "A Kitchen with a Premium Finish project detail"
+      }
+    },
+    "kitchen__small-kitchen-space-optimization": {
+      "title": "Small Kitchen Space Optimization | Lopeseco",
+      "metaDescription": "This project explores ways to make a small kitchen more functional through considered layout and storage, using the available space efficiently.",
+      "h1": "Make More of a Small Kitchen",
+      "h2": "Practical planning for compact spaces",
+      "description": "This project explores ways to make a small kitchen more functional through considered layout and storage, using the available space efficiently.",
+      "cta": "Planning a similar project? Contact Lopeseco to discuss a tailored solution.",
+      "projectName": "Make More of a Small Kitchen",
+      "servicesValue": "Custom interior design and made-to-measure furniture",
+      "imageAlts": {
+        "alt1": "Make More of a Small Kitchen project in Luxembourg",
+        "alt2": "Made-to-measure Make More of a Small Kitchen by Lopeseco",
+        "alt3": "Make More of a Small Kitchen with a tailored interior layout",
+        "alt4": "Custom Make More of a Small Kitchen design and furniture",
+        "alt5": "Make More of a Small Kitchen project detail"
+      }
+    },
+    "kitchen__black-luxury-kitchen-design": {
+      "title": "Black Luxury Kitchen Design | Lopeseco",
+      "metaDescription": "This black kitchen project explores a bold, refined palette within a functional layout, with cabinetry and finishes coordinated to suit the overall interior.",
+      "h1": "A Black Kitchen with a Refined Finish",
+      "h2": "A distinctive palette with practical planning",
+      "description": "This black kitchen project explores a bold, refined palette within a functional layout, with cabinetry and finishes coordinated to suit the overall interior.",
+      "cta": "Planning a similar project? Contact Lopeseco to discuss a tailored solution.",
+      "projectName": "A Black Kitchen with a Refined Finish",
+      "servicesValue": "Custom interior design and made-to-measure furniture",
+      "imageAlts": {
+        "alt1": "A Black Kitchen with a Refined Finish project in Luxembourg",
+        "alt2": "Made-to-measure A Black Kitchen with a Refined Finish by Lopeseco",
+        "alt3": "A Black Kitchen with a Refined Finish with a tailored interior layout",
+        "alt4": "Custom A Black Kitchen with a Refined Finish design and furniture",
+        "alt5": "A Black Kitchen with a Refined Finish project detail",
+        "alt6": "Interior design and fitted furniture for A Black Kitchen with a Refined Finish",
+        "alt7": "Lopeseco A Black Kitchen with a Refined Finish project view"
+      }
+    },
+    "kitchen__handleless-kitchen-design-luxembourg": {
+      "title": "Handleless Kitchen Design in Luxembourg | Lopeseco",
+      "metaDescription": "This handleless kitchen project emphasizes a streamlined appearance and a coherent arrangement, combining fitted cabinetry with a practical kitchen layout.",
+      "h1": "A Streamlined Handleless Kitchen",
+      "h2": "Clean surfaces and an integrated look",
+      "description": "This handleless kitchen project emphasizes a streamlined appearance and a coherent arrangement, combining fitted cabinetry with a practical kitchen layout.",
+      "cta": "Planning a similar project? Contact Lopeseco to discuss a tailored solution.",
+      "projectName": "A Streamlined Handleless Kitchen",
+      "servicesValue": "Custom interior design and made-to-measure furniture",
+      "imageAlts": {
+        "alt1": "A Streamlined Handleless Kitchen project in Luxembourg",
+        "alt2": "Made-to-measure A Streamlined Handleless Kitchen by Lopeseco",
+        "alt3": "A Streamlined Handleless Kitchen with a tailored interior layout",
+        "alt4": "Custom A Streamlined Handleless Kitchen design and furniture",
+        "alt5": "A Streamlined Handleless Kitchen project detail",
+        "alt6": "Interior design and fitted furniture for A Streamlined Handleless Kitchen",
+        "alt7": "Lopeseco A Streamlined Handleless Kitchen project view"
+      }
+    },
+    "kitchen__minimalist-kitchen-design-luxembourg": {
+      "title": "Minimalist Kitchen Design in Luxembourg | Lopeseco",
+      "metaDescription": "This minimalist kitchen project focuses on simplicity, balanced proportions and practical cabinetry to create a functional interior with a restrained aesthetic.",
+      "h1": "A Minimalist Kitchen",
+      "h2": "A clear layout with understated details",
+      "description": "This minimalist kitchen project focuses on simplicity, balanced proportions and practical cabinetry to create a functional interior with a restrained aesthetic.",
+      "cta": "Planning a similar project? Contact Lopeseco to discuss a tailored solution.",
+      "projectName": "A Minimalist Kitchen",
+      "servicesValue": "Custom interior design and made-to-measure furniture",
+      "imageAlts": {
+        "alt1": "A Minimalist Kitchen project in Luxembourg",
+        "alt2": "Made-to-measure A Minimalist Kitchen by Lopeseco",
+        "alt3": "A Minimalist Kitchen with a tailored interior layout",
+        "alt4": "Custom A Minimalist Kitchen design and furniture",
+        "alt5": "A Minimalist Kitchen project detail",
+        "alt6": "Interior design and fitted furniture for A Minimalist Kitchen"
+      }
+    },
+    "kitchen__custom-kitchen-luxembourg": {
+      "title": "Custom Kitchen Design in Luxembourg | Lopeseco",
+      "metaDescription": "This custom kitchen project is planned around the room, its daily use and storage needs. Lopeseco develops made-to-measure cabinetry and coordinated finishes for a cohesive result.",
+      "h1": "A Kitchen Made to Measure",
+      "h2": "Tailored furniture planned around your needs",
+      "description": "This custom kitchen project is planned around the room, its daily use and storage needs. Lopeseco develops made-to-measure cabinetry and coordinated finishes for a cohesive result.",
+      "cta": "Planning a similar project? Contact Lopeseco to discuss a tailored solution.",
+      "projectName": "A Kitchen Made to Measure",
+      "servicesValue": "Custom interior design and made-to-measure furniture",
+      "imageAlts": {
+        "alt1": "A Kitchen Made to Measure project in Luxembourg",
+        "alt2": "Made-to-measure A Kitchen Made to Measure by Lopeseco",
+        "alt3": "A Kitchen Made to Measure with a tailored interior layout",
+        "alt4": "Custom A Kitchen Made to Measure design and furniture",
+        "alt5": "A Kitchen Made to Measure project detail",
+        "alt6": "Interior design and fitted furniture for A Kitchen Made to Measure",
+        "alt7": "Lopeseco A Kitchen Made to Measure project view",
+        "alt8": "Tailored furniture solutions for A Kitchen Made to Measure"
+      }
+    }
+  }
 }

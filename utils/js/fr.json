@@ -76,8 +76,8 @@
     "location": "Lieu",
     "project": "Projet",
     "services": "Services",
-    "29lu-location-value": "Ville de Luxembourg",
     "29lu-services-value": "Gestion de projet clé en main",
+    "29lu-project-value": "Aménagement de studios en location",
     "29lu-image-alt-1": "Studio locatif aménagé avec parquet et intérieur minimaliste",
     "29lu-image-alt-2": "Studio compact aménagé avec des solutions gain de place",
     "29lu-image-alt-3": "Mobilier sur mesure conçu pour un studio locatif compact",
@@ -189,7 +189,6 @@
       "h2": "Des rangements pratiques, adaptés à votre salle de bains",
       "description": "Lopeseco conçoit des meubles et des solutions de rangement sur mesure pour les salles de bains au Luxembourg. Découvrez ce projet pour trouver des idées d’aménagement fonctionnel, avec des meubles adaptés à l’espace disponible.",
       "cta": "Vous préparez un projet de salle de bains ? Contactez Lopeseco pour parler de mobilier et de rangements sur mesure.",
-      "location": "Luxembourg",
       "services": "Mobilier et rangements de salle de bains sur mesure",
       "imageAlts": {
         "1": "Mobilier et rangements de salle de bains sur mesure au Luxembourg",
@@ -204,7 +203,6 @@
       "h2": "Des finitions chaleureuses et des meubles adaptés à votre espace",
       "description": "Découvrez ce projet de salle de bains de Lopeseco au Luxembourg, consacré au mobilier et à l’harmonie des finitions. Notre équipe réalise des meubles sur mesure adaptés à la pièce, à son agencement et à vos besoins pratiques.",
       "cta": "Vous recherchez des meubles de salle de bains au Luxembourg ? Contactez Lopeseco pour discuter de votre projet.",
-      "location": "Luxembourg",
       "services": "Mobilier de salle de bains et aménagement intérieur sur mesure",
       "imageAlts": {
         "1": "Meubles de salle de bains en bois et finitions coordonnées au Luxembourg",
@@ -219,7 +217,7 @@
       "h2": "Une approche harmonieuse de l’aménagement de salle de bains",
       "description": "Ce projet Lopeseco présente du mobilier de salle de bains et un aménagement intérieur au Luxembourg. Nous créons des solutions adaptées qui associent agencement, meubles et rangements pratiques afin d’optimiser l’espace disponible.",
       "cta": "Vous prévoyez une rénovation ou un nouvel aménagement de salle de bains ? Contactez Lopeseco pour parler du design et du mobilier.",
-      "location": "Luxembourg",
+
       "services": "Aménagement de salle de bains et mobilier sur mesure",
       "imageAlts": {
         "1": "Aménagement de salle de bains avec mobilier sur mesure au Luxembourg",
@@ -237,7 +235,7 @@
       "h2": "Des détails raffinés pour une salle de bains harmonieuse",
       "description": "Découvrez ce projet de salle de bains réalisé par Lopeseco au Luxembourg. L’aménagement associe une esthétique soignée et du mobilier de salle de bains, avec des solutions adaptées à la pièce et à son agencement.",
       "cta": "Parlons de votre salle de bains avec Lopeseco. Contactez-nous pour explorer les options de mobilier et de design sur mesure.",
-      "location": "Luxembourg",
+
       "services": "Design de salle de bains et mobilier sur mesure",
       "imageAlts": {
         "1": "Design de salle de bains haut de gamme au Luxembourg",
@@ -255,7 +253,7 @@
       "h2": "Des solutions de salle de bains adaptées à votre intérieur",
       "description": "Lopeseco conçoit des salles de bains et du mobilier sur mesure au Luxembourg. Ce projet présente un intérieur contemporain, avec un agencement et des choix de mobilier pensés en fonction de la pièce et de son usage quotidien.",
       "cta": "Vous avez un projet de salle de bains ? Contactez Lopeseco pour discuter de la conception et du mobilier sur mesure.",
-      "location": "Luxembourg",
+
       "services": "Conception de salle de bains et mobilier sur mesure",
       "imageAlts": {
         "1": "Salle de bains contemporaine conçue sur mesure au Luxembourg",
@@ -272,5 +270,999 @@
     "loading": "Chargement...",
     "logoTitle": "Lopeseco Design Studio au Luxembourg"
   },
-  "services": "Services"
+  "services": "Services",
+  "dressingProjects": {
+    "makeupTable": {
+      "title": "Coiffeuse sur mesure au Luxembourg | Lopeseco",
+      "metaDescription": "Découvrez une coiffeuse sur mesure réalisée par Lopeseco au Luxembourg, avec un mobilier adapté à l’espace et des rangements pratiques pour un coin beauté.",
+      "h1": "Coiffeuse sur mesure",
+      "h2": "Un espace dédié avec des rangements personnalisés",
+      "description": "Ce projet Lopeseco présente une coiffeuse conçue sur mesure en fonction de l’espace disponible. Découvrez un aménagement qui associe un coin beauté dédié et des rangements pratiques.",
+      "cta": "Vous envisagez un dressing ou un placard sur mesure ? Contactez Lopeseco pour discuter de votre projet.",
+
+      "services": "Coiffeuse et rangements sur mesure",
+      "projectName": "Coiffeuse sur mesure",
+      "imageAlts": {
+        "1": "Coiffeuse sur mesure avec rangements réalisé par Lopeseco au Luxembourg",
+        "2": "Détail de coiffeuse sur mesure avec rangements dans un projet d’aménagement Lopeseco",
+        "3": "Coiffeuse sur mesure avec rangements conçu pour l’espace disponible"
+      }
+    },
+    "luxuryWalkIn": {
+      "title": "Dressing ouvert haut de gamme au Luxembourg | Lopeseco",
+      "metaDescription": "Découvrez un projet de dressing ouvert haut de gamme réalisé par Lopeseco au Luxembourg, avec des rangements sur mesure pensés pour faciliter l’organisation au quotidien.",
+      "h1": "Dressing ouvert haut de gamme",
+      "h2": "Des rangements adaptés à un espace organisé",
+      "description": "Ce projet Lopeseco présente un dressing ouvert conçu en fonction de la pièce et des besoins de rangement. L’approche sur mesure aide à organiser vêtements et accessoires tout en préservant l’harmonie de l’espace.",
+      "cta": "Vous envisagez un dressing ou un placard sur mesure ? Contactez Lopeseco pour discuter de votre projet.",
+
+      "services": "Dressing ouvert et rangements sur mesure",
+      "projectName": "Dressing ouvert haut de gamme",
+      "imageAlts": {
+        "1": "Dressing ouvert haut de gamme et rangements intégrés réalisé par Lopeseco au Luxembourg",
+        "2": "Détail de dressing ouvert haut de gamme et rangements intégrés dans un projet d’aménagement Lopeseco",
+        "3": "Dressing ouvert haut de gamme et rangements intégrés conçu pour l’espace disponible"
+      }
+    },
+    "builtInWardrobe": {
+      "title": "Placards intégrés et rangements au Luxembourg | Lopeseco",
+      "metaDescription": "Découvrez les placards intégrés et solutions de rangement sur mesure de Lopeseco au Luxembourg, conçus pour optimiser l’espace disponible.",
+      "h1": "Placards intégrés et rangements",
+      "h2": "Un mobilier ajusté pour optimiser l’espace",
+      "description": "Ce projet Lopeseco met l’accent sur les rangements intégrés, avec un mobilier conçu en fonction de la pièce. Découvrez une solution pour organiser vêtements et effets personnels tout en utilisant efficacement l’espace disponible.",
+      "cta": "Vous envisagez un dressing ou un placard sur mesure ? Contactez Lopeseco pour discuter de votre projet.",
+
+      "services": "Placards intégrés et rangements sur mesure",
+      "projectName": "Placards intégrés et rangements",
+      "imageAlts": {
+        "1": "Placard intégré avec rangements sur mesure réalisé par Lopeseco au Luxembourg",
+        "2": "Détail de placard intégré avec rangements sur mesure dans un projet d’aménagement Lopeseco",
+        "3": "Placard intégré avec rangements sur mesure conçu pour l’espace disponible"
+      }
+    },
+    "customCloset": {
+      "title": "Conception de placard sur mesure au Luxembourg | Lopeseco",
+      "metaDescription": "Découvrez un placard sur mesure conçu par Lopeseco au Luxembourg, avec des rangements adaptés à la pièce, aux vêtements et aux habitudes du quotidien.",
+      "h1": "Placard sur mesure",
+      "h2": "Des rangements pensés pour le quotidien",
+      "description": "Ce projet Lopeseco présente un placard conçu sur mesure selon l’espace disponible. Les rangements personnalisés facilitent l’organisation des vêtements et accessoires tout en créant un intérieur harmonieux.",
+      "cta": "Vous envisagez un dressing ou un placard sur mesure ? Contactez Lopeseco pour discuter de votre projet.",
+
+      "services": "Placard et rangements sur mesure",
+      "projectName": "Placard sur mesure",
+      "imageAlts": {
+        "1": "Placard sur mesure et rangements de dressing réalisé par Lopeseco au Luxembourg",
+        "2": "Détail de placard sur mesure et rangements de dressing dans un projet d’aménagement Lopeseco",
+        "3": "Placard sur mesure et rangements de dressing conçu pour l’espace disponible",
+        "4": "Mobilier de placard sur mesure et rangements de dressing et finitions coordonnées"
+      }
+    },
+    "luxuryDressingRoom": {
+      "title": "Aménagement de dressing haut de gamme au Luxembourg | Lopeseco",
+      "metaDescription": "Explorez un projet de dressing haut de gamme signé Lopeseco au Luxembourg, avec un mobilier et des rangements sur mesure adaptés à la pièce et à son usage.",
+      "h1": "Aménagement de dressing haut de gamme",
+      "h2": "Un dressing harmonieux avec mobilier sur mesure",
+      "description": "Ce projet Lopeseco met l’accent sur l’aménagement d’un dressing et le mobilier personnalisé. L’agencement et les rangements sont pensés ensemble pour créer un espace pratique et cohérent.",
+      "cta": "Vous envisagez un dressing ou un placard sur mesure ? Contactez Lopeseco pour discuter de votre projet.",
+
+      "services": "Dressing haut de gamme et mobilier sur mesure",
+      "projectName": "Aménagement de dressing haut de gamme",
+      "imageAlts": {
+        "1": "Dressing haut de gamme avec mobilier sur mesure réalisé par Lopeseco au Luxembourg",
+        "2": "Détail de dressing haut de gamme avec mobilier sur mesure dans un projet d’aménagement Lopeseco"
+      }
+    },
+    "customDressing": {
+      "title": "Dressing sur mesure au Luxembourg | Lopeseco",
+      "metaDescription": "Découvrez un dressing sur mesure réalisé par Lopeseco au Luxembourg, avec un mobilier et des rangements adaptés à votre espace.",
+      "h1": "Dressing sur mesure",
+      "h2": "Des rangements personnalisés pour un intérieur organisé",
+      "description": "Ce projet Lopeseco présente un dressing conçu pour s’adapter à l’espace disponible. Le mobilier et les rangements sur mesure facilitent l’organisation des vêtements et accessoires tout en préservant l’harmonie de l’intérieur.",
+      "cta": "Vous envisagez un dressing ou un placard sur mesure ? Contactez Lopeseco pour discuter de votre projet.",
+
+      "services": "Dressing sur mesure et mobilier intégré",
+      "projectName": "Dressing sur mesure",
+      "imageAlts": {
+        "1": "Mobilier de dressing sur mesure réalisé par Lopeseco au Luxembourg",
+        "2": "Détail de mobilier de dressing sur mesure dans un projet d’aménagement Lopeseco",
+        "3": "Mobilier de dressing sur mesure conçu pour l’espace disponible",
+        "4": "Mobilier de mobilier de dressing sur mesure et finitions coordonnées"
+      }
+    },
+    "compactWardrobe": {
+      "title": "Aménagement de placard compact au Luxembourg | Lopeseco",
+      "metaDescription": "Découvrez un placard compact conçu par Lopeseco au Luxembourg, avec des rangements sur mesure qui exploitent au mieux les espaces réduits.",
+      "h1": "Placard compact sur mesure",
+      "h2": "Des rangements pratiques pour les petits espaces",
+      "description": "Ce projet Lopeseco met l’accent sur un placard compact et des rangements efficaces. L’aménagement tient compte des dimensions disponibles pour organiser les vêtements et optimiser une surface réduite.",
+      "cta": "Vous envisagez un dressing ou un placard sur mesure ? Contactez Lopeseco pour discuter de votre projet.",
+
+      "services": "Placard compact et rangements gain de place",
+      "projectName": "Placard compact sur mesure",
+      "imageAlts": {
+        "1": "Placard compact et rangements gain de place réalisé par Lopeseco au Luxembourg",
+        "2": "Détail de placard compact et rangements gain de place dans un projet d’aménagement Lopeseco",
+        "3": "Placard compact et rangements gain de place conçu pour l’espace disponible",
+        "4": "Mobilier de placard compact et rangements gain de place et finitions coordonnées"
+      }
+    },
+    "luxuryBedroom": {
+      "title": "Aménagement de chambre et dressing haut de gamme au Luxembourg | Lopeseco",
+      "metaDescription": "Découvrez un projet de chambre et de dressing signé Lopeseco au Luxembourg, associant mobilier sur mesure et rangements dans un intérieur harmonieux.",
+      "h1": "Chambre et dressing haut de gamme",
+      "h2": "Une chambre harmonieuse avec rangements sur mesure",
+      "description": "Ce projet Lopeseco associe l’aménagement de la chambre et les rangements du dressing. Le mobilier sur mesure est pensé pour s’intégrer à la pièce et faciliter l’organisation au quotidien.",
+      "cta": "Vous envisagez un dressing ou un placard sur mesure ? Contactez Lopeseco pour discuter de votre projet.",
+
+      "services": "Aménagement de chambre et rangements de dressing",
+      "projectName": "Chambre et dressing haut de gamme",
+      "imageAlts": {
+        "1": "Chambre avec rangements de dressing sur mesure réalisé par Lopeseco au Luxembourg",
+        "2": "Détail de chambre avec rangements de dressing sur mesure dans un projet d’aménagement Lopeseco",
+        "3": "Chambre avec rangements de dressing sur mesure conçu pour l’espace disponible",
+        "4": "Mobilier de chambre avec rangements de dressing sur mesure et finitions coordonnées",
+        "5": "Chambre avec rangements de dressing sur mesure avec rangements pratiques",
+        "6": "Chambre avec rangements de dressing sur mesure réalisé par Lopeseco au Luxembourg",
+        "7": "Détail de chambre avec rangements de dressing sur mesure dans un projet d’aménagement Lopeseco",
+        "8": "Chambre avec rangements de dressing sur mesure conçu pour l’espace disponible"
+      }
+    },
+    "highEndDressing": {
+      "title": "Dressing haut de gamme au Luxembourg | Lopeseco",
+      "metaDescription": "Explorez un projet de dressing haut de gamme par Lopeseco au Luxembourg, avec un mobilier de rangement et des placards adaptés à l’espace.",
+      "h1": "Dressing haut de gamme",
+      "h2": "Des rangements soignés adaptés à la pièce",
+      "description": "Ce projet Lopeseco présente un dressing haut de gamme avec un mobilier et des rangements conçus en fonction de la pièce. L’objectif est d’associer fonctionnalité au quotidien et finitions cohérentes.",
+      "cta": "Vous envisagez un dressing ou un placard sur mesure ? Contactez Lopeseco pour discuter de votre projet.",
+
+      "services": "Dressing haut de gamme et placards sur mesure",
+      "projectName": "Dressing haut de gamme",
+      "imageAlts": {
+        "1": "Dressing haut de gamme et placards intégrés réalisé par Lopeseco au Luxembourg",
+        "2": "Détail de dressing haut de gamme et placards intégrés dans un projet d’aménagement Lopeseco",
+        "3": "Dressing haut de gamme et placards intégrés conçu pour l’espace disponible",
+        "4": "Mobilier de dressing haut de gamme et placards intégrés et finitions coordonnées"
+      }
+    },
+    "modernCustomDressing": {
+      "title": "Dressing moderne sur mesure au Luxembourg | Lopeseco",
+      "metaDescription": "Découvrez un dressing moderne sur mesure réalisé par Lopeseco au Luxembourg, avec des rangements adaptés à l’intérieur et aux besoins quotidiens.",
+      "h1": "Dressing moderne sur mesure",
+      "h2": "Des lignes contemporaines et des rangements adaptés",
+      "description": "Ce projet Lopeseco présente un espace dressing moderne avec des rangements personnalisés. Le mobilier est conçu en fonction de l’espace disponible pour créer un lieu contemporain et pratique pour les vêtements et accessoires.",
+      "cta": "Vous envisagez un dressing ou un placard sur mesure ? Contactez Lopeseco pour discuter de votre projet.",
+
+      "services": "Dressing moderne et rangements sur mesure",
+      "projectName": "Dressing moderne sur mesure",
+      "imageAlts": {
+        "1": "Mobilier de dressing moderne sur mesure réalisé par Lopeseco au Luxembourg",
+        "2": "Détail de mobilier de dressing moderne sur mesure dans un projet d’aménagement Lopeseco",
+        "3": "Mobilier de dressing moderne sur mesure conçu pour l’espace disponible"
+      }
+    },
+    "minimalistDressing": {
+      "title": "Dressing minimaliste au Luxembourg | Lopeseco",
+      "metaDescription": "Découvrez un dressing minimaliste conçu par Lopeseco au Luxembourg, avec un mobilier sur mesure aux lignes épurées et des rangements pratiques.",
+      "h1": "Dressing minimaliste",
+      "h2": "Une approche épurée et fonctionnelle du rangement",
+      "description": "Ce projet Lopeseco présente un espace dressing minimaliste avec des rangements sur mesure. L’aménagement privilégie une esthétique cohérente et une organisation pratique adaptée à la pièce.",
+      "cta": "Vous envisagez un dressing ou un placard sur mesure ? Contactez Lopeseco pour discuter de votre projet.",
+
+      "services": "Dressing minimaliste et rangements sur mesure",
+      "projectName": "Dressing minimaliste",
+      "imageAlts": {
+        "1": "Rangements de dressing minimalistes réalisé par Lopeseco au Luxembourg",
+        "2": "Détail de rangements de dressing minimalistes dans un projet d’aménagement Lopeseco",
+        "3": "Rangements de dressing minimalistes conçu pour l’espace disponible"
+      }
+    },
+    "dressingWithIsland": {
+      "title": "Dressing haut de gamme avec îlot au Luxembourg | Lopeseco",
+      "metaDescription": "Découvrez un dressing haut de gamme avec îlot réalisé par Lopeseco au Luxembourg, avec des rangements sur mesure conçus pour organiser l’espace.",
+      "h1": "Dressing haut de gamme avec îlot",
+      "h2": "Un îlot central et des rangements personnalisés",
+      "description": "Ce projet Lopeseco présente un dressing avec îlot. L’agencement associe l’élément central et les rangements périphériques pour faciliter l’organisation et créer un intérieur harmonieux.",
+      "cta": "Vous envisagez un dressing ou un placard sur mesure ? Contactez Lopeseco pour discuter de votre projet.",
+
+      "services": "Dressing avec îlot et rangements sur mesure",
+      "projectName": "Dressing haut de gamme avec îlot",
+      "imageAlts": {
+        "1": "Dressing haut de gamme avec îlot central réalisé par Lopeseco au Luxembourg",
+        "2": "Détail de dressing haut de gamme avec îlot central dans un projet d’aménagement Lopeseco",
+        "3": "Dressing haut de gamme avec îlot central conçu pour l’espace disponible",
+        "4": "Mobilier de dressing haut de gamme avec îlot central et finitions coordonnées"
+      }
+    },
+    "walkInDressing": {
+      "title": "Dressing ouvert au Luxembourg | Lopeseco",
+      "metaDescription": "Découvrez un dressing ouvert réalisé par Lopeseco au Luxembourg, avec un mobilier et des rangements adaptés à la pièce et à l’usage quotidien.",
+      "h1": "Dressing ouvert",
+      "h2": "Un espace dressing dédié avec rangements sur mesure",
+      "description": "Ce projet Lopeseco présente un espace dressing ouvert conçu en fonction de la surface disponible. Le mobilier et les rangements sur mesure permettent d’organiser vêtements et accessoires.",
+      "cta": "Vous envisagez un dressing ou un placard sur mesure ? Contactez Lopeseco pour discuter de votre projet.",
+
+      "services": "Dressing ouvert et mobilier sur mesure",
+      "projectName": "Dressing ouvert",
+      "imageAlts": {
+        "1": "Dressing ouvert avec rangements sur mesure réalisé par Lopeseco au Luxembourg",
+        "2": "Détail de dressing ouvert avec rangements sur mesure dans un projet d’aménagement Lopeseco",
+        "3": "Dressing ouvert avec rangements sur mesure conçu pour l’espace disponible",
+        "4": "Mobilier de dressing ouvert avec rangements sur mesure et finitions coordonnées"
+      }
+    }
+  },
+  "dressingProjectsShared": {
+    "projectLabel": "Projet",
+    "locationLabel": "Lieu",
+    "servicesLabel": "Services",
+    "loading": "Chargement...",
+    "studioTagline": "STUDIO DE DESIGN D’INTÉRIEUR",
+    "ogLocale": "fr_LU"
+  },
+  "portfolioProjectsShared": {
+    "projectLabel": "Projet",
+    "locationLabel": "Lieu",
+    "servicesLabel": "Services",
+    "servicesValue": "Design d’intérieur et mobilier sur mesure",
+    "cta": "Vous envisagez un projet similaire ? Contactez Lopeseco pour discuter d’une solution sur mesure.",
+    "loading": "Chargement des images du projet..."
+  },
+  "portfolioProjects": {
+    "medical-cabinet-luxembourg": {
+      "title": "Mobilier médical sur mesure au Luxembourg | Lopeseco",
+      "metaDescription": "Nous concevons des meubles médicaux et des rangements sur mesure pour les espaces professionnels, en associant organisation fonctionnelle, finitions soignées et adaptation aux besoins du lieu.",
+      "h1": "Des rangements adaptés aux espaces professionnels",
+      "h2": "Une organisation pratique et des finitions soignées",
+      "description": "Nous concevons des meubles médicaux et des rangements sur mesure pour les espaces professionnels, en associant organisation fonctionnelle, finitions soignées et adaptation aux besoins du lieu.",
+      "cta": "Vous envisagez un projet similaire ? Contactez Lopeseco pour discuter d’une solution sur mesure.",
+      "projectName": "Des rangements adaptés aux espaces professionnels",
+      "servicesValue": "Design d’intérieur et mobilier sur mesure",
+      "imageAlts": {
+        "alt1": "Projet de Des rangements adaptés aux espaces professionnels au Luxembourg",
+        "alt2": "Des rangements adaptés aux espaces professionnels sur mesure par Lopeseco",
+        "alt3": "Des rangements adaptés aux espaces professionnels avec un agencement personnalisé",
+        "alt4": "Conception et mobilier sur mesure pour Des rangements adaptés aux espaces professionnels",
+        "alt5": "Détail du projet de Des rangements adaptés aux espaces professionnels",
+        "alt6": "Aménagement intérieur et mobilier intégré pour Des rangements adaptés aux espaces professionnels"
+      }
+    },
+    "custom-garage-design-luxembourg": {
+      "title": "Aménagement de garage sur mesure au Luxembourg | Lopeseco",
+      "metaDescription": "Découvrez un aménagement de garage pensé pour le rangement et la fonctionnalité. Lopeseco conçoit des solutions de mobilier sur mesure pour organiser outils, équipements et objets du quotidien.",
+      "h1": "Un garage conçu selon vos besoins",
+      "h2": "Des rangements pratiques pour un espace mieux organisé",
+      "description": "Découvrez un aménagement de garage pensé pour le rangement et la fonctionnalité. Lopeseco conçoit des solutions de mobilier sur mesure pour organiser outils, équipements et objets du quotidien.",
+      "cta": "Vous envisagez un projet similaire ? Contactez Lopeseco pour discuter d’une solution sur mesure.",
+      "projectName": "Un garage conçu selon vos besoins",
+      "servicesValue": "Design d’intérieur et mobilier sur mesure",
+      "imageAlts": {
+        "alt1": "Projet de Un garage conçu selon vos besoins au Luxembourg",
+        "alt2": "Un garage conçu selon vos besoins sur mesure par Lopeseco",
+        "alt3": "Un garage conçu selon vos besoins avec un agencement personnalisé",
+        "alt4": "Conception et mobilier sur mesure pour Un garage conçu selon vos besoins"
+      }
+    },
+    "laundry-room-solutions-luxembourg": {
+      "title": "Aménagement de buanderie sur mesure au Luxembourg | Lopeseco",
+      "metaDescription": "Découvrez des meubles et rangements de buanderie conçus pour faciliter les tâches quotidiennes. Des aménagements sur mesure permettent d'organiser les produits, les appareils et l'espace disponible.",
+      "h1": "Mobilier et rangements pour buanderie",
+      "h2": "Des rangements adaptés aux gestes du quotidien",
+      "description": "Découvrez des meubles et rangements de buanderie conçus pour faciliter les tâches quotidiennes. Des aménagements sur mesure permettent d'organiser les produits, les appareils et l'espace disponible.",
+      "cta": "Vous envisagez un projet similaire ? Contactez Lopeseco pour discuter d’une solution sur mesure.",
+      "projectName": "Mobilier et rangements pour buanderie",
+      "servicesValue": "Design d’intérieur et mobilier sur mesure",
+      "imageAlts": {
+        "alt1": "Projet de Mobilier et rangements pour buanderie au Luxembourg",
+        "alt2": "Mobilier et rangements pour buanderie sur mesure par Lopeseco",
+        "alt3": "Mobilier et rangements pour buanderie avec un agencement personnalisé"
+      }
+    },
+    "minimalist-office-design-luxembourg": {
+      "title": "Aménagement de bureau minimaliste au Luxembourg | Lopeseco",
+      "metaDescription": "Ce projet de bureau minimaliste privilégie un espace de travail épuré et fonctionnel, avec du mobilier et des rangements adaptés à la pièce. Lopeseco conçoit des intérieurs personnalisés pour le travail au quotidien.",
+      "h1": "Un espace de travail épuré et fonctionnel",
+      "h2": "Du mobilier sur mesure pour travailler sereinement",
+      "description": "Ce projet de bureau minimaliste privilégie un espace de travail épuré et fonctionnel, avec du mobilier et des rangements adaptés à la pièce. Lopeseco conçoit des intérieurs personnalisés pour le travail au quotidien.",
+      "cta": "Vous envisagez un projet similaire ? Contactez Lopeseco pour discuter d’une solution sur mesure.",
+      "projectName": "Un espace de travail épuré et fonctionnel",
+      "servicesValue": "Design d’intérieur et mobilier sur mesure",
+      "imageAlts": {
+        "alt1": "Projet de Un espace de travail épuré et fonctionnel au Luxembourg",
+        "alt2": "Un espace de travail épuré et fonctionnel sur mesure par Lopeseco",
+        "alt3": "Un espace de travail épuré et fonctionnel avec un agencement personnalisé",
+        "alt4": "Conception et mobilier sur mesure pour Un espace de travail épuré et fonctionnel"
+      }
+    },
+    "winecellar-luxembourg": {
+      "title": "Conception de cave à vin sur mesure au Luxembourg | Lopeseco",
+      "metaDescription": "Découvrez un projet de cave à vin avec des rangements adaptés à l'espace et à son usage. Lopeseco conçoit des solutions sur mesure qui associent organisation, présentation et finitions harmonieuses.",
+      "h1": "Une cave à vin avec des rangements adaptés",
+      "h2": "Un espace pensé pour conserver et présenter les bouteilles",
+      "description": "Découvrez un projet de cave à vin avec des rangements adaptés à l'espace et à son usage. Lopeseco conçoit des solutions sur mesure qui associent organisation, présentation et finitions harmonieuses.",
+      "cta": "Vous envisagez un projet similaire ? Contactez Lopeseco pour discuter d’une solution sur mesure.",
+      "projectName": "Une cave à vin avec des rangements adaptés",
+      "servicesValue": "Design d’intérieur et mobilier sur mesure",
+      "imageAlts": {
+        "alt1": "Projet de Une cave à vin avec des rangements adaptés au Luxembourg",
+        "alt2": "Une cave à vin avec des rangements adaptés sur mesure par Lopeseco",
+        "alt3": "Une cave à vin avec des rangements adaptés avec un agencement personnalisé",
+        "alt4": "Conception et mobilier sur mesure pour Une cave à vin avec des rangements adaptés",
+        "alt5": "Détail du projet de Une cave à vin avec des rangements adaptés"
+      }
+    },
+    "flyer-display": {
+      "title": "Présentoir à flyers sur mesure au Luxembourg | Lopeseco",
+      "metaDescription": "Ce projet de présentoir met l'accent sur une présentation organisée et accessible des supports imprimés. Lopeseco conçoit des meubles et présentoirs adaptés aux espaces professionnels et commerciaux.",
+      "h1": "Un présentoir conçu pour les supports imprimés",
+      "h2": "Une présentation pratique des brochures et dépliants",
+      "description": "Ce projet de présentoir met l'accent sur une présentation organisée et accessible des supports imprimés. Lopeseco conçoit des meubles et présentoirs adaptés aux espaces professionnels et commerciaux.",
+      "cta": "Vous envisagez un projet similaire ? Contactez Lopeseco pour discuter d’une solution sur mesure.",
+      "projectName": "Un présentoir conçu pour les supports imprimés",
+      "servicesValue": "Design d’intérieur et mobilier sur mesure",
+      "imageAlts": {
+        "alt1": "Projet de Un présentoir conçu pour les supports imprimés au Luxembourg",
+        "alt2": "Un présentoir conçu pour les supports imprimés sur mesure par Lopeseco",
+        "alt3": "Un présentoir conçu pour les supports imprimés avec un agencement personnalisé"
+      }
+    },
+    "luxury-office-design-luxembourg": {
+      "title": "Aménagement de bureau haut de gamme au Luxembourg | Lopeseco",
+      "metaDescription": "Ce projet de bureau associe un agencement réfléchi et du mobilier sur mesure pour créer un intérieur professionnel aux finitions soignées. Chaque solution est adaptée à l'espace et à ses besoins pratiques.",
+      "h1": "Un intérieur de bureau raffiné",
+      "h2": "Du mobilier sur mesure pour un espace professionnel",
+      "description": "Ce projet de bureau associe un agencement réfléchi et du mobilier sur mesure pour créer un intérieur professionnel aux finitions soignées. Chaque solution est adaptée à l'espace et à ses besoins pratiques.",
+      "cta": "Vous envisagez un projet similaire ? Contactez Lopeseco pour discuter d’une solution sur mesure.",
+      "projectName": "Un intérieur de bureau raffiné",
+      "servicesValue": "Design d’intérieur et mobilier sur mesure",
+      "imageAlts": {
+        "alt1": "Projet de Un intérieur de bureau raffiné au Luxembourg",
+        "alt2": "Un intérieur de bureau raffiné sur mesure par Lopeseco",
+        "alt3": "Un intérieur de bureau raffiné avec un agencement personnalisé",
+        "alt4": "Conception et mobilier sur mesure pour Un intérieur de bureau raffiné"
+      }
+    },
+    "custom-made-sliding-doors": {
+      "title": "Portes coulissantes sur mesure au Luxembourg | Lopeseco",
+      "metaDescription": "Découvrez des portes coulissantes sur mesure conçues pour s'intégrer à l'intérieur et optimiser l'espace disponible. Lopeseco adapte les dimensions, les finitions et les contraintes pratiques pour un résultat harmonieux.",
+      "h1": "Des portes coulissantes adaptées à votre intérieur",
+      "h2": "Une solution personnalisée pour organiser l'espace",
+      "description": "Découvrez des portes coulissantes sur mesure conçues pour s'intégrer à l'intérieur et optimiser l'espace disponible. Lopeseco adapte les dimensions, les finitions et les contraintes pratiques pour un résultat harmonieux.",
+      "cta": "Vous envisagez un projet similaire ? Contactez Lopeseco pour discuter d’une solution sur mesure.",
+      "projectName": "Des portes coulissantes adaptées à votre intérieur",
+      "servicesValue": "Design d’intérieur et mobilier sur mesure",
+      "imageAlts": {
+        "alt1": "Projet de Des portes coulissantes adaptées à votre intérieur au Luxembourg",
+        "alt2": "Des portes coulissantes adaptées à votre intérieur sur mesure par Lopeseco",
+        "alt3": "Des portes coulissantes adaptées à votre intérieur avec un agencement personnalisé"
+      }
+    },
+    "kids-room__kids-room-interior-design-luxembourg": {
+      "title": "Aménagement de chambre d’enfant au Luxembourg | Lopeseco",
+      "metaDescription": "Ce projet de chambre d’enfant privilégie un intérieur accueillant et fonctionnel, avec du mobilier et des rangements adaptés au quotidien. Lopeseco conçoit des solutions sur mesure pour optimiser l’espace disponible.",
+      "h1": "Un intérieur pensé pour la chambre d’enfant",
+      "h2": "Du mobilier et des rangements adaptés aux besoins qui évoluent",
+      "description": "Ce projet de chambre d’enfant privilégie un intérieur accueillant et fonctionnel, avec du mobilier et des rangements adaptés au quotidien. Lopeseco conçoit des solutions sur mesure pour optimiser l’espace disponible.",
+      "cta": "Vous envisagez un projet similaire ? Contactez Lopeseco pour discuter d’une solution sur mesure.",
+      "projectName": "Un intérieur pensé pour la chambre d’enfant",
+      "servicesValue": "Design d’intérieur et mobilier sur mesure",
+      "imageAlts": {
+        "alt1": "Projet de Un intérieur pensé pour la chambre d’enfant au Luxembourg",
+        "alt2": "Un intérieur pensé pour la chambre d’enfant sur mesure par Lopeseco",
+        "alt3": "Un intérieur pensé pour la chambre d’enfant avec un agencement personnalisé"
+      }
+    },
+    "kids-room__space-saving-kids-room-furniture": {
+      "title": "Mobilier gain de place pour chambre d’enfant | Lopeseco",
+      "metaDescription": "Ce projet explore des meubles gain de place pour une chambre d’enfant, avec une attention particulière portée à l’organisation et à l’utilisation de la surface disponible.",
+      "h1": "Du mobilier astucieux pour les petites chambres",
+      "h2": "Optimiser chaque recoin",
+      "description": "Ce projet explore des meubles gain de place pour une chambre d’enfant, avec une attention particulière portée à l’organisation et à l’utilisation de la surface disponible.",
+      "cta": "Vous envisagez un projet similaire ? Contactez Lopeseco pour discuter d’une solution sur mesure.",
+      "projectName": "Du mobilier astucieux pour les petites chambres",
+      "servicesValue": "Design d’intérieur et mobilier sur mesure",
+      "imageAlts": {
+        "alt1": "Projet de Du mobilier astucieux pour les petites chambres au Luxembourg",
+        "alt2": "Du mobilier astucieux pour les petites chambres sur mesure par Lopeseco",
+        "alt3": "Du mobilier astucieux pour les petites chambres avec un agencement personnalisé"
+      }
+    },
+    "kids-room__modern-kids-room-design-luxembourg": {
+      "title": "Chambre d’enfant moderne au Luxembourg | Lopeseco",
+      "metaDescription": "Ce projet de chambre d’enfant moderne associe mobilier pratique et rangements pour accompagner les moments de jeu, de repos et les routines quotidiennes dans un intérieur harmonieux.",
+      "h1": "Une chambre moderne pour le quotidien",
+      "h2": "Un équilibre entre confort, rangement et fonctionnalité",
+      "description": "Ce projet de chambre d’enfant moderne associe mobilier pratique et rangements pour accompagner les moments de jeu, de repos et les routines quotidiennes dans un intérieur harmonieux.",
+      "cta": "Vous envisagez un projet similaire ? Contactez Lopeseco pour discuter d’une solution sur mesure.",
+      "projectName": "Une chambre moderne pour le quotidien",
+      "servicesValue": "Design d’intérieur et mobilier sur mesure",
+      "imageAlts": {
+        "alt1": "Projet de Une chambre moderne pour le quotidien au Luxembourg",
+        "alt2": "Une chambre moderne pour le quotidien sur mesure par Lopeseco",
+        "alt3": "Une chambre moderne pour le quotidien avec un agencement personnalisé",
+        "alt4": "Conception et mobilier sur mesure pour Une chambre moderne pour le quotidien",
+        "alt5": "Détail du projet de Une chambre moderne pour le quotidien"
+      }
+    },
+    "kids-room__kids-room-design-luxembourg": {
+      "title": "Aménagement de chambre d’enfant au Luxembourg | Lopeseco",
+      "metaDescription": "Découvrez une chambre d’enfant aménagée selon l’espace disponible et les besoins du quotidien. Lopeseco conçoit des meubles et rangements sur mesure pour un intérieur accueillant et organisé.",
+      "h1": "Une chambre d’enfant personnalisée",
+      "h2": "Un intérieur fonctionnel adapté à la pièce",
+      "description": "Découvrez une chambre d’enfant aménagée selon l’espace disponible et les besoins du quotidien. Lopeseco conçoit des meubles et rangements sur mesure pour un intérieur accueillant et organisé.",
+      "cta": "Vous envisagez un projet similaire ? Contactez Lopeseco pour discuter d’une solution sur mesure.",
+      "projectName": "Une chambre d’enfant personnalisée",
+      "servicesValue": "Design d’intérieur et mobilier sur mesure",
+      "imageAlts": {
+        "alt1": "Projet de Une chambre d’enfant personnalisée au Luxembourg",
+        "alt2": "Une chambre d’enfant personnalisée sur mesure par Lopeseco",
+        "alt3": "Une chambre d’enfant personnalisée avec un agencement personnalisé",
+        "alt4": "Conception et mobilier sur mesure pour Une chambre d’enfant personnalisée",
+        "alt5": "Détail du projet de Une chambre d’enfant personnalisée",
+        "alt6": "Aménagement intérieur et mobilier intégré pour Une chambre d’enfant personnalisée",
+        "alt7": "Vue du projet de Une chambre d’enfant personnalisée par Lopeseco",
+        "alt8": "Solutions de mobilier sur mesure pour Une chambre d’enfant personnalisée",
+        "alt9": "Projet de Une chambre d’enfant personnalisée au Luxembourg",
+        "alt10": "Une chambre d’enfant personnalisée sur mesure par Lopeseco"
+      }
+    },
+    "kids-room__kids-room-storage-solutions-luxembourg": {
+      "title": "Rangements pour chambre d’enfant au Luxembourg | Lopeseco",
+      "metaDescription": "Ce projet met l’accent sur les rangements pour chambre d’enfant afin d’organiser les objets du quotidien tout en optimisant l’espace disponible.",
+      "h1": "Des rangements pour une chambre bien organisée",
+      "h2": "Des solutions pratiques pour les jouets, vêtements et essentiels",
+      "description": "Ce projet met l’accent sur les rangements pour chambre d’enfant afin d’organiser les objets du quotidien tout en optimisant l’espace disponible.",
+      "cta": "Vous envisagez un projet similaire ? Contactez Lopeseco pour discuter d’une solution sur mesure.",
+      "projectName": "Des rangements pour une chambre bien organisée",
+      "servicesValue": "Design d’intérieur et mobilier sur mesure",
+      "imageAlts": {
+        "alt1": "Projet de Des rangements pour une chambre bien organisée au Luxembourg",
+        "alt2": "Des rangements pour une chambre bien organisée sur mesure par Lopeseco",
+        "alt3": "Des rangements pour une chambre bien organisée avec un agencement personnalisé"
+      }
+    },
+    "entrance-hall__hallway-design-with-mirrors-and-lighting": {
+      "title": "Aménagement de couloir avec miroirs et éclairage | Lopeseco",
+      "metaDescription": "Ce projet de couloir associe miroirs, éclairage et agencement réfléchi pour créer une entrée accueillante. Le design équilibre sensation d’espace et fonctionnalité au quotidien.",
+      "h1": "Une entrée accueillante grâce aux miroirs et à la lumière",
+      "h2": "Des détails qui soignent la première impression",
+      "description": "Ce projet de couloir associe miroirs, éclairage et agencement réfléchi pour créer une entrée accueillante. Le design équilibre sensation d’espace et fonctionnalité au quotidien.",
+      "cta": "Vous envisagez un projet similaire ? Contactez Lopeseco pour discuter d’une solution sur mesure.",
+      "projectName": "Une entrée accueillante grâce aux miroirs et à la lumière",
+      "servicesValue": "Design d’intérieur et mobilier sur mesure",
+      "imageAlts": {
+        "alt1": "Projet de Une entrée accueillante grâce aux miroirs et à la lumière au Luxembourg",
+        "alt2": "Une entrée accueillante grâce aux miroirs et à la lumière sur mesure par Lopeseco",
+        "alt3": "Une entrée accueillante grâce aux miroirs et à la lumière avec un agencement personnalisé",
+        "alt4": "Conception et mobilier sur mesure pour Une entrée accueillante grâce aux miroirs et à la lumière",
+        "alt5": "Détail du projet de Une entrée accueillante grâce aux miroirs et à la lumière"
+      }
+    },
+    "entrance-hall__hallway-storage-solutions-luxembourg": {
+      "title": "Rangements de couloir au Luxembourg | Lopeseco",
+      "metaDescription": "Découvrez des rangements de couloir adaptés à l’espace disponible pour organiser manteaux, chaussures et objets du quotidien sans gêner la circulation.",
+      "h1": "Un couloir mieux organisé",
+      "h2": "Des rangements sur mesure pour le quotidien",
+      "description": "Découvrez des rangements de couloir adaptés à l’espace disponible pour organiser manteaux, chaussures et objets du quotidien sans gêner la circulation.",
+      "cta": "Vous envisagez un projet similaire ? Contactez Lopeseco pour discuter d’une solution sur mesure.",
+      "projectName": "Un couloir mieux organisé",
+      "servicesValue": "Design d’intérieur et mobilier sur mesure",
+      "imageAlts": {
+        "alt1": "Projet de Un couloir mieux organisé au Luxembourg",
+        "alt2": "Un couloir mieux organisé sur mesure par Lopeseco",
+        "alt3": "Un couloir mieux organisé avec un agencement personnalisé"
+      }
+    },
+    "entrance-hall__modern-entryway-design-luxembourg": {
+      "title": "Aménagement d’entrée moderne au Luxembourg | Lopeseco",
+      "metaDescription": "Ce projet d’entrée moderne associe un agencement clair et du mobilier coordonné pour créer un passage pratique et accueillant vers l’intérieur.",
+      "h1": "Une entrée moderne et fonctionnelle",
+      "h2": "Un accueil soigné dès le seuil de la maison",
+      "description": "Ce projet d’entrée moderne associe un agencement clair et du mobilier coordonné pour créer un passage pratique et accueillant vers l’intérieur.",
+      "cta": "Vous envisagez un projet similaire ? Contactez Lopeseco pour discuter d’une solution sur mesure.",
+      "projectName": "Une entrée moderne et fonctionnelle",
+      "servicesValue": "Design d’intérieur et mobilier sur mesure",
+      "imageAlts": {
+        "alt1": "Projet de Une entrée moderne et fonctionnelle au Luxembourg",
+        "alt2": "Une entrée moderne et fonctionnelle sur mesure par Lopeseco",
+        "alt3": "Une entrée moderne et fonctionnelle avec un agencement personnalisé"
+      }
+    },
+    "entrance-hall__luxury-entryway-design-luxembourg": {
+      "title": "Aménagement d’entrée haut de gamme au Luxembourg | Lopeseco",
+      "metaDescription": "Découvrez une entrée aux finitions raffinées et aux détails pratiques. Lopeseco conçoit le mobilier et les rangements en harmonie avec l’intérieur et les usages quotidiens.",
+      "h1": "Un intérieur d’entrée raffiné",
+      "h2": "Des détails sur mesure pour une première impression soignée",
+      "description": "Découvrez une entrée aux finitions raffinées et aux détails pratiques. Lopeseco conçoit le mobilier et les rangements en harmonie avec l’intérieur et les usages quotidiens.",
+      "cta": "Vous envisagez un projet similaire ? Contactez Lopeseco pour discuter d’une solution sur mesure.",
+      "projectName": "Un intérieur d’entrée raffiné",
+      "servicesValue": "Design d’intérieur et mobilier sur mesure",
+      "imageAlts": {
+        "alt1": "Projet de Un intérieur d’entrée raffiné au Luxembourg",
+        "alt2": "Un intérieur d’entrée raffiné sur mesure par Lopeseco",
+        "alt3": "Un intérieur d’entrée raffiné avec un agencement personnalisé",
+        "alt4": "Conception et mobilier sur mesure pour Un intérieur d’entrée raffiné",
+        "alt5": "Détail du projet de Un intérieur d’entrée raffiné",
+        "alt6": "Aménagement intérieur et mobilier intégré pour Un intérieur d’entrée raffiné",
+        "alt7": "Vue du projet de Un intérieur d’entrée raffiné par Lopeseco",
+        "alt8": "Solutions de mobilier sur mesure pour Un intérieur d’entrée raffiné",
+        "alt9": "Projet de Un intérieur d’entrée raffiné au Luxembourg"
+      }
+    },
+    "entrance-hall__minimalist-hallway-design": {
+      "title": "Aménagement de couloir minimaliste | Lopeseco",
+      "metaDescription": "Ce projet de couloir minimaliste privilégie une circulation visuelle fluide et une utilisation réfléchie de l’espace, avec un mobilier sobre et une organisation pratique.",
+      "h1": "Un couloir épuré et dégagé",
+      "h2": "Des lignes simples et un espace bien pensé",
+      "description": "Ce projet de couloir minimaliste privilégie une circulation visuelle fluide et une utilisation réfléchie de l’espace, avec un mobilier sobre et une organisation pratique.",
+      "cta": "Vous envisagez un projet similaire ? Contactez Lopeseco pour discuter d’une solution sur mesure.",
+      "projectName": "Un couloir épuré et dégagé",
+      "servicesValue": "Design d’intérieur et mobilier sur mesure",
+      "imageAlts": {
+        "alt1": "Projet de Un couloir épuré et dégagé au Luxembourg",
+        "alt2": "Un couloir épuré et dégagé sur mesure par Lopeseco"
+      }
+    },
+    "entrance-hall__contemporary-hallway-furniture-design": {
+      "title": "Mobilier contemporain pour couloir | Lopeseco",
+      "metaDescription": "Ce projet explore un mobilier de couloir contemporain qui facilite l’organisation au quotidien et s’intègre au reste de l’intérieur grâce à un design cohérent.",
+      "h1": "Du mobilier contemporain pour l’entrée",
+      "h2": "Un design pratique aux finitions harmonieuses",
+      "description": "Ce projet explore un mobilier de couloir contemporain qui facilite l’organisation au quotidien et s’intègre au reste de l’intérieur grâce à un design cohérent.",
+      "cta": "Vous envisagez un projet similaire ? Contactez Lopeseco pour discuter d’une solution sur mesure.",
+      "projectName": "Du mobilier contemporain pour l’entrée",
+      "servicesValue": "Design d’intérieur et mobilier sur mesure",
+      "imageAlts": {
+        "alt1": "Projet de Du mobilier contemporain pour l’entrée au Luxembourg",
+        "alt2": "Du mobilier contemporain pour l’entrée sur mesure par Lopeseco",
+        "alt3": "Du mobilier contemporain pour l’entrée avec un agencement personnalisé"
+      }
+    },
+    "entrance-hall__hallway-furniture-design-luxembourg": {
+      "title": "Mobilier de couloir au Luxembourg | Lopeseco",
+      "metaDescription": "Découvrez du mobilier de couloir conçu selon les dimensions et les besoins de l’entrée. Des rangements adaptés permettent d’organiser les essentiels et de faciliter l’usage de l’espace.",
+      "h1": "Du mobilier conçu pour l’entrée",
+      "h2": "Une approche sur mesure des rangements quotidiens",
+      "description": "Découvrez du mobilier de couloir conçu selon les dimensions et les besoins de l’entrée. Des rangements adaptés permettent d’organiser les essentiels et de faciliter l’usage de l’espace.",
+      "cta": "Vous envisagez un projet similaire ? Contactez Lopeseco pour discuter d’une solution sur mesure.",
+      "projectName": "Du mobilier conçu pour l’entrée",
+      "servicesValue": "Design d’intérieur et mobilier sur mesure",
+      "imageAlts": {
+        "alt1": "Projet de Du mobilier conçu pour l’entrée au Luxembourg",
+        "alt2": "Du mobilier conçu pour l’entrée sur mesure par Lopeseco",
+        "alt3": "Du mobilier conçu pour l’entrée avec un agencement personnalisé",
+        "alt4": "Conception et mobilier sur mesure pour Du mobilier conçu pour l’entrée"
+      }
+    },
+    "entrance-hall__corporate-logo-hallway-luxembourg": {
+      "title": "Aménagement de couloir professionnel avec logo au Luxembourg | Lopeseco",
+      "metaDescription": "Ce projet de couloir professionnel met en valeur une entrée avec des éléments de marque. L’agencement et les supports de présentation contribuent à créer une première impression claire et cohérente.",
+      "h1": "Une entrée professionnelle à votre image",
+      "h2": "Un aménagement qui reflète votre identité",
+      "description": "Ce projet de couloir professionnel met en valeur une entrée avec des éléments de marque. L’agencement et les supports de présentation contribuent à créer une première impression claire et cohérente.",
+      "cta": "Vous envisagez un projet similaire ? Contactez Lopeseco pour discuter d’une solution sur mesure.",
+      "projectName": "Une entrée professionnelle à votre image",
+      "servicesValue": "Design d’intérieur et mobilier sur mesure",
+      "imageAlts": {
+        "alt1": "Projet de Une entrée professionnelle à votre image au Luxembourg",
+        "alt2": "Une entrée professionnelle à votre image sur mesure par Lopeseco",
+        "alt3": "Une entrée professionnelle à votre image avec un agencement personnalisé"
+      }
+    },
+    "entrance-hall__entrance-hall-design-luxembourg": {
+      "title": "Aménagement de hall d’entrée au Luxembourg | Lopeseco",
+      "metaDescription": "Ce projet de hall d’entrée équilibre l’esthétique et l’usage pratique, en tenant compte de l’agencement, du mobilier et des rangements nécessaires au quotidien.",
+      "h1": "Un hall d’entrée pensé dans les détails",
+      "h2": "Un premier espace accueillant et fonctionnel",
+      "description": "Ce projet de hall d’entrée équilibre l’esthétique et l’usage pratique, en tenant compte de l’agencement, du mobilier et des rangements nécessaires au quotidien.",
+      "cta": "Vous envisagez un projet similaire ? Contactez Lopeseco pour discuter d’une solution sur mesure.",
+      "projectName": "Un hall d’entrée pensé dans les détails",
+      "servicesValue": "Design d’intérieur et mobilier sur mesure",
+      "imageAlts": {
+        "alt1": "Projet de Un hall d’entrée pensé dans les détails au Luxembourg",
+        "alt2": "Un hall d’entrée pensé dans les détails sur mesure par Lopeseco",
+        "alt3": "Un hall d’entrée pensé dans les détails avec un agencement personnalisé",
+        "alt4": "Conception et mobilier sur mesure pour Un hall d’entrée pensé dans les détails"
+      }
+    },
+    "entrance-hall__hallway-with-built-in-storage-solutions": {
+      "title": "Couloir avec rangements intégrés | Lopeseco",
+      "metaDescription": "Ce projet de couloir explore les rangements intégrés afin de mieux utiliser l’espace disponible et de garder les objets du quotidien bien organisés.",
+      "h1": "Des rangements intégrés pour un couloir dégagé",
+      "h2": "Exploiter l’espace disponible le long des murs",
+      "description": "Ce projet de couloir explore les rangements intégrés afin de mieux utiliser l’espace disponible et de garder les objets du quotidien bien organisés.",
+      "cta": "Vous envisagez un projet similaire ? Contactez Lopeseco pour discuter d’une solution sur mesure.",
+      "projectName": "Des rangements intégrés pour un couloir dégagé",
+      "servicesValue": "Design d’intérieur et mobilier sur mesure",
+      "imageAlts": {
+        "alt1": "Projet de Des rangements intégrés pour un couloir dégagé au Luxembourg",
+        "alt2": "Des rangements intégrés pour un couloir dégagé sur mesure par Lopeseco",
+        "alt3": "Des rangements intégrés pour un couloir dégagé avec un agencement personnalisé"
+      }
+    },
+    "entrance-hall__minimalist-entrance-hall-solutions-luxembourg": {
+      "title": "Solutions minimalistes pour hall d’entrée au Luxembourg | Lopeseco",
+      "metaDescription": "Ce projet adopte une approche minimaliste de l’entrée en privilégiant une circulation fluide, un design épuré et une organisation pratique.",
+      "h1": "Une approche minimaliste de l’entrée",
+      "h2": "Un agencement clair et des détails utiles",
+      "description": "Ce projet adopte une approche minimaliste de l’entrée en privilégiant une circulation fluide, un design épuré et une organisation pratique.",
+      "cta": "Vous envisagez un projet similaire ? Contactez Lopeseco pour discuter d’une solution sur mesure.",
+      "projectName": "Une approche minimaliste de l’entrée",
+      "servicesValue": "Design d’intérieur et mobilier sur mesure",
+      "imageAlts": {
+        "alt1": "Projet de Une approche minimaliste de l’entrée au Luxembourg",
+        "alt2": "Une approche minimaliste de l’entrée sur mesure par Lopeseco",
+        "alt3": "Une approche minimaliste de l’entrée avec un agencement personnalisé",
+        "alt4": "Conception et mobilier sur mesure pour Une approche minimaliste de l’entrée"
+      }
+    },
+    "entrance-hall__custom-designed-hallway-luxembourg": {
+      "title": "Couloir conçu sur mesure au Luxembourg | Lopeseco",
+      "metaDescription": "Ce projet de couloir sur mesure tient compte des proportions et des besoins de l’entrée afin de créer un espace pratique et cohérent avec du mobilier adapté.",
+      "h1": "Un couloir pensé pour votre intérieur",
+      "h2": "Du mobilier sur mesure pour une entrée harmonieuse",
+      "description": "Ce projet de couloir sur mesure tient compte des proportions et des besoins de l’entrée afin de créer un espace pratique et cohérent avec du mobilier adapté.",
+      "cta": "Vous envisagez un projet similaire ? Contactez Lopeseco pour discuter d’une solution sur mesure.",
+      "projectName": "Un couloir pensé pour votre intérieur",
+      "servicesValue": "Design d’intérieur et mobilier sur mesure",
+      "imageAlts": {
+        "alt1": "Projet de Un couloir pensé pour votre intérieur au Luxembourg",
+        "alt2": "Un couloir pensé pour votre intérieur sur mesure par Lopeseco",
+        "alt3": "Un couloir pensé pour votre intérieur avec un agencement personnalisé"
+      }
+    },
+    "tvunit__minimalist-tv-unit-design": {
+      "title": "Meuble TV minimaliste | Lopeseco",
+      "metaDescription": "Ce projet de meuble TV minimaliste privilégie une esthétique équilibrée et des rangements multimédias pratiques, intégrés au salon.",
+      "h1": "Un meuble TV aux lignes épurées",
+      "h2": "Des lignes sobres et des rangements multimédias discrets",
+      "description": "Ce projet de meuble TV minimaliste privilégie une esthétique équilibrée et des rangements multimédias pratiques, intégrés au salon.",
+      "cta": "Vous envisagez un projet similaire ? Contactez Lopeseco pour discuter d’une solution sur mesure.",
+      "projectName": "Un meuble TV aux lignes épurées",
+      "servicesValue": "Design d’intérieur et mobilier sur mesure",
+      "imageAlts": {
+        "alt1": "Projet de Un meuble TV aux lignes épurées au Luxembourg",
+        "alt2": "Un meuble TV aux lignes épurées sur mesure par Lopeseco",
+        "alt3": "Un meuble TV aux lignes épurées avec un agencement personnalisé"
+      }
+    },
+    "tvunit__built-in-living-room-media-wall": {
+      "title": "Mur multimédia intégré au salon | Lopeseco",
+      "metaDescription": "Ce projet de mur multimédia intègre l’espace télévision à du mobilier et des rangements sur mesure pour un résultat harmonieux et adapté à l’espace.",
+      "h1": "Un mur multimédia intégré à l’intérieur",
+      "h2": "Rangements et équipements réunis dans un ensemble cohérent",
+      "description": "Ce projet de mur multimédia intègre l’espace télévision à du mobilier et des rangements sur mesure pour un résultat harmonieux et adapté à l’espace.",
+      "cta": "Vous envisagez un projet similaire ? Contactez Lopeseco pour discuter d’une solution sur mesure.",
+      "projectName": "Un mur multimédia intégré à l’intérieur",
+      "servicesValue": "Design d’intérieur et mobilier sur mesure",
+      "imageAlts": {
+        "alt1": "Projet de Un mur multimédia intégré à l’intérieur au Luxembourg",
+        "alt2": "Un mur multimédia intégré à l’intérieur sur mesure par Lopeseco",
+        "alt3": "Un mur multimédia intégré à l’intérieur avec un agencement personnalisé"
+      }
+    },
+    "tvunit__tv-unit-design-luxembourg": {
+      "title": "Conception de meuble TV sur mesure au Luxembourg | Lopeseco",
+      "metaDescription": "Découvrez un meuble TV conçu selon l’agencement du salon, associant des finitions soignées et des rangements pratiques pour les équipements multimédias et les objets du quotidien.",
+      "h1": "Un meuble TV adapté au salon",
+      "h2": "Un mobilier pensé autour de l’espace et de l’écran",
+      "description": "Découvrez un meuble TV conçu selon l’agencement du salon, associant des finitions soignées et des rangements pratiques pour les équipements multimédias et les objets du quotidien.",
+      "cta": "Vous envisagez un projet similaire ? Contactez Lopeseco pour discuter d’une solution sur mesure.",
+      "projectName": "Un meuble TV adapté au salon",
+      "servicesValue": "Design d’intérieur et mobilier sur mesure",
+      "imageAlts": {
+        "alt1": "Projet de Un meuble TV adapté au salon au Luxembourg",
+        "alt2": "Un meuble TV adapté au salon sur mesure par Lopeseco",
+        "alt3": "Un meuble TV adapté au salon avec un agencement personnalisé",
+        "alt4": "Conception et mobilier sur mesure pour Un meuble TV adapté au salon",
+        "alt5": "Détail du projet de Un meuble TV adapté au salon"
+      }
+    },
+    "tvunit__wooden-tv-wall-design": {
+      "title": "Mur TV en bois | Lopeseco",
+      "metaDescription": "Ce projet de mur TV met le bois en valeur dans l’espace de vie et intègre la télévision à une composition d’ensemble réfléchie.",
+      "h1": "Un mur TV aux détails chaleureux en bois",
+      "h2": "Un point focal harmonieux pour le salon",
+      "description": "Ce projet de mur TV met le bois en valeur dans l’espace de vie et intègre la télévision à une composition d’ensemble réfléchie.",
+      "cta": "Vous envisagez un projet similaire ? Contactez Lopeseco pour discuter d’une solution sur mesure.",
+      "projectName": "Un mur TV aux détails chaleureux en bois",
+      "servicesValue": "Design d’intérieur et mobilier sur mesure",
+      "imageAlts": {
+        "alt1": "Projet de Un mur TV aux détails chaleureux en bois au Luxembourg",
+        "alt2": "Un mur TV aux détails chaleureux en bois sur mesure par Lopeseco",
+        "alt3": "Un mur TV aux détails chaleureux en bois avec un agencement personnalisé"
+      }
+    },
+    "tvunit__luxury-tvunit-design-luxembourg": {
+      "title": "Meuble TV haut de gamme au Luxembourg | Lopeseco",
+      "metaDescription": "Ce projet présente un meuble TV raffiné, conçu pour compléter le salon. Le mobilier associe une composition soignée à des rangements adaptés à l’espace.",
+      "h1": "Un meuble TV raffiné pour le salon",
+      "h2": "Du mobilier sur mesure aux finitions premium",
+      "description": "Ce projet présente un meuble TV raffiné, conçu pour compléter le salon. Le mobilier associe une composition soignée à des rangements adaptés à l’espace.",
+      "cta": "Vous envisagez un projet similaire ? Contactez Lopeseco pour discuter d’une solution sur mesure.",
+      "projectName": "Un meuble TV raffiné pour le salon",
+      "servicesValue": "Design d’intérieur et mobilier sur mesure",
+      "imageAlts": {
+        "alt1": "Projet de Un meuble TV raffiné pour le salon au Luxembourg",
+        "alt2": "Un meuble TV raffiné pour le salon sur mesure par Lopeseco",
+        "alt3": "Un meuble TV raffiné pour le salon avec un agencement personnalisé",
+        "alt4": "Conception et mobilier sur mesure pour Un meuble TV raffiné pour le salon",
+        "alt5": "Détail du projet de Un meuble TV raffiné pour le salon",
+        "alt6": "Aménagement intérieur et mobilier intégré pour Un meuble TV raffiné pour le salon"
+      }
+    },
+    "tvunit__custom-tv-wall-unit-luxembourg": {
+      "title": "Meuble mural TV sur mesure au Luxembourg | Lopeseco",
+      "metaDescription": "Ce meuble mural TV est conçu selon la pièce et les besoins multimédias, réunissant écran, mobilier et rangements dans un ensemble cohérent.",
+      "h1": "Un meuble mural TV fabriqué sur mesure",
+      "h2": "Une solution intégrée pour les équipements et le rangement",
+      "description": "Ce meuble mural TV est conçu selon la pièce et les besoins multimédias, réunissant écran, mobilier et rangements dans un ensemble cohérent.",
+      "cta": "Vous envisagez un projet similaire ? Contactez Lopeseco pour discuter d’une solution sur mesure.",
+      "projectName": "Un meuble mural TV fabriqué sur mesure",
+      "servicesValue": "Design d’intérieur et mobilier sur mesure",
+      "imageAlts": {
+        "alt1": "Projet de Un meuble mural TV fabriqué sur mesure au Luxembourg",
+        "alt2": "Un meuble mural TV fabriqué sur mesure sur mesure par Lopeseco",
+        "alt3": "Un meuble mural TV fabriqué sur mesure avec un agencement personnalisé"
+      }
+    },
+    "tvunit__living-room-tv-unit-design-luxembourg": {
+      "title": "Meuble TV de salon au Luxembourg | Lopeseco",
+      "metaDescription": "Ce projet de meuble TV équilibre la place de l’écran dans le salon avec des rangements et un mobilier adaptés aux proportions de la pièce.",
+      "h1": "Un meuble TV adapté à la vie quotidienne",
+      "h2": "Un point central pratique pour le salon",
+      "description": "Ce projet de meuble TV équilibre la place de l’écran dans le salon avec des rangements et un mobilier adaptés aux proportions de la pièce.",
+      "cta": "Vous envisagez un projet similaire ? Contactez Lopeseco pour discuter d’une solution sur mesure.",
+      "projectName": "Un meuble TV adapté à la vie quotidienne",
+      "servicesValue": "Design d’intérieur et mobilier sur mesure",
+      "imageAlts": {
+        "alt1": "Projet de Un meuble TV adapté à la vie quotidienne au Luxembourg",
+        "alt2": "Un meuble TV adapté à la vie quotidienne sur mesure par Lopeseco",
+        "alt3": "Un meuble TV adapté à la vie quotidienne avec un agencement personnalisé"
+      }
+    },
+    "tvunit__small-living-room-tv-unit-design": {
+      "title": "Meuble TV pour petit salon | Lopeseco",
+      "metaDescription": "Ce projet porte sur un meuble TV pour un salon de petite taille, en tenant compte des proportions, des rangements et d’un agencement qui préserve une sensation d’espace.",
+      "h1": "Un meuble TV pour les espaces compacts",
+      "h2": "Optimiser l’espace disponible avec soin",
+      "description": "Ce projet porte sur un meuble TV pour un salon de petite taille, en tenant compte des proportions, des rangements et d’un agencement qui préserve une sensation d’espace.",
+      "cta": "Vous envisagez un projet similaire ? Contactez Lopeseco pour discuter d’une solution sur mesure.",
+      "projectName": "Un meuble TV pour les espaces compacts",
+      "servicesValue": "Design d’intérieur et mobilier sur mesure",
+      "imageAlts": {
+        "alt1": "Projet de Un meuble TV pour les espaces compacts au Luxembourg",
+        "alt2": "Un meuble TV pour les espaces compacts sur mesure par Lopeseco",
+        "alt3": "Un meuble TV pour les espaces compacts avec un agencement personnalisé"
+      }
+    },
+    "tvunit__floor-to-ceiling-tv-storage-wall": {
+      "title": "Mur TV avec rangements du sol au plafond | Lopeseco",
+      "metaDescription": "Ce mur TV du sol au plafond associe l’espace télévision à des rangements hauts, en exploitant la hauteur dans un ensemble cohérent pour le salon.",
+      "h1": "Un mur TV et rangement sur toute la hauteur",
+      "h2": "Mieux exploiter l’espace vertical",
+      "description": "Ce mur TV du sol au plafond associe l’espace télévision à des rangements hauts, en exploitant la hauteur dans un ensemble cohérent pour le salon.",
+      "cta": "Vous envisagez un projet similaire ? Contactez Lopeseco pour discuter d’une solution sur mesure.",
+      "projectName": "Un mur TV et rangement sur toute la hauteur",
+      "servicesValue": "Design d’intérieur et mobilier sur mesure",
+      "imageAlts": {
+        "alt1": "Projet de Un mur TV et rangement sur toute la hauteur au Luxembourg",
+        "alt2": "Un mur TV et rangement sur toute la hauteur sur mesure par Lopeseco",
+        "alt3": "Un mur TV et rangement sur toute la hauteur avec un agencement personnalisé"
+      }
+    },
+    "tvunit__minimalist-living-room-design-luxembourg": {
+      "title": "Aménagement de salon minimaliste au Luxembourg | Lopeseco",
+      "metaDescription": "Ce projet de salon minimaliste privilégie les lignes épurées, les proportions équilibrées et un mobilier fonctionnel pour créer un intérieur calme et agréable.",
+      "h1": "Un salon minimaliste",
+      "h2": "Un espace harmonieux et apaisant au quotidien",
+      "description": "Ce projet de salon minimaliste privilégie les lignes épurées, les proportions équilibrées et un mobilier fonctionnel pour créer un intérieur calme et agréable.",
+      "cta": "Vous envisagez un projet similaire ? Contactez Lopeseco pour discuter d’une solution sur mesure.",
+      "projectName": "Un salon minimaliste",
+      "servicesValue": "Design d’intérieur et mobilier sur mesure",
+      "imageAlts": {
+        "alt1": "Projet de Un salon minimaliste au Luxembourg",
+        "alt2": "Un salon minimaliste sur mesure par Lopeseco",
+        "alt3": "Un salon minimaliste avec un agencement personnalisé",
+        "alt4": "Conception et mobilier sur mesure pour Un salon minimaliste"
+      }
+    },
+    "library__wooden-library-design-luxembourg": {
+      "title": "Bibliothèque en bois au Luxembourg | Lopeseco",
+      "metaDescription": "Ce projet de bibliothèque en bois met en valeur des étagères sur mesure et des matériaux chaleureux pour créer un espace pratique dédié aux livres et aux objets personnels.",
+      "h1": "Une bibliothèque mise en valeur par le bois",
+      "h2": "Des étagères sur mesure pour livres et objets précieux",
+      "description": "Ce projet de bibliothèque en bois met en valeur des étagères sur mesure et des matériaux chaleureux pour créer un espace pratique dédié aux livres et aux objets personnels.",
+      "cta": "Vous envisagez un projet similaire ? Contactez Lopeseco pour discuter d’une solution sur mesure.",
+      "projectName": "Une bibliothèque mise en valeur par le bois",
+      "servicesValue": "Design d’intérieur et mobilier sur mesure",
+      "imageAlts": {
+        "alt1": "Projet de Une bibliothèque mise en valeur par le bois au Luxembourg",
+        "alt2": "Une bibliothèque mise en valeur par le bois sur mesure par Lopeseco",
+        "alt3": "Une bibliothèque mise en valeur par le bois avec un agencement personnalisé",
+        "alt4": "Conception et mobilier sur mesure pour Une bibliothèque mise en valeur par le bois"
+      }
+    },
+    "library__custom-library-design-luxembourg": {
+      "title": "Bibliothèque sur mesure au Luxembourg | Lopeseco",
+      "metaDescription": "Ce projet de bibliothèque sur mesure propose des étagères adaptées à la pièce et à la collection, en associant rangement pratique et intégration à l’intérieur.",
+      "h1": "Une bibliothèque conçue autour de votre collection",
+      "h2": "Des étagères sur mesure pour votre intérieur",
+      "description": "Ce projet de bibliothèque sur mesure propose des étagères adaptées à la pièce et à la collection, en associant rangement pratique et intégration à l’intérieur.",
+      "cta": "Vous envisagez un projet similaire ? Contactez Lopeseco pour discuter d’une solution sur mesure.",
+      "projectName": "Une bibliothèque conçue autour de votre collection",
+      "servicesValue": "Design d’intérieur et mobilier sur mesure",
+      "imageAlts": {
+        "alt1": "Projet de Une bibliothèque conçue autour de votre collection au Luxembourg",
+        "alt2": "Une bibliothèque conçue autour de votre collection sur mesure par Lopeseco",
+        "alt3": "Une bibliothèque conçue autour de votre collection avec un agencement personnalisé",
+        "alt4": "Conception et mobilier sur mesure pour Une bibliothèque conçue autour de votre collection"
+      }
+    },
+    "library__minimalist-library-design": {
+      "title": "Bibliothèque minimaliste | Lopeseco",
+      "metaDescription": "Ce projet de bibliothèque minimaliste adopte une approche épurée des étagères et de l’agencement, pour intégrer naturellement livres et objets à l’intérieur.",
+      "h1": "Une bibliothèque minimaliste",
+      "h2": "Des étagères sobres et une composition équilibrée",
+      "description": "Ce projet de bibliothèque minimaliste adopte une approche épurée des étagères et de l’agencement, pour intégrer naturellement livres et objets à l’intérieur.",
+      "cta": "Vous envisagez un projet similaire ? Contactez Lopeseco pour discuter d’une solution sur mesure.",
+      "projectName": "Une bibliothèque minimaliste",
+      "servicesValue": "Design d’intérieur et mobilier sur mesure",
+      "imageAlts": {
+        "alt1": "Projet de Une bibliothèque minimaliste au Luxembourg",
+        "alt2": "Une bibliothèque minimaliste sur mesure par Lopeseco",
+        "alt3": "Une bibliothèque minimaliste avec un agencement personnalisé",
+        "alt4": "Conception et mobilier sur mesure pour Une bibliothèque minimaliste"
+      }
+    },
+    "kitchen__luxury-kitchen-design-luxembourg": {
+      "title": "Conception de cuisine haut de gamme au Luxembourg | Lopeseco",
+      "metaDescription": "Ce projet de cuisine associe une approche raffinée à un agencement conçu pour le quotidien. Lopeseco crée du mobilier de cuisine sur mesure et coordonne les finitions selon l’espace.",
+      "h1": "Une cuisine raffinée pensée pour vous",
+      "h2": "Des meubles sur mesure et un agencement réfléchi",
+      "description": "Ce projet de cuisine associe une approche raffinée à un agencement conçu pour le quotidien. Lopeseco crée du mobilier de cuisine sur mesure et coordonne les finitions selon l’espace.",
+      "cta": "Vous envisagez un projet similaire ? Contactez Lopeseco pour discuter d’une solution sur mesure.",
+      "projectName": "Une cuisine raffinée pensée pour vous",
+      "servicesValue": "Design d’intérieur et mobilier sur mesure",
+      "imageAlts": {
+        "alt1": "Projet de Une cuisine raffinée pensée pour vous au Luxembourg",
+        "alt2": "Une cuisine raffinée pensée pour vous sur mesure par Lopeseco",
+        "alt3": "Une cuisine raffinée pensée pour vous avec un agencement personnalisé",
+        "alt4": "Conception et mobilier sur mesure pour Une cuisine raffinée pensée pour vous",
+        "alt5": "Détail du projet de Une cuisine raffinée pensée pour vous",
+        "alt6": "Aménagement intérieur et mobilier intégré pour Une cuisine raffinée pensée pour vous",
+        "alt7": "Vue du projet de Une cuisine raffinée pensée pour vous par Lopeseco"
+      }
+    },
+    "kitchen__modern-open-kitchen-luxembourg": {
+      "title": "Cuisine ouverte moderne au Luxembourg | Lopeseco",
+      "metaDescription": "Ce projet de cuisine ouverte tient compte du lien entre la cuisine et les pièces de vie voisines, en associant un agencement pratique à des meubles et finitions coordonnés.",
+      "h1": "Une cuisine ouverte moderne",
+      "h2": "Un agencement qui relie cuisine et espace de vie",
+      "description": "Ce projet de cuisine ouverte tient compte du lien entre la cuisine et les pièces de vie voisines, en associant un agencement pratique à des meubles et finitions coordonnés.",
+      "cta": "Vous envisagez un projet similaire ? Contactez Lopeseco pour discuter d’une solution sur mesure.",
+      "projectName": "Une cuisine ouverte moderne",
+      "servicesValue": "Design d’intérieur et mobilier sur mesure",
+      "imageAlts": {
+        "alt1": "Projet de Une cuisine ouverte moderne au Luxembourg",
+        "alt2": "Une cuisine ouverte moderne sur mesure par Lopeseco",
+        "alt3": "Une cuisine ouverte moderne avec un agencement personnalisé",
+        "alt4": "Conception et mobilier sur mesure pour Une cuisine ouverte moderne",
+        "alt5": "Détail du projet de Une cuisine ouverte moderne",
+        "alt6": "Aménagement intérieur et mobilier intégré pour Une cuisine ouverte moderne",
+        "alt7": "Vue du projet de Une cuisine ouverte moderne par Lopeseco",
+        "alt8": "Solutions de mobilier sur mesure pour Une cuisine ouverte moderne",
+        "alt9": "Projet de Une cuisine ouverte moderne au Luxembourg"
+      }
+    },
+    "kitchen__high-end-kitchen-design-luxembourg": {
+      "title": "Conception de cuisine haut de gamme au Luxembourg | Lopeseco",
+      "metaDescription": "Ce projet de cuisine haut de gamme met l’accent sur l’association des meubles, des finitions et de l’agencement pour créer une cuisine cohérente et adaptée à l’espace.",
+      "h1": "Une cuisine aux finitions premium",
+      "h2": "Des meubles sur mesure pour un intérieur harmonieux",
+      "description": "Ce projet de cuisine haut de gamme met l’accent sur l’association des meubles, des finitions et de l’agencement pour créer une cuisine cohérente et adaptée à l’espace.",
+      "cta": "Vous envisagez un projet similaire ? Contactez Lopeseco pour discuter d’une solution sur mesure.",
+      "projectName": "Une cuisine aux finitions premium",
+      "servicesValue": "Design d’intérieur et mobilier sur mesure",
+      "imageAlts": {
+        "alt1": "Projet de Une cuisine aux finitions premium au Luxembourg",
+        "alt2": "Une cuisine aux finitions premium sur mesure par Lopeseco",
+        "alt3": "Une cuisine aux finitions premium avec un agencement personnalisé",
+        "alt4": "Conception et mobilier sur mesure pour Une cuisine aux finitions premium",
+        "alt5": "Détail du projet de Une cuisine aux finitions premium"
+      }
+    },
+    "kitchen__small-kitchen-space-optimization": {
+      "title": "Optimisation d’une petite cuisine | Lopeseco",
+      "metaDescription": "Ce projet explore des solutions pour rendre une petite cuisine plus fonctionnelle grâce à un agencement réfléchi et des rangements adaptés, en optimisant l’espace disponible.",
+      "h1": "Mieux exploiter une petite cuisine",
+      "h2": "Un aménagement pratique pour les espaces compacts",
+      "description": "Ce projet explore des solutions pour rendre une petite cuisine plus fonctionnelle grâce à un agencement réfléchi et des rangements adaptés, en optimisant l’espace disponible.",
+      "cta": "Vous envisagez un projet similaire ? Contactez Lopeseco pour discuter d’une solution sur mesure.",
+      "projectName": "Mieux exploiter une petite cuisine",
+      "servicesValue": "Design d’intérieur et mobilier sur mesure",
+      "imageAlts": {
+        "alt1": "Projet de Mieux exploiter une petite cuisine au Luxembourg",
+        "alt2": "Mieux exploiter une petite cuisine sur mesure par Lopeseco",
+        "alt3": "Mieux exploiter une petite cuisine avec un agencement personnalisé",
+        "alt4": "Conception et mobilier sur mesure pour Mieux exploiter une petite cuisine",
+        "alt5": "Détail du projet de Mieux exploiter une petite cuisine"
+      }
+    },
+    "kitchen__black-luxury-kitchen-design": {
+      "title": "Cuisine noire haut de gamme | Lopeseco",
+      "metaDescription": "Ce projet de cuisine noire explore une palette affirmée et raffinée dans un agencement fonctionnel, avec des meubles et finitions coordonnés à l’intérieur.",
+      "h1": "Une cuisine noire aux finitions raffinées",
+      "h2": "Une palette affirmée dans un agencement fonctionnel",
+      "description": "Ce projet de cuisine noire explore une palette affirmée et raffinée dans un agencement fonctionnel, avec des meubles et finitions coordonnés à l’intérieur.",
+      "cta": "Vous envisagez un projet similaire ? Contactez Lopeseco pour discuter d’une solution sur mesure.",
+      "projectName": "Une cuisine noire aux finitions raffinées",
+      "servicesValue": "Design d’intérieur et mobilier sur mesure",
+      "imageAlts": {
+        "alt1": "Projet de Une cuisine noire aux finitions raffinées au Luxembourg",
+        "alt2": "Une cuisine noire aux finitions raffinées sur mesure par Lopeseco",
+        "alt3": "Une cuisine noire aux finitions raffinées avec un agencement personnalisé",
+        "alt4": "Conception et mobilier sur mesure pour Une cuisine noire aux finitions raffinées",
+        "alt5": "Détail du projet de Une cuisine noire aux finitions raffinées",
+        "alt6": "Aménagement intérieur et mobilier intégré pour Une cuisine noire aux finitions raffinées",
+        "alt7": "Vue du projet de Une cuisine noire aux finitions raffinées par Lopeseco"
+      }
+    },
+    "kitchen__handleless-kitchen-design-luxembourg": {
+      "title": "Cuisine sans poignées au Luxembourg | Lopeseco",
+      "metaDescription": "Ce projet de cuisine sans poignées privilégie une apparence épurée et un agencement cohérent, en associant des meubles intégrés à une cuisine pratique.",
+      "h1": "Une cuisine sans poignées aux lignes épurées",
+      "h2": "Des surfaces nettes et un aspect intégré",
+      "description": "Ce projet de cuisine sans poignées privilégie une apparence épurée et un agencement cohérent, en associant des meubles intégrés à une cuisine pratique.",
+      "cta": "Vous envisagez un projet similaire ? Contactez Lopeseco pour discuter d’une solution sur mesure.",
+      "projectName": "Une cuisine sans poignées aux lignes épurées",
+      "servicesValue": "Design d’intérieur et mobilier sur mesure",
+      "imageAlts": {
+        "alt1": "Projet de Une cuisine sans poignées aux lignes épurées au Luxembourg",
+        "alt2": "Une cuisine sans poignées aux lignes épurées sur mesure par Lopeseco",
+        "alt3": "Une cuisine sans poignées aux lignes épurées avec un agencement personnalisé",
+        "alt4": "Conception et mobilier sur mesure pour Une cuisine sans poignées aux lignes épurées",
+        "alt5": "Détail du projet de Une cuisine sans poignées aux lignes épurées",
+        "alt6": "Aménagement intérieur et mobilier intégré pour Une cuisine sans poignées aux lignes épurées",
+        "alt7": "Vue du projet de Une cuisine sans poignées aux lignes épurées par Lopeseco"
+      }
+    },
+    "kitchen__minimalist-kitchen-design-luxembourg": {
+      "title": "Cuisine minimaliste au Luxembourg | Lopeseco",
+      "metaDescription": "Ce projet de cuisine minimaliste privilégie la simplicité, des proportions équilibrées et des meubles pratiques pour créer un intérieur fonctionnel à l’esthétique épurée.",
+      "h1": "Une cuisine minimaliste",
+      "h2": "Un agencement clair et des détails discrets",
+      "description": "Ce projet de cuisine minimaliste privilégie la simplicité, des proportions équilibrées et des meubles pratiques pour créer un intérieur fonctionnel à l’esthétique épurée.",
+      "cta": "Vous envisagez un projet similaire ? Contactez Lopeseco pour discuter d’une solution sur mesure.",
+      "projectName": "Une cuisine minimaliste",
+      "servicesValue": "Design d’intérieur et mobilier sur mesure",
+      "imageAlts": {
+        "alt1": "Projet de Une cuisine minimaliste au Luxembourg",
+        "alt2": "Une cuisine minimaliste sur mesure par Lopeseco",
+        "alt3": "Une cuisine minimaliste avec un agencement personnalisé",
+        "alt4": "Conception et mobilier sur mesure pour Une cuisine minimaliste",
+        "alt5": "Détail du projet de Une cuisine minimaliste",
+        "alt6": "Aménagement intérieur et mobilier intégré pour Une cuisine minimaliste"
+      }
+    },
+    "kitchen__custom-kitchen-luxembourg": {
+      "title": "Cuisine sur mesure au Luxembourg | Lopeseco",
+      "metaDescription": "Ce projet de cuisine sur mesure est conçu selon la pièce, les usages quotidiens et les besoins de rangement. Lopeseco réalise des meubles adaptés et des finitions coordonnées pour un résultat harmonieux.",
+      "h1": "Une cuisine conçue sur mesure",
+      "h2": "Du mobilier adapté à vos besoins",
+      "description": "Ce projet de cuisine sur mesure est conçu selon la pièce, les usages quotidiens et les besoins de rangement. Lopeseco réalise des meubles adaptés et des finitions coordonnées pour un résultat harmonieux.",
+      "cta": "Vous envisagez un projet similaire ? Contactez Lopeseco pour discuter d’une solution sur mesure.",
+      "projectName": "Une cuisine conçue sur mesure",
+      "servicesValue": "Design d’intérieur et mobilier sur mesure",
+      "imageAlts": {
+        "alt1": "Projet de Une cuisine conçue sur mesure au Luxembourg",
+        "alt2": "Une cuisine conçue sur mesure sur mesure par Lopeseco",
+        "alt3": "Une cuisine conçue sur mesure avec un agencement personnalisé",
+        "alt4": "Conception et mobilier sur mesure pour Une cuisine conçue sur mesure",
+        "alt5": "Détail du projet de Une cuisine conçue sur mesure",
+        "alt6": "Aménagement intérieur et mobilier intégré pour Une cuisine conçue sur mesure",
+        "alt7": "Vue du projet de Une cuisine conçue sur mesure par Lopeseco",
+        "alt8": "Solutions de mobilier sur mesure pour Une cuisine conçue sur mesure"
+      }
+    }
+  }
 }
