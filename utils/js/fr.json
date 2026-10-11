@@ -18,7 +18,14 @@
     "aboutCompany": "À propos de l'entreprise",
     "weDesignSpacesTitle": "Nous concevons des espaces qui inspirent.",
     "weDesignSpacesSubtitle": "Basé au Luxembourg, notre studio de design allie architecture, design et savoir-faire artisanal pour créer des intérieurs à la fois fonctionnels et intemporels.",
-    "weDesignSpacesDescription": "Du <span class='text-black font-weight-600'>mobilier sur mesure</span> et des cuisines conçues sur mesure aux chambres d’enfants, salles de bains, dressings et solutions de rangement intelligentes, nous donnons vie à des idées créatives avec précision et soin. Nous concevons et installons également des <span class='text-black font-weight-600'>parquets en bois</span>, des <span class='text-black font-weight-600'>portes intérieures</span> et réalisons des <span class='text-black font-weight-600'>rénovations complètes</span> de A à Z. Nos travaux couvrent aussi bien des résidences privées que des projets professionnels, toujours adaptés aux besoins et au style de vie de nos clients."
+    "weDesignSpacesDescription": "Du <span class='text-black font-weight-600'>mobilier sur mesure</span> et des cuisines conçues sur mesure aux chambres d’enfants, salles de bains, dressings et solutions de rangement intelligentes, nous donnons vie à des idées créatives avec précision et soin. Nous concevons et installons également des <span class='text-black font-weight-600'>parquets en bois</span>, des <span class='text-black font-weight-600'>portes intérieures</span> et réalisons des <span class='text-black font-weight-600'>rénovations complètes</span> de A à Z. Nos travaux couvrent aussi bien des résidences privées que des projets professionnels, toujours adaptés aux besoins et au style de vie de nos clients.",
+    "servicesTitle": "Nos services",
+    "servicesDescription": "Basé au Luxembourg, Lopeseco est spécialisé en architecture d’intérieur, mobilier sur mesure et menuiserie personnalisée. Des cuisines aux dressings, en passant par la rénovation complète de votre intérieur, nous créons des espaces fonctionnels et personnalisés, avec une attention particulière portée à chaque détail.",
+    "servicesList": {
+      "service1": "Mobilier sur mesure et architecture d’intérieur au Luxembourg",
+      "service2": "Cuisines sur mesure, mobilier personnalisé et dressings",
+      "service3": "Rénovation, transformation intérieure et solutions d’aménagement clés en main"
+    }
   },
   "aboutPage": {
     "pageTitle": "Mobilier sur mesure, menuiserie et décoration d'intérieur Luxembourg | Lopeseco",
@@ -38,7 +45,8 @@
     "deadlineCommitmentTitle": "Engagement de délai",
     "deadlineCommitmentDescription": "Réaliser les projets dans les délais et le budget impartis tout en maintenant une qualité exceptionnelle.",
     "ourOffice": "Notre bureau",
-    "exploreOurProjects": "Explorez nos <a href='/portfolio/'>projets de meubles sur mesure</a> ou <a href='/contact/'>contactez-nous</a> pour discuter de votre projet."
+    "exploreOurProjects": "Explorez nos <a href='/portfolio/'>projets de meubles sur mesure</a> ou <a href='/contact/'>contactez-nous</a> pour discuter de votre projet.",
+    "ourOfficeDescription": "Située à Bivange, au Luxembourg, notre équipe de designers et de menuisiers professionnels vous accueille pour discuter de vos idées, de vos besoins et de votre budget. Ensemble, nous trouvons les solutions les plus adaptées, en alliant design réfléchi, fonctionnalité et savoir-faire artisanal. Des cuisines et dressings sur mesure aux meubles TV, solutions de rangement, meubles de salle de bains et mobilier d’entrée, nous concevons des aménagements personnalisés qui s’adaptent à votre espace et à votre mode de vie."
   },
   "teamPage": {
     "pageTitle": "Équipe de design d'intérieur et de menuiserie Luxembourg | Lopeseco",
@@ -180,7 +188,7 @@
   "legalInfo": "© 2025 Lopeseco Design Studio s.a.r.l / informations légales",
   "here": "ici",
   "poweredBy": "Développé par Seda Gulkesen Lopeseco",
-  "pageTitle": "Mobilier sur mesure, menuiserie et décoration d'intérieur Luxembourg | Lopeseco",
+  "pageTitle": "À propos de Lopeseco | Notre équipe de designers et menuisiers au Luxembourg",
   "bathroomProjects": {
     "modernStorage": {
       "title": "Rangements et meubles de salle de bains sur mesure au Luxembourg | Lopeseco",

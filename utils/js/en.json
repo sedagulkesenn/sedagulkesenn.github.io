@@ -18,10 +18,17 @@
     "aboutCompany": "About Company",
     "weDesignSpacesTitle": "We design spaces that inspire.",
     "weDesignSpacesSubtitle": "Based in Luxembourg, our design studio brings together architecture, design and craftsmanship to create interiors that are both functional and timeless.",
-    "weDesignSpacesDescription": "From <span class='text-black font-weight-600'>custom-made furniture</span> and tailor-designed kitchens to kids’ rooms, bathrooms, dressing areas and smart storage solutions, we bring creative ideas to life with precision and care. We also design and install <span class='text-black font-weight-600'>wood floors</span>, interior <span class='text-black font-weight-600'>doors</span> and carry out complete <span class='text-black font-weight-600'>renovations</span> from start to finish. Our work spans private residences as well as business projects, always tailored to the needs and lifestyle of our clients."
+    "weDesignSpacesDescription": "From <span class='text-black font-weight-600'>custom-made furniture</span> and tailor-designed kitchens to kids’ rooms, bathrooms, dressing areas and smart storage solutions, we bring creative ideas to life with precision and care. We also design and install <span class='text-black font-weight-600'>wood floors</span>, interior <span class='text-black font-weight-600'>doors</span> and carry out complete <span class='text-black font-weight-600'>renovations</span> from start to finish. Our work spans private residences as well as business projects, always tailored to the needs and lifestyle of our clients.",
+    "servicesTitle": "Our Services",
+    "servicesDescription": "Based in Luxembourg, Lopeseco specialises in interior design, bespoke furniture and custom carpentry. From kitchens and dressing rooms to complete home renovations, we create functional, personalised spaces with attention to every detail.",
+    "servicesList": {
+      "service1": "Custom Furniture & Interior Design in Luxembourg",
+      "service2": "Custom Kitchens, Tailored Furniture & Dressing Rooms",
+      "service3": "Renovation, home makeovers and turnkey interior solutions"
+    }
   },
   "aboutPage": {
-    "pageTitle": "Custom Furniture, Carpentry & Interior Design Luxembourg | Lopeseco",
+    "pageTitle": "About Lopeseco | Our Design & Carpentry Team in Luxembourg",
     "aboutDescription": "Lopeseco Design Studio, led by André Lopeseco, specializes in custom furniture, carpentry and interior design in Luxembourg. We design and create bespoke kitchens, wardrobes, dressing rooms, bathrooms and complete interior solutions tailored to each client..",
     "unityIsStrength": "Unity is strength...",
     "aboutCompany": "Through teamwork and shared vision, Lopeseco Design Studio elevates every project into something truly exceptional.",
@@ -38,7 +45,8 @@
     "deadlineCommitmentTitle": "Deadline Commitment",
     "deadlineCommitmentDescription": "Delivering projects on time and within budget while maintaining exceptional quality.",
     "ourOffice": "Our office",
-    "exploreOurProjects": "Explore our <a href='/portfolio/'>custom furniture projects</a> or <a href='/contact/'>contact us</a> to discuss your project."
+    "exploreOurProjects": "Explore our <a href='/portfolio/'>custom furniture projects</a> or <a href='/contact/'>contact us</a> to discuss your project.",
+    "ourOfficeDescription": "Located in Bivange, Luxembourg, our team of professional designers and carpenters welcomes you to discuss your ideas, needs and budget. Together, we find the right solutions, combining thoughtful design, functionality and expert craftsmanship. From custom kitchens and dressing rooms to TV units, storage solutions, bathroom furniture and hallway furniture, we create tailored interiors that suit your space and lifestyle."
   },
   "teamPage": {
     "pageTitle": "Interior Design & Carpentry Team Luxembourg | Lopeseco",
@@ -180,7 +188,7 @@
   "legalInfo": "© 2025 Lopeseco Design Studio s.a.r.l/ legal information",
   "here": "here",
   "poweredBy": "Powered by Seda Gulkesen Lopeseco",
-  "pageTitle": "Custom Furniture, Carpentry & Interior Design Luxembourg | Lopeseco",
+  "pageTitle": "Custom Furniture & Interior Design in Luxembourg | Lopeseco",
   "bathroomProjects": {
     "modernStorage": {
       "title": "Custom Bathroom Storage & Furniture in Luxembourg | Lopeseco",
